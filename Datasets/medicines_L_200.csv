@@ -1,0 +1,201 @@
+id,name,price(₹),Is_discontinued,manufacturer_name,type,pack_size_label,short_composition1,short_composition2
+131670,L Aspinase 5000IU Injection,978.2,False,RPG Life Sciences Ltd,allopathy,vial of 1 Injection,Asparaginase (5000IU),
+122912,Lorate 10mg Tablet,36.0,False,Pifer Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Loratadine (10mg),
+130414,Lulisut Cream,240.0,False,Monsut Chem Industries,allopathy,tube of 30 gm Cream,Luliconazole (1% w/w),
+121150,Ludura Cream,266.2,False,Cipla Ltd,allopathy,tube of 20 gm Cream,Luliconazole (1% w/w),
+126321,Levostar D 5mg/10mg Tablet,40.0,False,Intra Labs India Pvt Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Phenylephrine (10mg)
+123658,Levoford 500mg Tablet,81.98,False,Roussel Laboratories Pvt Ltd,allopathy,strip of 10 tablets,Levofloxacin (500mg),
+127620,Litrapen 0.5mg/10mg Tablet,85.0,False,Captab Biotec,allopathy,strip of 10 tablets,Flupenthixol (0.5mg) , Escitalopram Oxalate (10mg)
+123103,Lee 5mg Tablet,36.35,False,Merkury Arena Labs,allopathy,strip of 10 tablets,Levocetirizine (5mg),
+129609,Locopan D 30mg/40mg Capsule SR,110.0,False,Loco Healthcare Pvt Ltd,allopathy,strip of 10 capsule sr,Domperidone (30mg) , Pantoprazole (40mg)
+133321,Levoraj OZ 250mg/500mg Tablet,85.0,False,Zenstar Life Sciences,allopathy,strip of 10 tablets,Levofloxacin (250mg) , Ornidazole (500mg)
+127548,Lcef O 200mg/200mg Tablet,159.9,False,Dr Arvind Lifescience Pvt Ltd,allopathy,strip of 10 tablets,Cefixime (200mg) , Ofloxacin (200mg)
+122782,Levopride 500mg Tablet,70.0,False,Innovative Pharmaceuticals,allopathy,strip of 10 tablets,Levofloxacin (500mg),
+127715,Levesam XR 1gm Tablet,543.96,False,Abbott,allopathy,strip of 15 tablet xr,Levetiracetam (1000mg),
+122757,Leed M Tablet,89.0,False,Idol Biotech,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Montelukast (10mg)
+121417,Lupihist DM  Syrup,79.7,False,Lupin Ltd,allopathy,bottle of 100 ml Syrup,Phenylephrine (5mg/5ml) , Chlorpheniramine Maleate (2mg/5ml) 
+133243,Lapan IT 40mg/150mg Capsule,155.0,False,Labcorp India Pvt Ltd,allopathy,strip of 10 capsules,Pantoprazole (40mg) , Itopride (150mg)
+122148,Lotridrem Cream,54.75,False,Fulford India Ltd,allopathy,tube of 10 gm Cream,Clotrimazole (NA),
+127540,Lorsun P 4 mg/500 mg Tablet,79.92,False,Sundyota Numandis Probioceuticals Pvt Ltd,allopathy,strip of 10 tablets,Lornoxicam (4mg) , Paracetamol (500mg)
+132872,Lorempar MR 250mg/50mg/325mg Tablet,90.0,False,Loremchem Pharmaceutical,allopathy,strip of 10 tablets,Chlorzoxazone (250mg) , Diclofenac (50mg) 
+128268,Lulisen 1% Cream,168.0,False,Senen Biotech,allopathy,tube of 15 gm Cream,Luliconazole (1% w/w),
+127658,Livarc 250mg Tablet,44.6,False,Pinarc Life Sciences,allopathy,strip of 10 tablets,Levofloxacin (250mg),
+125979,Lexime 200mg Tablet,26.0,False,Lexus Organics,allopathy,strip of 10 tablets,Cefixime (200mg),
+127222,Lamik 500mg Injection,59.0,False,Lanark Laboratories Pvt Ltd,allopathy,vial of 2 ml Injection,Amikacin (500mg),
+130852,L-Mox-D 250mg/250mg Capsule,59.9,False,LeeMed Pharmaceuticals,allopathy,strip of 10 capsules,Amoxycillin (250mg) , Dicloxacillin (250mg)
+130641,Luvo 500mg Tablet,40.0,False,Reco Drugs,allopathy,strip of 10 tablets,Levofloxacin (500mg),
+124892,Luwill 1% Cream,195.0,False,Will Impex,allopathy,tube of 15 gm Cream,Luliconazole (1% w/w),
+131991,Lacofen R 200mg/20mg Tablet,95.0,False,Mediyork Pharma Pvt Ltd,allopathy,strip of 10 tablets,Aceclofenac (200mg) , Rabeprazole (20mg)
+128054,Lotherma N 100mg/500mg Tablet,29.5,False,Novakind Bioscience Pvt Ltd,allopathy,strip of 10 tablets,Nimesulide (100mg) , Paracetamol (500mg)
+128270,Luxicot Cream,75.0,False,Luxica Pharma Inc.,allopathy,tube of 10 gm Cream,Hydrocortisone (1% w/w),
+129096,Lineuron Plus 750mcg/75mg Injection,20.0,False,Lee Benz Life Science,allopathy,vial of 1 Injection,Methylcobalamin (750mcg) , Pregabalin (75mg)
+133154,Lavizone SB 1000mg/500mg Injection,274.0,False,Lavish Biotech,allopathy,vial of 1 Injection,Cefoperazone (1000mg) , Sulbactam (500mg)
+126196,Livcilno M 10mg/25mg Tablet ER,110.0,False,Daylon Healthcare,allopathy,strip of 10 tablet er,Cilnidipine (10mg) , Metoprolol Succinate (25mg)
+128121,Livolix 5mg Tablet,32.0,False,Spark Bless Pharma,allopathy,strip of 10 tablets,Levocetirizine (5mg),
+133012,Levoraj OZ Oral Suspension,54.0,False,Zenstar Life Sciences,allopathy,bottle of 30 ml Oral Suspension,Levofloxacin (125mg) , Ornidazole (125mg)
+124378,Loract 2mg Tablet,25.0,False,Suraksha Pharma Pvt Ltd,allopathy,strip of 10 tablets,Lorazepam (2mg),
+133296,Levtrox S 500mg/250mg Injection,75.0,False,Levent Biotech Pvt Ltd,allopathy,vial of 1 Injection,Ceftriaxone (500mg) , Sulbactam (250mg)
+121878,Lisani M 5mg/10mg Tablet,129.0,False,CNX Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Montelukast (10mg)
+127328,Lappi D 10mg/20mg Capsule,49.0,False,Meditek India,allopathy,strip of 10 capsules,Domperidone (10mg) , Omeprazole (20mg)
+121011,Lupi-HMG 150 Injection,1718.6,False,Lupin Ltd,allopathy,vial of 1 Injection,Menotrophin (150i.u),
+121537,Lulibol  Cream,40.0,False,Zeelab Pharmacy Pvt Ltd,allopathy,tube of 30 gm Cream,Luliconazole (1% w/w),
+128868,Lucanderm 1% Lotion,170.0,False,Aldrin Pharma Pvt Ltd,allopathy,bottle of 30 ml Lotion,Luliconazole (1% w/v),
+121517,Levoxin 500mg Tablet,65.4,False,P R G Pharma Pvt Ltd,allopathy,strip of 10 tablets,Levofloxacin (500mg),
+124606,Lenced 10mg Capsule,3195.0,False,Zydus Cadila,allopathy,strip of 10 capsules,Lenvatinib (10mg),
+132439,Logidec-S Tablet,65.0,False,Apikos Pharma,allopathy,strip of 10 tablets,Diclofenac (50mg) , Serratiopeptidase (10mg)
+128672,Lorfen AM Syrup,35.0,False,Suzikem Drugs Pvt Ltd,allopathy,bottle of 60 ml Syrup,Loratadine (5mg) , Guaifenesin (50mg) 
+129761,Levotra-A 5mg/60mg Tablet,45.0,False,Azine Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Ambroxol (60mg)
+123507,Lone O Injection,75.0,False,Phoenix Biotech,allopathy,vial of 1 Injection,Methylcobalamin (1000mcg) , Vitamin B6 (Pyridoxine) (100mg) 
+124822,Laxihusk Granules,198.0,False,UTH Healthcare,allopathy,sachet of 150 gm Granules,Lactitol (10gm) , Ispaghula (3.5gm)
+122291,Larentine 10 Tablet,154.0,False,La Renon Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Memantine (10mg),
+129817,Levostal L Tablet,100.0,False,Stallion Laboratories Pvt Ltd,allopathy,strip of 10 tablets,Levofloxacin (500mg),
+132154,Lomasar 50mg Tablet,66.0,False,Research Medicure Pvt Ltd,allopathy,strip of 10 tablets,Losartan (50mg),
+129417,LD Statin 20mg Tablet,79.0,False,Forein Life Sciences Pvt Ltd,allopathy,strip of 10 tablets,Atorvastatin (20mg),
+123748,Lilly 5mg Tablet,28.0,False,Hosta Labs,allopathy,strip of 10 tablets,Levocetirizine (5mg),
+132152,Livoza 500mg Tablet,79.0,False,Pramukh Swami Pharma Ltd,allopathy,strip of 10 tablets,Levofloxacin (500mg),
+123133,Levoter M Kid Syrup,70.0,False,Bluewaterresearch,allopathy,bottle of 60 ml Syrup,Levocetirizine (2.5mg) , Montelukast (4mg)
+130728,L Nitizine M Kid Syrup,72.0,False,Wood Rock Healthcare Pvt Ltd,allopathy,bottle of 60 ml Syrup,Levocetirizine (2.5mg) , Montelukast (4mg)
+123677,Lovolkem OZ 250 mg/500 mg Tablet,47.5,False,Alkem Laboratories Ltd,allopathy,strip of 6 tablets,Levofloxacin (250mg) , Ornidazole (500mg)
+132817,Laxmo 4mg Tablet,38.0,False,Asterisk Laboratories India Pvt Ltd,allopathy,strip of 10 tablets,Lornoxicam (4mg),
+127749,Liverab 20mg Injection,72.0,False,Alive Healthcare,allopathy,vial of 1 Injection,Rabeprazole (20mg),
+125813,Lazart 40mg Tablet,48.35,False,BRD MediLabs,allopathy,strip of 10 tablets,Telmisartan (40mg),
+130711,Laz Plus 100 mg/125 mg Tablet,99.0,False,Hetero Drugs Ltd,allopathy,strip of 10 tablets,Cefixime (100mg) , Azithromycin (125mg)
+129962,Lulikav 1% Cream,179.0,False,Kav Laboratories,allopathy,tube of 15 gm Cream,Luliconazole (1% w/w),
+129184,Leox 500mg Tablet,100.12,False,Trident Pharma,allopathy,strip of 10 tablets,Levofloxacin (500mg),
+130048,Lxgard 500 Tablet,79.0,False,Lxir Medilabs Pvt Ltd,allopathy,strip of 10 tablets,Levofloxacin (500mg),
+129042,Licox 500mg/125mg Tablet,134.5,False,MDC Pharmaceuticals  Pvt Ltd,allopathy,strip of 6 tablets,Amoxycillin  (500mg) ,  Clavulanic Acid (125mg)
+130199,Lotpol AT 50mg/50mg Tablet,108.0,False,Precise Lifescience,allopathy,strip of 10 tablets,Atenolol (50mg) , Losartan (50mg)
+132238,Levolog 250mg Tablet,45.0,False,Logos Pharma,allopathy,strip of 10 tablets,Levofloxacin (250mg),
+124666,Lirium 10 Tablet,30.0,False,Quintus Lifesciences Pvt Ltd,allopathy,strip of 10 tablets,Chlordiazepoxide (10mg),
+121786,Linotril 0.25mg Tablet,20.3,False,Linux Laboratories,allopathy,strip of 10 tablets,Clonazepam (0.25mg),
+129592,Leozrin M 5mg/10mg Tablet,110.0,False,Arkle Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Montelukast (10mg)
+127696,Lycocin 500mg Injection,75.0,False,Medrock Biotech,allopathy,vial of 1 Injection,Amikacin (500mg),
+127459,Libacef 125mg Oral Suspension,175.0,False,Libra Drugs  India,allopathy,bottle of 30 ml Oral Suspension,Cefuroxime (125mg),
+131783,Lorvaz H 50mg/12.5mg Tablet,62.0,False,Edinburgh Pharmaceuticals,allopathy,strip of 10 tablets,Losartan (50mg) , Hydrochlorothiazide (12.5mg)
+121815,Lanzol 15mg Capsule,52.5,True,Cipla Ltd,allopathy,strip of 10 capsules,Lansoprazole (15mg),
+127909,Lipifol 10mg Tablet,50.0,False,Meyer Organics Pvt Ltd,allopathy,strip of 10 tablets,Atorvastatin (10mg),
+126750,Leoquin 250mg Tablet,43.88,False,Zoic Lifesciences,allopathy,strip of 10 tablets,Levofloxacin (250mg),
+132938,Levodius OZ 250mg/500mg Tablet,92.0,False,Alardius Healthcare,allopathy,strip of 10 tablets,Levofloxacin (250mg) , Ornidazole (500mg)
+122533,Lupisulide Tablet,47.25,False,Lupin Ltd,allopathy,strip of 15 tablets,Nimesulide (100mg),
+127974,Lamonin 0.25mg Tablet,15.0,False,Tas Med India Pvt Ltd,allopathy,strip of 10 tablets,Melatonin (0.25mg),
+121604,Levomont 5 mg/10 mg Tablet,104.5,True,Med Manor Organics Pvt Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Montelukast (10mg)
+125891,Lotcetam 500mg Tablet,124.0,False,Sarcoma Remedies Pvt Ltd,allopathy,strip of 10 tablets,Levetiracetam (500mg),
+126142,Leevia Met 850mg/50mg Tablet,309.0,False,Johnlee Pharmaceuticals Pvt Ltd,allopathy,strip of 15 tablets,Metformin  (850mg) ,  Vildagliptin (50mg)
+123276,Lecit M 5mg/10mg Tablet,90.0,False,Cablin Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Montelukast (10mg)
+128531,Lucasazol 1% Cream,233.0,False,Medicasa Pharmaceutical,allopathy,tube of 20 gm Cream,Luliconazole (1% w/w),
+124955,Libmet 50mg Tablet XL,55.0,False,Daffohils Laboratories Pvt Ltd,allopathy,strip of 10 tablet xl,Metoprolol Succinate (50mg),
+128596,Levox 500mg Tablet,72.0,False,Sanko Biotech,allopathy,strip of 10 tablets,Levofloxacin (500mg),
+128756,Levobless M 5mg/10mg Tablet,90.0,False,Eros Pharmaceuticals,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Montelukast (10mg)
+130647,Lethox 250mg Tablet,59.8,False,Biochemix Health Care Pvt. Ltd.,allopathy,strip of 6 tablets,Azithromycin (250mg),
+129481,Lipride 1 Tablet,37.74,False,Akcent Healthcare,allopathy,strip of 10 tablets,Glimepiride (1mg),
+129463,Lewis 250mg Tablet,50.0,False,Morgen Healthcare,allopathy,strip of 10 tablets,Levofloxacin (250mg),
+133227,Lavipipera TZ 2000mg/250mg Injection,260.0,False,Lavish Biotech,allopathy,vial of 1 Injection,Piperacillin (2000mg) , Tazobactum (250mg)
+127278,Leps 200mg/87mg Tablet CR,59.0,False,Olcare Laboratories,allopathy,strip of 10 tablet cr,Sodium Valproate (200mg) , Valproic Acid (87mg)
+125966,Lexin 5mg Syrup,31.0,False,Senate Laboratories,allopathy,bottle of 30 ml Syrup,Levocetirizine (5mg),
+121935,Lasma 5 Tablet MD,85.7,True,Apex Laboratories Pvt Ltd,allopathy,strip of 10 tablet md,Montelukast (5mg),
+131121,Lemcort 200mg Injection,70.0,False,Lemford Biotech Pvt Ltd,allopathy,vial of 1 Injection,Hydrocortisone (200mg),
+130207,Levo 4U-M  Tablet,110.0,False,Alter Ego Pharmaceuticals,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Montelukast (10mg)
+129061,Lenzal 30mg Capsule,49.0,False,Hallmark Formulations Pharmaceuticals,allopathy,strip of 10 capsules,Lansoprazole (30mg),
+122144,Levmont 5mg/10mg Tablet,78.0,False,Symbiosis Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Montelukast (10mg)
+129090,Lezkast-M Tablet,110.0,False,Stenhill Labs,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Montelukast (10mg)
+124961,Livtec 140mg Tablet,84.97,False,Ampus Life Sciences Ltd,allopathy,strip of 10 tablets,Silymarin (140mg),
+123288,Liftopram 10 Tablet,88.81,False,Spansa Pharmaceuticals Pvt. Ltd.,allopathy,strip of 10 tablets,Escitalopram Oxalate (10mg),
+122006,Lupigest 400 Soft Gelatin Capsule,638.65,False,Lupin Ltd,allopathy,strip of 10 soft gelatin capsules,Progesterone (Natural Micronized) (400mg),
+124385,Leomac 500mg Injection,1190.0,False,Impileo Lifescience,allopathy,vial of 1 Injection,Meropenem (500mg),
+123745,Laftid 10mg Tablet,49.35,True,Abbott,allopathy,strip of 10 tablets,Lafutidine (10mg),
+123756,Lineca Injection,380.0,False,Koye Pharmaceuticals Pvt ltd,allopathy,vial of 300 ml Injection,Linezolid (600mg),
+122579,Lmx Forte Syrup,62.63,False,Cadila Pharmaceuticals Ltd,allopathy,bottle of 30 ml Syrup,Amoxycillin  (200mg) ,  Clavulanic Acid (28.5mg)
+130125,Lxm P 8mg/325mg Tablet,82.5,False,Avail Healthcare,allopathy,strip of 10 tablets,Lornoxicam (8mg) , Paracetamol (325mg)
+128561,Leuzet 5mg Tablet,39.7,False,Leut Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg),
+132555,Levsetle 10mg Tablet,54.0,False,Taksa LIfe Sciences,allopathy,strip of 10 tablets,Levocetirizine (10mg),
+126681,Lightceff 500mg Tablet,172.0,False,Truelight Life Sciences Pvt Ltd,allopathy,strip of 10 tablets,Cefalexin (500mg),
+122166,Lynx Injection,13.0,False,Wallace Pharmaceuticals Pvt Ltd,allopathy,vial of 1 ml Injection,Lincomycin (300mg),
+127950,Levrom-M Syrup,60.0,False,Romas Remedies,allopathy,bottle of 60 ml Syrup,Levocetirizine (2.5mg) , Montelukast (4mg)
+124627,Leerox 250mg Tablet,284.0,False,Jaiwik Biotech,allopathy,strip of 10 tablets,Cefuroxime (250mg),
+122967,Lulipex 1% Cream,107.5,False,Apex Laboratories Pvt Ltd,allopathy,tube of 10 gm Cream,Luliconazole (1% w/w),
+121379,Lulibet Cream,150.0,False,Intas Pharmaceuticals Ltd,allopathy,tube of 15 gm Cream,Luliconazole (1% w/w),
+121643,LETROFIL 2.5 MG TABLET,209.0,False,Fourrts India Laboratories Pvt Ltd,allopathy,strip of 5 tablets,Letrozole (2.5mg),
+124121,LPS 400 Soft Gelatin Capsule,600.0,False,Blisson Medica Private Limited,allopathy,strip of 10 soft gelatin capsules,Progesterone (Natural Micronized) (400mg),
+122448,Lipivent 10mg Tablet,62.0,False,Univentis Medicare Ltd,allopathy,strip of 10 tablets,Atorvastatin (10mg),
+127355,Lullaby Syrup,57.0,True,Curatio Healthcare India Pvt Ltd,allopathy,bottle of 30 ml Syrup,Triclofos (NA),
+122355,Leviz-M Tablet,98.5,False,Bio Phoenix Formulations,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Montelukast (10mg)
+132470,Livospan 250mg Tablet,49.9,False,Pharmatech Healthcare,allopathy,strip of 10 tablets,Levofloxacin (250mg),
+123228,Lactofast Oral Solution Sugar Free,200.0,False,Unitas Healthcare Private Limited,allopathy,bottle of 200 ml Oral Solution,Lactulose (10gm),
+122947,Lacoma Eye Drop,279.46,False,Ajanta Pharma Ltd,allopathy,packet of 1 ml Eye Drop,Latanoprost (0.005% w/v),
+124047,Lumiza 1% Cream,210.0,False,HBC Dermiza Healthcare Pvt Ltd,allopathy,tube of 30 gm Cream,Luliconazole (1% w/w),
+126607,Levodax-OZ Tablet,115.0,False,Daxin Pharmaceutical Pvt Ltd,allopathy,strip of 10 tablets,Levofloxacin (250mg) , Ornidazole (500mg)
+130252,Lenciprazole Tablet,60.0,False,Allencia Biosciences,allopathy,strip of 10 tablets,Pantoprazole (40mg),
+126065,Levotec 750mg Tablet,55.0,False,United Biotech Pvt Ltd,allopathy,strip of 5 tablets,Levofloxacin (750mg),
+122227,L Fresh OD 10mg/10mg/2.5mg Tablet,61.0,False,Corpus Lifesciences Pvt Ltd,allopathy,strip of 10 tablets,Doxylamine (10mg) , Vitamin B6 (Pyridoxine) (10mg) 
+132881,Lupispark OD 100mg Tablet,158.0,True,Lupin Ltd,allopathy,strip of 10 tablets,Desvenlafaxine (100mg),
+132383,Lilipod 100mg Tablet DT,124.5,False,Medimind Drugs and Chemicals,allopathy,strip of 10 tablet dt,Cefpodoxime Proxetil (100mg),
+127962,Lucant 0.5% Eye Drop,110.0,False,Zegchem,allopathy,bottle of 5 ml Eye Drop,Carboxymethylcellulose (0.5% w/v),
+126859,Largan P Syrup,30.0,False,Southshourne Corporation India,allopathy,bottle of 60 ml Syrup,Promethazine (NA),
+130864,Lactoclaav 250mg/50mg Injection,73.67,False,Cachet Pharmaceuticals Pvt Ltd,allopathy,vial of 5 ml Injection,Amoxycillin  (250mg) ,  Clavulanic Acid (50mg)
+128935,Lutiphase 200mg Capsule,220.0,False,Allen Dale Biosciences,allopathy,strip of 10 capsules,Progesterone (Natural Micronized) (200mg),
+130599,Levowock 500mg Tablet,37.0,False,Dr Reddy's Laboratories Ltd,allopathy,strip of 5 tablets,Levofloxacin (500mg),
+129082,Litrakind 10mg Tablet,60.0,False,Minii Life Sciences Pvt Ltd,allopathy,strip of 10 tablets,Torasemide (10mg),
+122443,Lumet AT Injection,220.0,False,Cipla Ltd,allopathy,vial of 5 ml Injection,Artesunate (60mg),
+123245,Leozole-B Lotion,38.0,False,Santiago Lifesciences Pvt Ltd,allopathy,bottle of 15 ml Lotion,Beclometasone (0.025% w/v) , Clotrimazole (1% w/v)
+127757,Lefod CV 200mg/125mg Tablet,150.0,False,Srb Life Science,allopathy,strip of 6 tablets,Cefpodoxime Proxetil (200mg) , Clavulanic Acid (125mg)
+126156,Lntrio LS 10 Tablet,116.81,False,Eris Lifesciences Ltd,allopathy,strip of 10 tablets,Telmisartan (40mg) , Cilnidipine (10mg) 
+125498,Levisure 500mg Tablet,155.7,False,Alcale Healthcare,allopathy,strip of 10 tablets,Levetiracetam (500mg),
+122490,Lesun 5mg Tablet,25.0,False,Sungrace Pharma Pvt Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg),
+131644,Lizid-T 1000mg/125mg Injection,399.0,False,Veliko Pharmacls,allopathy,vial of 1 Powder for Injection,Ceftazidime (1000mg) , Tazobactum (125mg)
+129487,Lambi 50mg Tablet,90.48,False,Adcock Ingram Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Lamotrigine (50mg),
+129451,Longhit 100mg Tablet,219.0,False,Bolivian Healthcare,allopathy,strip of 10 tablets,Sildenafil (100mg),
+122637,L Lordizin 5mg Tablet,56.4,False,Aequitas Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg),
+132857,Leeflox OZ 200mg/500mg Tablet,73.5,False,Dr Lee & Morris Pharma Pvt Ltd,allopathy,strip of 10 tablets,Ofloxacin (200mg) , Ornidazole (500mg)
+121040,Lyser D Tablet,258.0,False,Comed Chemicals Ltd,allopathy,strip of 15 tablets,Diclofenac (50mg) , Serratiopeptidase (10mg)
+130748,Linzcare 600 Tablet,248.0,False,Medifaith Biotech,allopathy,strip of 6 tablets,Linezolid (600mg),
+127672,Lee M Oral Suspension,75.0,False,Aanika Pharma,allopathy,bottle of 60 ml Oral Suspension,Levocetirizine (2.5mg) , Montelukast (4mg)
+127343,Life DX Syrup,43.0,False,Life Guard Pharma,allopathy,bottle of 100 ml Syrup,Phenylephrine (5mg) , Chlorpheniramine Maleate (2mg) 
+131248,Luprom Cream,229.0,False,Ampira Biotechnics Pvt Ltd,allopathy,tube of 30 gm Cream,Luliconazole (1% w/w),
+128906,Lipofix 5mg Tablet,32.37,False,Bal Pharma Ltd,allopathy,strip of 10 tablets,Atorvastatin (5mg),
+125962,Lubriton 0.5% Eye Drop,120.0,False,Smariton Laboratories Pvt Ltd,allopathy,packet of 10 ml Eye Drop,Carboxymethylcellulose (0.05% w/v),
+133053,Lvflox 250mg Tablet,45.0,False,Indo-Reh Pharmaceuticals,allopathy,strip of 10 tablets,Levofloxacin (250mg),
+131761,Lacrelax  1000mg Granules,275.0,False,FDC Ltd,allopathy,sachet of 180 gm Granules,Lactitol (1000mg),
+121222,Lubistar 1% Eye Drop,150.84,False,Mankind Pharma Ltd,allopathy,bottle of 10 ml Eye Drop,Carboxymethylcellulose (1% w/v) , Oxychloro Complex (0.0075% w/v)
+130051,Lusin HT 50mg/12.5mg Tablet,60.0,False,Serene Lifeworld Pvt Ltd,allopathy,strip of 10 tablets,Losartan (50mg) , Hydrochlorothiazide (12.5mg)
+124496,Leuprosta Depot 11.25mg Injection,8877.0,False,Alkem Laboratories Ltd,allopathy,vial of 1 Injection,Leuprolide (11.25mg),
+129187,Linkosol 300mg Injection,17.25,False,Petrosolv India Ltd,allopathy,vial of 2 ml Injection,Lincomycin (300mg),
+131908,Losazart 50mg Tablet,54.0,False,Hauz Pharma Pvt Ltd,allopathy,strip of 10 tablets,Losartan (50mg),
+123473,Levenue 100mg Injection,74.47,False,Alkem Laboratories Ltd,allopathy,vial of 5 ml Injection,Levetiracetam (100mg),
+125665,Levocet-MT Tablet,110.0,False,Tresco Lab,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Montelukast (10mg)
+126562,Loeva 300mg Tablet SR,506.9,False,Lloyd Healthcare Pvt Ltd,allopathy,strip of 10 tablet sr,Progesterone (Natural Micronized) (300mg),
+122515,Lignox 2% Injection,27.0,False,Indoco Remedies Ltd,allopathy,vial of 30 ml Injection,Lidocaine (2%),
+122116,Levin 5mg Tablet,40.0,False,Asvins Lifecare,allopathy,strip of 10 tablets,Levocetirizine (5mg),
+124841,Lizotex 600mg Tablet,138.92,False,Texas Pharmaceuticals,allopathy,strip of 4 tablets,Linezolid (600mg),
+132624,Lewcon 150 Tablet,21.7,False,Lewis Bioserch Pharma Pvt Ltd,allopathy,strip of 1 Tablet,Fluconazole (150mg),
+130351,Lulitrex 1% Soap,155.0,False,Starzac Formulations,allopathy,box of 75 gm Soap,Luliconazole (1% w/w),
+121153,Lidozone  Ear Drop,129.0,False,Delcure Life Sciences,allopathy,bottle of 10 ml Ear Drop,Lidocaine (1% w/v) , Phenazone (4% w/v)
+122895,Levera Rtu 1000 Infusion,179.5,False,Intas Pharmaceuticals Ltd,allopathy,bottle of 100 ml Infusion,Levetiracetam (1000mg),
+122921,Letrova 2.5mg Tablet,240.0,False,Iscon Life Sciences,allopathy,strip of 10 tablets,Letrozole (2.5mg),
+126444,Larotyl 10mg Tablet,24.95,False,Fawn Incorporation,allopathy,strip of 10 tablets,Amitriptyline (10mg),
+125297,Loperazee 2 Capsule,6.0,False,Zeelab Pharmacy Pvt Ltd,allopathy,strip of 10 capsules,Loperamide (2mg),
+124915,Lestar Tablet,67.2,False,Organic Laboratories,allopathy,strip of 10 tablets,Levocetirizine (10mg),
+124766,Logivir SR 1200 Tablet,135.0,False,Canixa Life Sciences Pvt,allopathy,strip of 3 tablet sr,Acyclovir (1200mg),
+121907,Lenvat 4 Capsule,1000.0,False,Natco Pharma Ltd,allopathy,strip of 10 capsules,Lenvatinib (4mg),
+133040,Lift 250mg Tablet,41.0,False,Aaron Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Levofloxacin (250mg),
+128678,Lukey 1% Lotion,196.0,False,WellYou Biotech,allopathy,bottle of 30 ml Lotion,Luliconazole (1% w/v),
+132460,Lexipod O 200mg/200mg Tablet,219.0,False,Laxter Pharmaceutical Pvt Ltd,allopathy,strip of 10 tablets,Cefpodoxime Proxetil (200mg) , Ofloxacin (200mg)
+126765,Levospace 500 Tablet,90.0,False,Biospace Lifesciences Pvt Ltd,allopathy,strip of 10 tablets,Levofloxacin (500mg),
+123594,Lorvis 10mg Tablet,55.0,False,Dolvis Bio Pharma Pvt Ltd,allopathy,strip of 10 tablets,Loratadine (10mg),
+128238,Lazocin 1.5gm Injection,208.0,False,Allenge India,allopathy,vial of 1 Injection,Cefuroxime (1.5gm),
+132338,Levoflag OZ 250mg/500mg Tablet,85.0,False,Asrawell Lifecare,allopathy,strip of 10 tablets,Levofloxacin (250mg) , Ornidazole (500mg)
+120843,Losar 50 Tablet,130.45,False,Torrent Pharmaceuticals Ltd,allopathy,strip of 15 tablets,Losartan (50mg),
+124501,Lucal 50mg Injection,266.66,False,Celon Laboratories Ltd,allopathy,vial of 5 ml Injection,Calcium Leucovorin (50mg),
+132887,Liolid Infusion,270.0,False,Accilex Nutricorp,allopathy,bottle of 300 ml Infusion,Linezolid (200mg),
+128874,Lztop Cream,229.0,False,D'light Lifescience Pvt Ltd,allopathy,tube of 30 gm Cream,Luliconazole (1% w/w),
+125808,Leap 100mg/500mg Tablet,49.0,False,Legend Pharma Technologies,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (500mg)
+125949,L Tam 500mg Tablet,105.0,False,Carise Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Levetiracetam (500mg),
+129427,Lavotears Gel,95.0,False,Calix Health Care,allopathy,tube of 5 gm Eye Drop,Carboxymethylcellulose (0.5% w/v) , Oxychloro Complex (0.005% w/v)
+130477,Lini-Art Injection,110.0,False,Sarthi Life Sciences,allopathy,ampoule of 2 ml Injection,Alpha-Beta Arteether (150mg),
+130363,Levipra 750mg Tablet,184.0,False,Evaxo Pharma,allopathy,strip of 10 tablets,Levetiracetam (750mg),
+131176,Lisian 10mg Tablet,127.0,False,Noel Pharma India Pvt Ltd,allopathy,strip of 10 tablets,Lisinopril (10mg),
+128600,Lofev 1000mg Infusion,273.8,False,Cadila Pharmaceuticals Ltd,allopathy,bottle of 100 ml Infusion,Paracetamol (1000mg),
+124645,Lansoped Junior 15 Tablet DT Orange,92.0,False,Spc Healthcare Private Limited,allopathy,strip of 10 tablet dt,Lansoprazole (15mg),
+128285,Livoquin Tablet,80.85,False,Exotic Laboratories Pvt Ltd,allopathy,strip of 10 tablets,Levofloxacin (NA),
+130169,Letix Syrup,53.05,False,Adley Formulations,allopathy,bottle of 30 ml Syrup,Cefixime (50mg),
+129214,Leefex 120mg Tablet,90.0,False,Sonixa Lifecare,allopathy,strip of 10 tablets,Fexofenadine (120mg),
+132069,Losian H 50mg/12.5mg Tablet,79.5,False,Noel Pharma India Pvt Ltd,allopathy,strip of 15 tablets,Losartan (50mg) , Hydrochlorothiazide (12.5mg)

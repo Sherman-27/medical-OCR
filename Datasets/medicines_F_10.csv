@@ -1,0 +1,11 @@
+id,name,price(₹),Is_discontinued,manufacturer_name,type,pack_size_label,short_composition1,short_composition2
+85140,Ferpill Kit 50mg Tablet,215.8,False,Intas Pharmaceuticals Ltd,allopathy,strip of 15 tablets,Clomiphene (50mg),
+86072,Fincept 5mg Tablet,110.0,True,Lupin Ltd,allopathy,strip of 10 tablets,Finasteride (5mg),
+91355,Falcinok Plus 80mg/480mg Tablet,175.0,False,Dawson Healthcare Pvt Ltd,allopathy,strip of 6 tablets,Arteether (80mg) , Lumefantrine (480mg)
+93430,Faithclav Dry Syrup,115.0,False,Medifaith Biotech,allopathy,bottle of 30 ml Dry Syrup,Amoxycillin  (400mg) ,  Clavulanic Acid (57mg)
+85363,Flood 20mg Capsule,40.9,False,KC Laboratories,allopathy,strip of 10 capsules,Fluoxetine (20mg),
+87676,Ftp 100mg Capsule,106.0,False,Ambreyo Lifesciences,allopathy,strip of 10 capsules,Flupirtine (100mg),
+90354,Flamotek P 100mg/325mg Tablet,32.0,False,Brunson Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg)
+84746,Forlast Plus Tablet,264.0,False,Alteus Biogenics Pvt Ltd,allopathy,strip of 4 tablets,Sildenafil (50mg) , Dapoxetine (30mg)
+89068,Fexopride 30mg Oral Suspension,89.0,False,Innovative Pharmaceuticals,allopathy,bottle of 60 ml Oral Suspension,Fexofenadine (30mg/5ml),
+88946,Fluzil 200 Tablet,15.0,False,Mediquest Inc.,allopathy,strip of 1 Tablet,Fluconazole (200mg),

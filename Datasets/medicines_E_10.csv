@@ -1,0 +1,11 @@
+id,name,price(₹),Is_discontinued,manufacturer_name,type,pack_size_label,short_composition1,short_composition2
+79534,Emopod 200mg Tablet,220.0,False,Emdok Pharmaceuticals,allopathy,strip of 10 tablets,Cefpodoxime Proxetil (200mg),
+83376,Eltrox 1000mg Injection,95.0,False,Elcure Pharmaceuticals,allopathy,vial of 1 Injection,Ceftriaxone (1000mg),
+79711,Entrofuran M Suspension,19.8,False,Deys Medical,allopathy,bottle of 60 ml Suspension,Furazolidone (30mg/5ml) , Metronidazole (100mg/5ml)
+75735,Esrio-DSR Capsule,110.0,False,Riomedica Healthcare Pvt Ltd,allopathy,strip of 10 capsule sr,Domperidone (30mg) , Esomeprazole (40mg)
+77938,Elpant 40mg Tablet,59.0,False,Elcliff Formulations Pvt Ltd,allopathy,strip of 10 tablets,Pantoprazole (40mg),
+80373,Encin 200mg Tablet,51.0,False,Endocard India Pvt Ltd,allopathy,strip of 10 tablets,Ofloxacin (200mg),
+78302,Esopic D 30mg/40mg Capsule SR,99.0,False,Astopic Lifescience,allopathy,strip of 10 capsule sr,Domperidone (30mg) , Esomeprazole (40mg)
+78454,Encet Mont Tablet,80.16,True,Endocard India Pvt Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Montelukast (10mg)
+78778,Ezisartan 80 Tablet,29.0,False,DR Best pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Telmisartan (80mg),
+82803,Eurofenac D 80mg/100mg Tablet,131.0,False,Euro Organics,allopathy,strip of 10 tablets,Drotaverine (80mg) , Aceclofenac (100mg)

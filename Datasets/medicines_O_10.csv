@@ -1,0 +1,11 @@
+id,name,price(₹),Is_discontinued,manufacturer_name,type,pack_size_label,short_composition1,short_composition2
+164869,Olmax-M 50 Tablet ER,284.0,True,Glenmark Pharmaceuticals Ltd,allopathy,strip of 15 tablet er,Olmesartan Medoxomil (20mg) , Metoprolol Succinate (50mg)
+172837,Olsuca 7.5mg Tablet,52.0,False,Curis Lifecare,allopathy,strip of 10 tablets,Olanzapine (7.5mg),
+165384,Ossa Fit Tablet,180.0,False,Leo Star Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Glucosamine (750mg) , Diacerein (50mg) 
+161988,Orogard Mouth Paint,85.0,False,Alkem Laboratories Ltd,allopathy,bottle of 15 ml Mouth Paint,Clotrimazole (1% w/v),
+168465,Oroxin 150mg Tablet,95.0,False,Orange Biotech Pvt Ltd,allopathy,strip of 10 tablets,Roxithromycin (150mg),
+169138,Olraas AM  40mg/5mg Tablet,120.0,False,RPG Life Sciences Ltd,allopathy,strip of 10 tablets,Olmesartan Medoxomil (40mg) , Amlodipine (5mg)
+163956,OCOTRET 10 MG TABLET,90.0,True,Ochoa Laboratories Ltd,allopathy,strip of 10 tablets,Isotretinoin (10mg),
+172006,Onace 100mg Tablet,28.0,False,Cronus Biotech Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg),
+168086,Opera D 30mg/20mg Capsule SR,80.0,False,Apical Biologicals,allopathy,strip of 10 capsule sr,Domperidone (30mg) , Omeprazole (20mg)
+170855,Ozpod CV 200mg/125mg Tablet,198.0,False,Osvel Pharma,allopathy,strip of 6 tablets,Cefpodoxime Proxetil (200mg) , Clavulanic Acid (125mg)

@@ -1,0 +1,11 @@
+id,name,price(₹),Is_discontinued,manufacturer_name,type,pack_size_label,short_composition1,short_composition2
+187838,Rozula F 160mg/10mg Tablet,240.0,False,Elbrit Life Sciences,allopathy,strip of 15 tablets,Fenofibrate (160mg) , Rosuvastatin (10mg)
+187532,Rosave-Trio 10mg Capsule,140.0,False,Alembic Pharmaceuticals Ltd,allopathy,strip of 10 capsules,Aspirin (75mg) , Rosuvastatin (10mg) 
+194955,Rabees D 30mg/20mg Capsule,110.25,False,Sunrise Remedies Pvt Ltd,allopathy,strip of 10 capsules,Domperidone (30mg) , Rabeprazole (20mg)
+195657,Rifapill 200mg Tablet,200.0,False,Werke Healthcare,allopathy,strip of 10 tablets,Rifaximin (200mg),
+195373,Relicef 125mg Tablet DT,54.0,False,Trigenesis Life Sciences Pvt Ltd,allopathy,strip of 3 tablet dt,Cefuroxime (125mg),
+199300,Rabqt D 10mg/20mg Tablet,80.0,False,Akmed Biotech,allopathy,strip of 10 tablets,Domperidone (10mg) , Rabeprazole (20mg)
+192496,Resebron 200mg Tablet SR,150.0,False,Invision Medi Sciences Pvt Ltd,allopathy,strip of 10 tablet sr,Acebrophylline (200mg),
+198521,Ricmika 100mg Injection,20.0,False,Biorika Healthcare,allopathy,vial of 1 Injection,Amikacin (100mg),
+187925,Rabigal D 10mg/20mg Tablet,77.0,False,Galpha Laboratories Ltd,allopathy,strip of 10 tablets,Domperidone (10mg) , Rabeprazole (20mg)
+197249,Rebika 20mg Injection,166.0,False,ICI Healthcare Pvt Ltd,allopathy,vial of 1 Injection,Rabeprazole (20mg),

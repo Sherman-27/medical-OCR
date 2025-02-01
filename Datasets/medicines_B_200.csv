@@ -1,0 +1,201 @@
+id,name,price(₹),Is_discontinued,manufacturer_name,type,pack_size_label,short_composition1,short_composition2
+25971,Budamate Forte Transcaps,388.7,False,Lupin Ltd,allopathy,bottle of 30 transcaps,Formoterol (12mcg) , Budesonide (400mcg)
+33596,Bacef T 1000mg/125mg Injection,152.0,False,Ambreyo Lifesciences,allopathy,vial of 1 Injection,Ceftriaxone (1000mg) , Tazobactum (125mg)
+32806,Brokav 100mg Tablet,79.0,False,Kav Laboratories,allopathy,strip of 10 tablets,Acebrophylline (100mg),
+27460,Buminate Infusion,3938.0,False,Baxter India Pvt Ltd,allopathy,bottle of 100 ml Infusion,Albumin (20%),
+27535,Bioex Gel,119.0,False,Biochemix Health Care Pvt. Ltd.,allopathy,tube of 15 gm Gel,Adapalene (0.1% w/w) , Clindamycin (1% w/w)
+33310,BIRYTH 50 MG TABLET,30.0,True,Emcure Pharmaceuticals Ltd,allopathy,strip of 4 tablets,Theophylline (50mg),
+31106,Brifix 100 DT Tablet,84.0,False,Biobrick Pharma,allopathy,strip of 10 tablet dt,Cefixime (100mg),
+29581,Bilclav 500 mg/125 mg Tablet,188.8,False,Viilbery Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Amoxycillin  (500mg) ,  Clavulanic Acid (125mg)
+32526,Bactorax 200mg Tablet,85.0,False,Moraceae Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Ofloxacin (200mg),
+28544,Brutaflox Injection,20.62,False,Mankind Pharma Ltd,allopathy,vial of 100 ml Injection,Ofloxacin (NA),
+30690,Bitaquine DS 500mg Tablet,7.43,False,Bombay Tablet Mfg Co Pvt Ltd,allopathy,strip of 6 tablets,Chloroquine (500mg),
+26925,Belic 20mg Injection,10.57,False,Alchem Phytoceuticals Ltd,allopathy,vial of 1 Injection,Hyoscine butylbromide (20mg),
+32787,Byclav CV Syrup,65.4,False,Vinson pharma,allopathy,bottle of 30 ml Syrup,Amoxycillin  (200mg) ,  Clavulanic Acid (28.5mg)
+31932,Bekaycin 500mg Tablet,66.64,False,Sanofi India  Ltd,allopathy,strip of 10 tablets,Ciprofloxacin (500mg),
+28716,B-Bloc 50mg Tablet,16.0,False,Mandar Pharmaceuticals Pvt Ltd,allopathy,strip of 14 tablets,Atenolol (50mg),
+30546,Briclox Capsule,45.0,False,Briskon Laboratories,allopathy,strip of 10 capsules,Ampicillin (250mg) , Cloxacillin (250mg) 
+27450,Bisoron 2.5mg Tablet,24.0,False,Nvron Life Science Ltd,allopathy,strip of 10 tablets,Bisoprolol (2.5mg),
+33034,Bekker CF 200mg/200mg Tablet,179.0,False,Afive Pharma,allopathy,strip of 10 tablets,Cefixime (200mg) , Ofloxacin (200mg)
+32179,Bgmol-SP Tablet,71.0,False,Kenrox Healthcare Pvt. Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg) 
+33834,Betaceﬁ 100mg Tablet DT,85.0,False,Betamax Remedies,allopathy,strip of 10 tablet dt,Cefixime (100mg),
+33220,Betanac 8mg Tablet,44.0,False,Remandish Pharma Pvt Ltd,allopathy,strip of 10 tablets,Betahistine (8mg),
+30884,Baciflox 200mg Tablet,88.0,False,Globela Pharma Pvt Ltd,allopathy,strip of 10 tablets,Ofloxacin (200mg),
+29031,Boromet Dental Gel,121.0,False,Shinto Organics (P) Limited,allopathy,tube of 20 gm Dental Gel,Benzocaine (0.2% w/w) , Metronidazole (0.01% w/w)
+27889,Bactofix CV 200mg/125mg Tablet,260.0,False,Univentis Medicare Ltd,allopathy,strip of 10 tablets,Cefixime (200mg) , Clavulanic Acid (125mg)
+27404,Back 10mg Tablet,117.98,False,East West Pharma,allopathy,strip of 10 tablets,Baclofen (10mg),
+30488,B Kalm 0.25mg Tablet,30.6,False,Esskay Bee Pharma,allopathy,strip of 30 tablets,Alprazolam (0.25mg),
+32801,Beepril-H 5mg/12.5mg Tablet,50.0,False,Bonsai Pharma,allopathy,strip of 10 tablets,Ramipril (5mg) , Hydrochlorothiazide (12.5mg)
+27965,Biozim Tablet,145.0,False,Rayon Pharmaceutical,allopathy,strip of 10 tablets,Cefixime (200mg) , Lactobacillus (2.5Billion Spores)
+29201,Bullcef CV 500mg/125mg Tablet,294.0,False,Evershine Lifesciences Pvt Ltd,allopathy,strip of 6 tablets,Cefuroxime (500mg) , Clavulanic Acid (125mg)
+33289,Broncheal DX Syrup,68.0,False,Heal Dose,allopathy,bottle of 100 ml Syrup,Phenylephrine (5mg) , Chlorpheniramine Maleate (2mg) 
+27265,BUPROCARE 0.4MG TABLET,100.0,False,Gentech Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Buprenorphine (0.4mg),
+32732,Binstal 500mg Tablet,145.0,False,Stallion Laboratories Pvt Ltd,allopathy,strip of 7 tablets,Terbinafine (500mg),
+32615,Bropod 50mg Dry Syrup,66.0,False,Brostin Seizz Biocare,allopathy,bottle of 30 ml Dry Syrup,Cefpodoxime Proxetil (50mg/5ml),
+33188,Bronzacef 1000mg Injection,66.0,False,Vats Biotech Pvt Ltd,allopathy,vial of 1 Injection,Ceftriaxone (1000mg),
+28835,Burn-Om Cream,110.0,False,Om Biotec,allopathy,tube of 15 gm Cream,Chlorhexidine Gluconate (0.20% w/w) , Silver Sulfadiazine (1% w/w)
+31129,Biotax DX 200mg/500mg Tablet,140.5,False,Biochem Pharmaceutical Industries,allopathy,strip of 10 tablets,Cefixime (200mg) , Dicloxacillin (500mg)
+33487,Barofloxa OZ Suspension,36.0,False,BB Remedies Pvt Ltd,allopathy,bottle of 60 ml Suspension,Ofloxacin (50mg) , Ornidazole (125mg)
+28823,Betron 4mg Tablet MD,44.0,False,Bayberry Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablet md,Ondansetron (4mg),
+28090,Bioten 10 Tablet,117.0,False,Holy Evolution Pharma,allopathy,strip of 10 tablets,Baclofen (10mg),
+32722,Bomcold Syrup,58.35,False,Bonum Medelae Pvt Ltd,allopathy,bottle of 60 ml Syrup,Chlorpheniramine Maleate (0.5mg/5ml) , Paracetamol (125mg/5ml) 
+31434,Benzydol 1.5 mg/2 mg Tablet,11.81,False,La Pharmaceuticals,allopathy,strip of 10 tablets,Haloperidol (1.5mg) , Trihexyphenidyl (2mg)
+26204,Baga-NT 100 Tablet,148.5,False,Eris Lifesciences Ltd,allopathy,strip of 15 tablets,Gabapentin (100mg) , Nortriptyline (10mg)
+29324,Berab DSR 30mg/20mg Capsule,75.0,False,Beekay Pharmaceuticals,allopathy,strip of 10 capsule sr,Domperidone (30mg) , Rabeprazole (20mg)
+30542,Bitatel 80mg Tablet,80.0,False,4Care Lifescience Pvt Ltd,allopathy,strip of 10 tablets,Telmisartan (80mg),
+33100,Betcozy AM Syrup,71.0,False,Alter Ego Pharmaceuticals,allopathy,bottle of 100 ml Syrup,Ambroxol (15mg) , Guaifenesin (50mg) 
+32995,Bgpar-MDS Oral Suspension,51.0,False,Kenrox Healthcare Pvt. Ltd,allopathy,bottle of 60 ml Oral Suspension,Mefenamic Acid (100mg) , Paracetamol (250mg)
+32668,Benzapro Cream,329.0,False,Medpro Biotech,allopathy,tube of 15 gm Cream,Adapalene (0.1% w/w) , Benzoyl Peroxide (2.5% w/w)
+30540,Bacbye OZ Tablet,69.0,False,Proliva Pharmaceuticals,allopathy,strip of 10 tablets,Ofloxacin (NA),
+32080,Bypain SP 50mg/325mg/15mg Tablet,82.0,False,Morecare Pharmatec Pvt Ltd,allopathy,strip of 10 tablets,Diclofenac (50mg) , Paracetamol (325mg) 
+33599,Bactpar 125mg Oral Suspension,16.5,False,Bactolac Formulations Pvt Ltd,allopathy,bottle of 60 ml Oral Suspension,Paracetamol (125mg/5ml),
+29115,Brivanext Injection,135.0,False,MSN Laboratories,allopathy,vial of 5 ml Injection,Brivaracetam (10mg/ml),
+27654,Bricanyl 0.5mg Injection,42.46,False,AstraZeneca,allopathy,vial of 1 ml Injection,Terbutaline (0.5mg),
+29052,Brimodin P Eye Drop,169.0,True,Cipla Ltd,allopathy,packet of 5 ml Eye Drop,Brimonidine (0.15% w/v),
+31684,Biprostiva 50mg Tablet,427.0,False,Alkem Laboratories Ltd,allopathy,strip of 10 tablets,Bicalutamide (50mg),
+30319,Basbat 20mg Tablet,99.0,False,Biochemix Health Care Pvt. Ltd.,allopathy,strip of 10 tablets,Ebastine (20mg),
+31249,Bethro 250mg Tablet,29.9,False,Cee Bee Laboratories,allopathy,strip of 3 tablets,Azithromycin (250mg),
+29210,Bryxta 400 Injection,43369.4,False,Zydus Cadila,allopathy,vial of 16 ml Injection,Bevacizumab (400mg),
+28227,Broadicilin 100mg Drop,47.3,False,Alkem Laboratories Ltd,allopathy,packet of 10 ml Drop,Ampicillin (100mg),
+28302,Benicard 4mg Tablet,64.5,False,Ikon Remedies Pvt Ltd,allopathy,strip of 10 tablets,Benidipine (4mg),
+29039,Bidopal 500mg Tablet,24.48,False,Glaxo SmithKline Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Levodopa (500mg),
+31057,Bact OZ 200mg/500mg Tablet,75.0,False,Zencure Organics,allopathy,strip of 10 tablets,Ofloxacin (200mg) , Ornidazole (500mg)
+30683,BC Clav Syrup,68.65,False,Biocell Pharmaceuticals Pvt Ltd,allopathy,bottle of 30 ml Syrup,Amoxycillin  (200mg) ,  Clavulanic Acid (28.5mg)
+30159,Bmd Eye Drop,185.6,False,Vee Remedies,allopathy,bottle of 5 ml Eye Drop,Brimonidine (0.1% w/v),
+31298,Boxer 100mg Tablet,138.93,False,Shrinivas Gujarat Laboratories Pvt Ltd,allopathy,strip of 10 tablets,Ofloxacin (100mg),
+28189,Banohist Syrup,45.0,False,Ultra Drugs Pvt Ltd,allopathy,bottle of 100 ml Syrup,Bromhexine (4mg) , Guaifenesin (50mg) 
+32882,Bitaz P 1000mg/125mg Injection,119.0,False,Biosys Medisciences,allopathy,vial of 1 Injection,Piperacillin (1000mg) , Tazobactum (125mg)
+28558,Bakflex 4mg Injection,34.0,False,Intas Pharmaceuticals Ltd,allopathy,vial of 2 ml Injection,Thiocolchicoside (4mg),
+30326,Blisdox CV Dry Syrup,74.0,False,Bliss Gvs Pharma Limited,allopathy,bottle of 30 ml Dry Syrup,Cefpodoxime Proxetil (50mg) , Clavulanic Acid (31.25mg)
+31562,Btquin 200mg Tablet,55.0,False,Biotanic Lifesciences,allopathy,strip of 10 tablets,Ofloxacin (200mg),
+28970,Beetrip-Plus 25mg/10mg Tablet,25.0,False,Bonsai Pharma,allopathy,strip of 10 tablets,Amitriptyline (25mg) , Chlordiazepoxide (10mg)
+29687,Brispam 0.25mg Tablet MD,19.0,False,Madbris Life Sciences Pvt Ltd,allopathy,strip of 10 tablet md,Clonazepam (0.25mg),
+31136,Benlonac-P Tablet,49.0,False,Ben Hadded Pharma Pvt Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg)
+29474,Betacent 8mg Tablet,64.68,False,Crescent Therapeutics Ltd,allopathy,strip of 10 tablets,Betahistine (8mg),
+33268,Bacef 250mg Injection,29.0,False,Ambreyo Lifesciences,allopathy,vial of 1 Injection,Ceftriaxone (250mg),
+28748,Brotip D Tablet,189.9,False,DSV Healthcare,allopathy,strip of 10 tablets,Trypsin (48mg) , Bromelain (90mg) 
+27013,Bayumont LC 5mg/10mg Tablet,110.0,False,Bayu Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Montelukast (10mg)
+30604,Bluetus Syrup,47.3,False,Novaduo Pharma,allopathy,bottle of 100 ml Syrup,Ambroxol (15mg/5ml) , Guaifenesin (50mg/5ml) 
+27916,Biomag D 50mg/10mg Tablet,54.0,False,Magus Medicare,allopathy,strip of 10 tablets,Diclofenac (50mg) , Serratiopeptidase (10mg)
+25765,Brevipil 50 Tablet,161.0,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Brivaracetam (50mg),
+31690,Brunda 5mg Tablet,25.63,False,Veritaz Healthcare Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg),
+28373,Biotax-O 100mg Tablet,65.3,False,Biochem Pharmaceutical Industries,allopathy,strip of 10 tablets,Cefixime (100mg),
+31157,B Oppo 0.1% Eye Drop,120.0,False,S.Bee Life Sciences,allopathy,bottle of 5 ml Ophthalmic Solution,Olopatadine (0.1% w/v),
+31467,Bactum C 1000mg/500mg Injection,119.0,False,Astonea Labs Private Limited,allopathy,vial of 1 Injection,Cefoperazone (1000mg) , Sulbactam (500mg)
+31612,Bromitol Tablet,20.0,False,Antiseptic Pharmaceuticals,allopathy,strip of 10 tablets,Salbutamol (2mg) , Etofylline (200mg) 
+31784,Bet Q 500mg/125mg Tablet,270.0,False,Health Guard India Pvt Ltd,allopathy,strip of 10 tablets,Amoxycillin  (500mg) ,  Clavulanic Acid (125mg)
+31226,Bromeheal 90mg/48mg/100mg Tablet,175.0,False,Vimac Healthcare,allopathy,strip of 10 tablets,Bromelain (90mg) , Trypsin (48mg) 
+32755,BINEX 450MG/300MG TABLET,54.6,False,Biological E Ltd,allopathy,strip of 10 tablets,Rifampicin (450mg) , Isoniazid (300mg)
+27846,Betagrain F 40mg/10mg Tablet,115.0,False,Genome Therapeutics Corporation,allopathy,strip of 10 tablets,Propranolol (40mg) , Flunarizine (10mg)
+28343,Barbee 50mg Tablet,80.0,False,Zenolia Life Science Private Limited,allopathy,strip of 10 tablets,Primidone (50mg),
+31995,Bioflaze Tablet,90.0,False,Biospace Lifesciences Pvt Ltd,allopathy,strip of 10 tablets,Deflazacort (6mg),
+27115,Bexatine Cream,85.0,False,Zee Laboratories,allopathy,tube of 30 gm Cream,Clobetasol (0.05% w/w),
+26189,Brevipil Oral Solution,848.0,False,Sun Pharmaceutical Industries Ltd,allopathy,bottle of 200 ml Oral Solution,Brivaracetam (10mg),
+31127,Bdid TH 1000mg Tablet,30.0,False,Sinsan Pharmaceuticals,allopathy,strip of 10 tablets,Metformin (1000mg),
+28458,Bpros 0.03% Eye Drop,272.5,False,Sunways India Pvt Ltd,allopathy,bottle of 5 ml Eye Drop,Bimatoprost (0.03% w/v),
+30846,Brutek 200mg Tablet,35.0,True,Zuventus Healthcare Ltd,allopathy,strip of 10 tablets,Dexibuprofen (200mg),
+33462,Bdidth 1000mg Tablet,32.1,False,Zyphar's Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Metformin (1000mg),
+29836,BROADICLOX 250MG/250MG INJECTION,9.57,False,Alkem Laboratories Ltd,allopathy,vial of 1 Injection,Ampicillin (250mg) , Cloxacillin (250mg)
+29094,Brexpan 40 Tablet,65.0,False,Mcbrex Lifesciences,allopathy,strip of 10 tablets,Pantoprazole (40mg),
+33442,Broncheal LS Syrup,71.0,False,Heal Dose,allopathy,bottle of 100 ml Syrup,Levosalbutamol (1mg) , Ambroxol (30mg) 
+30260,Bisprol 5mg Tablet,54.0,False,Globus Labs,allopathy,strip of 10 tablets,Bisoprolol (5mg),
+31479,Betacetam 500mg Syrup,150.0,False,Betamax Remedies,allopathy,bottle of 100 ml Syrup,Piracetam (500mg/5ml),
+26726,Biomezole 20mg Capsule,41.8,False,Biochem Pharmaceutical Industries,allopathy,strip of 15 capsules,Omeprazole (20mg),
+32055,Bowelac 3.325gm Syrup,62.5,False,Durga Pharma,allopathy,bottle of 100 ml Syrup,Lactulose (3.325gm),
+33902,Beenandro 25mg Injection,78.0,False,Being Care Pharmaceuticals,allopathy,vial of 1 Injection,Nandrolone Decanoate (25mg),
+28739,Boroside A Tablet,220.0,False,Biosys Medisciences,allopathy,strip of 10 tablets,Trypsin (48mg) , Rutoside (100mg) 
+32451,Bilanx 24mg Tablet,113.0,False,Vega Pharma,allopathy,strip of 10 tablets,Betahistine (24mg),
+28958,Broncocin 100mg Capsule,92.0,False,Nukind Healthcare Pvt Ltd,allopathy,strip of 10 capsules,Acebrophylline (100mg),
+27158,Brodex T Syrup,55.0,False,Laborate Pharmaceuticals India Ltd,allopathy,bottle of 100 ml Syrup,Bromhexine (4mg) , Guaifenesin (50mg) 
+28171,Besco Tablet,77.0,False,Mcastro Pharma,allopathy,strip of 10 tablets,Nalidixic Acid (300mg) , Metronidazole (200mg)
+32820,Bdroxil 500mg Tablet,49.57,False,Wens Drugs India Pvt Ltd,allopathy,strip of 10 tablets,Cefadroxil (500mg),
+26976,Biowin Plus 100mg/500mg Tablet,32.0,False,Biovista Lifesciences,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (500mg)
+28196,Bello 20mg Tablet,50.0,False,Sedulus Remedies,allopathy,strip of 10 tablets,Rabeprazole (20mg),
+26754,Brogard AB 100mg/600mg Tablet,170.0,False,Maneesh Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Acebrophylline (100mg) , Acetylcysteine (600mg)
+33009,Brom Chor Eye Drop,110.0,False,Optimal Pharma tech,allopathy,bottle of 5 ml Ophthalmic Solution,Bromfenac (0.9mg),
+30901,Bdpoma Capsule,7272.0,False,BDR Pharmaceuticals Internationals Pvt,allopathy,bottle of 21 capsules,Pomalidomide (4mg),
+28208,Bilabert-M Tablet,180.0,False,Hilbert Healthcare,allopathy,strip of 10 tablets,Bilastine (20mg) , Montelukast (10mg)
+30423,Bogli 0.3mg Tablet,79.0,False,Sarian Healthcare,allopathy,strip of 10 tablets,Voglibose (0.3mg),
+27909,Baxim O Tablet,250.0,False,Blubell Pharma,allopathy,strip of 10 tablets,Cefixime (200mg) , Ofloxacin (200mg)
+29726,Brugesicp 100 mg/125 mg Syrup,11.25,False,Biochem Pharmaceutical Industries,allopathy,bottle of 60 ml Syrup,Ibuprofen (100mg) , Paracetamol (125mg)
+32065,Brofar 100mg Capsule,105.0,False,Farlex Pharmaceuticals Pvt Ltd,allopathy,strip of 10 capsules,Acebrophylline (100mg),
+32879,Brorena LS Syrup,80.0,False,Rena Exports Pvt Ltd,allopathy,bottle of 100 ml Syrup,Levosalbutamol (1mg/5ml) , Ambroxol (30mg/5ml) 
+26742,B-Loric 100mg Tablet,26.0,False,Skyways Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Allopurinol (100mg),
+33135,Benelix BR 50 mg/1.25 mg/4 mg Syrup,17.76,False,Anglo-French Drugs & Industries Ltd,allopathy,bottle of 100 ml Syrup,Guaifenesin (50mg) , Terbutaline (1.25mg) 
+28301,Biopose 5mg Tablet,3.75,False,Biochem Pharmaceutical Industries,allopathy,strip of 10 tablets,Diazepam (5mg),
+31930,Bitugesic 100mg Tablet MD,15.0,False,Amvia Biotech,allopathy,strip of 10 tablet md,Nimesulide (100mg),
+33641,Bolpain P Oral Suspension,47.0,False,Biociss Healthcare,allopathy,bottle of 60 ml Oral Suspension,Aceclofenac (100mg/5ml) , Paracetamol (250mg/5ml)
+32473,Bestquin 500mg Tablet,85.0,False,Blubell Pharma,allopathy,strip of 10 tablets,Levofloxacin (500mg),
+31642,Broncholik Syrup,46.0,False,SPS Medipol Pvt Ltd,allopathy,bottle of 100 ml Syrup,Terbutaline (1.25mg) , Bromhexine (4mg) 
+30503,Branolin P 500mg/400mg Tablet,499.0,False,Albia Biocare,allopathy,strip of 10 tablets,Citicoline (500mg) , Piracetam (400mg)
+26855,Brutus Syrup,62.0,False,MDC Pharmaceuticals  Pvt Ltd,allopathy,bottle of 100 ml Syrup,Ammonium Chloride (60mg/5ml) , Chlorpheniramine Maleate (2.5mg/5ml) 
+32494,Biolevo 250mg Tablet,45.0,False,Valcret Lifesciences Pvt Ltd,allopathy,strip of 10 tablets,Levofloxacin (250mg),
+28552,Britorva 10F Tablet,190.0,False,Elbrit Life Sciences,allopathy,strip of 15 tablets,Atorvastatin (10mg) , Fenofibrate (160mg)
+26161,Brivajoy 50 Tablet,292.41,False,Abbott,allopathy,strip of 14 tablets,Brivaracetam (50mg),
+30791,Buscotag 20mg Tablet,32.5,False,Ikon Remedies Pvt Ltd,allopathy,strip of 10 tablets,Hyoscine butylbromide (20mg),
+25965,Biocof Mint New Syrup,102.6,False,Biochem Pharmaceutical Industries,allopathy,bottle of 100 ml Syrup,Cetirizine (2.5mg) , Dextromethorphan Hydrobromide (5mg) 
+30119,Bisver 16mg Tablet,78.0,False,H & Care Incorp,allopathy,strip of 10 tablets,Betahistine (16mg),
+33769,B4F DM 30mg/20mg Tablet,59.9,False,Mmatrics Pharmaceuticals,allopathy,strip of 10 tablets,Domperidone (30mg) , Rabeprazole (20mg)
+30144,Burdy AC Tablet,45.0,False,Caddes Life Sciences,allopathy,strip of 10 tablets,Caffeine (30mg) , Paracetamol (325mg) 
+28749,Bronchoril 200 SR Tablet,325.0,False,Bioceutics Inc,allopathy,strip of 10 tablet sr,Acebrophylline (200mg),
+29654,Brunojoy 300 Tablet ER,239.0,False,Mitis Biomedics Ltd,allopathy,strip of 10 tablet er,Bupropion (300mg),
+31095,Bezral 2% Soap,99.0,False,Bioethics Lifesciences Pvt Ltd,allopathy,box of 75 gm Soap,Ketoconazole (2% w/w),
+32542,Bruspaz 8mg/50mg Tablet,216.5,True,Abbott,allopathy,strip of 10 tablets,Thiocolchicoside (8mg) , Diclofenac (50mg)
+31295,Belfix AZ 200mg/250mg Tablet,165.0,False,Blubell Pharma,allopathy,strip of 10 tablets,Cefixime (200mg) , Azithromycin (250mg)
+27294,Belofen-P Tablet,49.0,False,Mediquest Inc.,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg)
+25995,Bupron XL 300 Tablet,301.0,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 Tablet pr,Bupropion (300mg),
+25825,Betadine Vaginal Pessaries,216.0,False,Win-Medicare Pvt Ltd,allopathy,packet of 10 pessaries,Povidone Iodine (200mg),
+30230,Biopram 0.5mg/10mg Tablet,85.4,False,Vision Biolife Pvt Ltd,allopathy,strip of 10 tablets,Etizolam (0.5mg) , Escitalopram Oxalate (10mg)
+30685,Boonkuf M Syrup,80.0,False,Mediboon Pharma Private Limited,allopathy,bottle of 100 ml Syrup,Bromhexine (2mg/5ml) , Guaifenesin (50mg/5ml) 
+25833,Britzilam 50 Tablet,245.6,False,Torrent Pharmaceuticals Ltd,allopathy,strip of 15 tablets,Brivaracetam (50mg),
+31744,Bradia 7.5mg Tablet,140.0,True,Biocon,allopathy,strip of 10 tablets,Ivabradine (7.5mg),
+29237,BALISTA 100MG TABLET,70.0,True,Zydus Cadila,allopathy,strip of 10 tablets,Balofloxacin (100mg),
+28438,Biobend Plus 12mg/400mg Tablet,20.5,False,Biocin Genetics & Pharma,allopathy,strip of 1 Tablet,Ivermectin  (12mg) ,  Albendazole (400mg)
+27898,Biopyrin 650 Tablet,26.66,False,Biochem Pharmaceutical Industries,allopathy,strip of 15 tablets,Paracetamol (650mg),
+31083,Biocip Eye/Ear Drops,8.5,True,Biochem Pharmaceutical Industries,allopathy,packet of 10 ml Eye/Ear Drops,Ciprofloxacin (0.3% w/v),
+28508,Bactocep 500mg Capsule,108.0,False,Bactolac Formulations Pvt Ltd,allopathy,strip of 10 capsules,Cefalexin (500mg),
+29519,Bioquin 200mg Tablet,68.5,True,Ipca Laboratories Ltd,allopathy,strip of 10 tablets,Hydroxychloroquine (200mg),
+30823,Bluspar 100mg Tablet,21.67,False,Blue Cross Laboratories Ltd,allopathy,strip of 6 tablets,Sparfloxacin (100mg),
+27355,Blucob NT 75mg/10mg Tablet,134.0,False,Bluewaterresearch,allopathy,strip of 10 tablets,Pregabalin (75mg) , Nortriptyline (10mg)
+32158,Bristan AT Tablet,65.0,False,Brilliant Lifesciences Pvt Ltd,allopathy,strip of 10 tablets,Atenolol (50mg) , Losartan (50mg)
+26357,Brivanext 50mg Tablet,150.0,False,MSN Laboratories,allopathy,strip of 10 tablets,Brivaracetam (50mg),
+27850,Betago 16mg Tablet,55.0,False,BMW Pharmaco India Pvt. Ltd.,allopathy,strip of 10 tablets,Betahistine (16mg),
+32472,Bisrab 20mg Tablet,37.5,False,Megamed Remedies,allopathy,strip of 10 tablets,Rabeprazole (20mg),
+29260,Biosev C 400mg Tablet,352.93,False,Biocon,allopathy,strip of 10 tablets,Sevelamer (400mg),
+30277,Bidace 10mg Tablet,60.0,False,Hauz Pharma Pvt Ltd,allopathy,strip of 10 tablets,Serratiopeptidase (10mg),
+33705,Boxer OZ 200 mg/500 mg Suspension,59.51,False,Shrinivas Gujarat Laboratories Pvt Ltd,allopathy,bottle of 60 ml Suspension,Ofloxacin (200mg) , Ornidazole (500mg)
+27844,Brovert FM 10mg/120mg/200mg Tablet,226.0,False,Raymedica Pharmaceuticals,allopathy,strip of 10 tablets,Montelukast (10mg) , Fexofenadine (120mg) 
+29845,Betaride 16mg Tablet,80.0,False,Sarcoma Remedies Pvt Ltd,allopathy,strip of 10 tablets,Betahistine (16mg),
+28272,Bioten 20 Tablet,155.0,False,Holy Evolution Pharma,allopathy,strip of 10 tablets,Baclofen (20mg),
+29211,Benver-I 12mg/400mg Tablet,185.0,False,Iscon Life Sciences,allopathy,strip of 10 tablets,Ivermectin  (12mg) ,  Albendazole (400mg)
+26468,Bravia-D Tablet,87.39,False,Grandcure Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Domperidone (10mg) , Rabeprazole (20mg)
+30745,Bullcef 250mg Tablet,132.0,False,Evershine Lifesciences Pvt Ltd,allopathy,strip of 6 tablets,Cefuroxime (250mg),
+31860,Bre ON 2mg Dry Syrup,36.0,False,Brance Biotech,allopathy,bottle of 30 ml Dry Syrup,Ondansetron (2mg),
+28698,Bioprate 10mg Tablet,54.65,False,Ikon Remedies Pvt Ltd,allopathy,strip of 10 tablets,Medroxyprogesterone acetate (10mg),
+27197,Besol Injection,4.0,False,Akme Biotec,allopathy,vial of 1 ml Injection,Betamethasone (4mg/ml),
+30630,Bencef CV Dry Syrup,165.0,False,Innovative Pharmaceuticals,allopathy,bottle of 30 ml Dry Syrup,Cefuroxime (125mg) , Clavulanic Acid (31.25mg)
+31632,Brexgyl-D Syrup,68.0,False,Selexia Biotech Private Limited,allopathy,bottle of 100 ml Syrup,Chlorpheniramine Maleate (2mg) , Dextromethorphan Hydrobromide (10mg) 
+26050,Bestopic N  Cream,53.0,False,Systopic Laboratories Pvt Ltd,allopathy,tube of 10 gm Cream,Beclometasone (0.025% w/w) , Neomycin (0.5% w/w) 
+26414,Bactroban Cream,106.7,True,Glaxo SmithKline Pharmaceuticals Ltd,allopathy,tube of 7.5 gm Cream,Mupirocin (2% w/w),
+32215,Bronfix DS LB Dry Syrup Orange,116.0,False,Medilance Healthcare,allopathy,bottle of 30 ml Dry Syrup,Cefixime (100mg) , Lactobacillus (60Million spores)
+27138,Bandrone 50mg Tablet,546.0,False,Natco Pharma Ltd,allopathy,strip of 10 tablets,Ibandronic Acid (50mg),
+33106,Bepone D 10mg/20mg Tablet,59.0,False,Morecare Pharmatec Pvt Ltd,allopathy,strip of 10 tablets,Domperidone (10mg) , Rabeprazole (20mg)
+28448,Betagain-M Injection,36.0,False,Meditouch Wellness,allopathy,ampoule of 2 ml Injection,Methylcobalamin (1000mcg) , Vitamin B6 (Pyridoxine) (100mg) 
+26640,Budate 400 Transcaps,174.3,False,Lupin Ltd,allopathy,bottle of 30 transcaps,Budesonide (400mcg),
+27401,Besicor AM 5mg/2.5mg Tablet,97.5,False,Ajanta Pharma Ltd,allopathy,strip of 15 tablets,Amlodipine (5mg) , Bisoprolol (2.5mg)
+29371,Bileoxy 300 Tablet,420.0,False,Sanador Healthcare,allopathy,strip of 10 tablets,Ursodeoxycholic Acid (300mg),
+31711,Bolofen 10mg Tablet,95.0,False,Crescent Therapeutics Ltd,allopathy,strip of 10 tablets,Baclofen (10mg),
+28526,Bromodex T Syrup,72.5,False,Aurio Pharma Laboratories Pvt Ltd,allopathy,bottle of 100 ml Syrup,Ambroxol (15mg) , Guaifenesin (50mg) 
+31401,Betagesic SR 1000mg Tablet ER,45.0,False,Betamax Remedies,allopathy,strip of 10 tablet er,Paracetamol (1000mg),
+33104,Beniv Oral Suspension,31.0,False,Rezicure Pharmaceuticals,allopathy,bottle of 10 ml Oral Suspension,Ivermectin  (1.5mg) ,  Albendazole (200mg)
+32949,Broxin KID 125mg Tablet,33.0,False,Acron Pharmaceuticals,allopathy,strip of 10 tablets,Cefalexin (125mg),
+28727,Bestodox 100mg Tablet DT,28.75,False,BestoChem Formulations  India  Ltd,allopathy,strip of 10 tablet dt,Doxycycline (100mg),
+30082,Brofel Capsule,95.0,False,Curolife Biochem Private Limited,allopathy,strip of 10 capsules,Acebrophylline (100mg),
+32898,Bivir Tablet DT,60.0,False,Prayas Pharmaceuticals,allopathy,strip of 5 tablet dt,Acyclovir (400mg),
+33816,Binitac 150mg Tablet,8.0,False,Bini Laboratories Pvt Ltd,allopathy,strip of 10 tablets,Ranitidine (150mg),
+28131,Bacimox CV 500mg/125mg Tablet,188.8,False,Prism Life Sciences Ltd,allopathy,strip of 10 tablets,Amoxycillin  (500mg) ,  Clavulanic Acid (125mg)
+30181,Big-Tum 750 Injection,93.08,False,BestoChem Formulations  India  Ltd,allopathy,vial of 1 Injection,Ceftriaxone (500mg) , Sulbactam (250mg)
+31302,Beritus AM Syrup,65.0,False,Rosswelt Biosciences,allopathy,bottle of 100 ml Syrup,Ambroxol (15mg/5ml) , Guaifenesin (50mg/5ml) 
+28599,Becloman CN Cream,49.0,False,Shalman Pharma Pvt Ltd,allopathy,tube of 10 gm Cream,Beclometasone (0.025% w/w) , Neomycin (0.5% w/w) 
+28629,B Colex Injection,8.06,False,Torque Pharmaceuticals Pvt Ltd,allopathy,vial of 1 ml Injection,Thiamine(Vitamin B1) (2500mcg) , Folic Acid (0.7mcg) 
+31625,Boonkuf AM Syrup,78.0,False,Mediboon Pharma Private Limited,allopathy,bottle of 100 ml Syrup,Ambroxol (30mg/5ml) , Guaifenesin (50mg/5ml) 

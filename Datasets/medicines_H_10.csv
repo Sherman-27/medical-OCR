@@ -1,0 +1,11 @@
+id,name,price(₹),Is_discontinued,manufacturer_name,type,pack_size_label,short_composition1,short_composition2
+107293,HAXONE S  INJECTION 1000 MG/500 MG,113.31,True,Hindustan Antibiotics Ltd,allopathy,vial of 10 ml Injection,Ceftriaxone (1000mg) , Sulbactam (500mg)
+103808,Hhamclav 625 Tablet,223.24,False,Hegde and Hegde Pharmaceutical LLP,allopathy,strip of 10 tablets,Amoxycillin  (500mg) ,  Clavulanic Acid (125mg)
+106169,Healace 5mg Tablet,74.0,False,Mas Life Science,allopathy,strip of 10 tablets,Ramipril (5mg),
+106165,Hycret M 500mg/20mg Tablet SR,120.0,False,Vats Biotech Pvt Ltd,allopathy,strip of 10 tablet sr,Metformin (500mg) , Teneligliptin (20mg)
+106863,Hyglim M 2mg/500mg Tablet SR,90.0,False,Sunniva Life Science,allopathy,strip of 15 tablet sr,Glimepiride (2mg) , Metformin (500mg)
+105471,Hairz 2 Hair Growth Solution,259.0,False,Forman Medics Pvt Ltd,allopathy,bottle of 60 ml Solution,Minoxidil (2% w/v),
+105684,Henpar 650 DT Tablet,21.0,False,Henin Lukinz Pvt Ltd,allopathy,strip of 15 tablet dt,Paracetamol (650mg),
+106540,Halopi 0.25 Tablet,11.0,False,Events Pharma,allopathy,strip of 10 tablets,Haloperidol (0.25mg),
+104611,Histigra 120mg Tablet,95.0,False,Univentis Medicare Ltd,allopathy,strip of 10 tablets,Fexofenadine (120mg),
+104700,Heptosoft 300mg Tablet,180.0,False,Bonsai Pharma,allopathy,strip of 10 tablets,Ursodeoxycholic Acid (300mg),

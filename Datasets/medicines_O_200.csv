@@ -1,0 +1,201 @@
+id,name,price(₹),Is_discontinued,manufacturer_name,type,pack_size_label,short_composition1,short_composition2
+164869,Olmax-M 50 Tablet ER,284.0,True,Glenmark Pharmaceuticals Ltd,allopathy,strip of 15 tablet er,Olmesartan Medoxomil (20mg) , Metoprolol Succinate (50mg)
+172837,Olsuca 7.5mg Tablet,52.0,False,Curis Lifecare,allopathy,strip of 10 tablets,Olanzapine (7.5mg),
+165384,Ossa Fit Tablet,180.0,False,Leo Star Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Glucosamine (750mg) , Diacerein (50mg) 
+161988,Orogard Mouth Paint,85.0,False,Alkem Laboratories Ltd,allopathy,bottle of 15 ml Mouth Paint,Clotrimazole (1% w/v),
+168465,Oroxin 150mg Tablet,95.0,False,Orange Biotech Pvt Ltd,allopathy,strip of 10 tablets,Roxithromycin (150mg),
+169138,Olraas AM  40mg/5mg Tablet,120.0,False,RPG Life Sciences Ltd,allopathy,strip of 10 tablets,Olmesartan Medoxomil (40mg) , Amlodipine (5mg)
+163956,OCOTRET 10 MG TABLET,90.0,True,Ochoa Laboratories Ltd,allopathy,strip of 10 tablets,Isotretinoin (10mg),
+172006,Onace 100mg Tablet,28.0,False,Cronus Biotech Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg),
+168086,Opera D 30mg/20mg Capsule SR,80.0,False,Apical Biologicals,allopathy,strip of 10 capsule sr,Domperidone (30mg) , Omeprazole (20mg)
+170855,Ozpod CV 200mg/125mg Tablet,198.0,False,Osvel Pharma,allopathy,strip of 6 tablets,Cefpodoxime Proxetil (200mg) , Clavulanic Acid (125mg)
+163314,Otiden Ear Drop,38.5,False,BMW Pharmaco India Pvt. Ltd.,allopathy,bottle of 10 ml Ear Drop,Lidocaine (2% w/v) , Beclometasone (0.025% w/v) 
+172576,Onkam 2mg/5ml Syrup,32.76,False,Kamron Laboratories Ltd,allopathy,bottle of 30 ml Syrup,Ondansetron (2mg/5ml),
+167010,Oxytetracyline Oral Solution,67.06,False,Pfizer Ltd,allopathy,bottle of 60 ml Oral Solution,Oxytetracycline (NA),
+167982,Ogaba 75mg Tablet,110.0,False,Otik Biotec,allopathy,strip of 10 tablets,Pregabalin (75mg),
+163901,Oa Plus Tablet,149.9,False,Solitaire Pharmacia Pvt Ltd,allopathy,strip of 10 tablets,Diacerein (50mg) , Glucosamine Sulfate Potassium Chloride (500mg) 
+168256,Oftal Eye Ointment,27.0,False,Talson Pharmaceuticals,allopathy,tube of 5 gm Eye Ointment,Ofloxacin (0.3% w/w),
+162331,Ozebrut Cream,225.0,False,Mankind Pharma Ltd,allopathy,tube of 10 gm Cream,Ozenoxacin (1% w/w),
+162149,Optiqmega HD Tablet,1480.0,False,Optimal Pharma tech,allopathy,strip of 10 tablets,Coenzyme Q10 (300mg) , Omega-3 fatty acid (500mg) 
+163233,Opel 100 mg/500 mg Tablet,35.75,False,Organic Laboratories,allopathy,strip of 10 tablets,Nimesulide (100mg) , Paracetamol (500mg)
+170582,Octamox 125mg Tablet DT,21.0,False,Medispan Ltd,allopathy,strip of 10 tablet dt,Amoxycillin (125mg),
+164713,Odicef S 500 mg/250 mg Injection,96.8,False,Galpha Laboratories Ltd,allopathy,vial of 1 Injection,Ceftriaxone (500mg) , Sulbactam (250mg)
+168703,Ofcet 200mg Tablet,44.0,False,Wellmed Pharma,allopathy,strip of 10 tablets,Ofloxacin (200mg),
+171196,Obeta 100mg Tablet,21.5,True,Intas Pharmaceuticals Ltd,allopathy,strip of 14 tablets,Atenolol (100mg),
+170686,Octamox CV 200 mg/28.5 mg Dry Syrup,53.16,False,Medispan Ltd,allopathy,bottle of 30 ml Dry Syrup,Amoxycillin  (200mg) ,  Clavulanic Acid (28.5mg)
+173058,Omdarsh D 10mg/20mg Capsule,50.0,False,Shreeji Healthcare Impex,allopathy,strip of 10 capsules,Domperidone (10mg) , Omeprazole (20mg)
+165729,OP-Club Eye Drop,106.0,False,Olamic Healthcare,allopathy,bottle of 5 ml Ophthalmic Solution,Olopatadine (0.1% w/v),
+162999,Oratil 1.5gm Injection,248.0,False,Macleods Pharmaceuticals Pvt Ltd,allopathy,vial of 1 Injection,Cefuroxime (1.5gm),
+168116,Omrez 20 Capsule,50.0,False,Recure Pharma,allopathy,strip of 10 capsules,Omeprazole (20mg),
+162027,Omnikacin 500 Injection,161.05,False,Cipla Ltd,allopathy,vial of 2 ml Injection,Amikacin (500mg),
+167389,Ozel 200mg Tablet,70.0,False,Khandelwal Laboratories Pvt Ltd,allopathy,strip of 10 tablets,Ofloxacin (200mg),
+172408,Optikof LS Oral Drops Raspberry,54.9,False,Optiva Pharma Pvt Ltd,allopathy,bottle of 15 ml Oral Drops,Levosalbutamol (0.25mg) , Ambroxol (7.5mg) 
+168410,Olrace 40mg Tablet,160.0,False,Hemera Life Sciences Private Limited,allopathy,strip of 10 tablets,Olmesartan Medoxomil (40mg),
+165545,Onbixin 37.5mg Tablet,209.0,False,Dycine Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Paroxetine (37.5mg),
+172000,Olfix 50mg Suspension,56.0,False,Orley Laboratories Pvt Ltd,allopathy,bottle of 30 ml Suspension,Cefixime (50mg),
+165291,Origest 200mg Capsule,320.0,False,Oriel Healthcare Pvt Ltd,allopathy,strip of 10 capsules,Progesterone (Natural Micronized) (200mg),
+173391,Ondacus 2mg Oral Suspension,36.0,False,Zencus Pharma,allopathy,bottle of 30 ml Oral Suspension,Ondansetron (2mg),
+163595,Obrin Ophthalmic Gel,42.85,False,Senses Pharmaceuticals Ltd,allopathy,tube of 5 gm Ophthalmic Gel,Tobramycin (0.3% w/w),
+167738,Oflokos K Eye Drop,68.0,False,Elkos Healthcare Pvt Ltd,allopathy,bottle of 10 ml Eye Drop,Ofloxacin (0.3% w/v) , Ketorolac (0.5% w/v)
+167553,Olmiheart H 12.5mg/40mg Tablet,200.0,False,Erinyle Pharma,allopathy,strip of 10 tablets,Hydrochlorothiazide (12.5mg) , Olmesartan Medoxomil (40mg)
+164251,Odoxil DS 250mg Dry Syrup,33.0,False,Lupin Ltd,allopathy,bottle of 30 ml Dry Syrup,Cefadroxil (250mg),
+169548,Omekon 20mg Capsule,30.0,False,Alliance Remedies,allopathy,strip of 10 capsules,Omeprazole (20mg),
+167941,Omester 20mg Capsule,32.0,False,Laxter Pharmaceutical Pvt Ltd,allopathy,strip of 10 capsules,Omeprazole (20mg),
+165720,Orthomov Tablet,200.0,False,Gayathri Formulations,allopathy,strip of 10 tablets,Glucosamine (750mg) , Diacerein (50mg) 
+163470,Ozospas-M Tablet,110.0,False,Ozone Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Drotaverine (80mg) , Mefenamic Acid (250mg)
+164800,Olazm 5mg Tablet,42.0,False,Surge Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Olanzapine (5mg),
+167128,Olsavas AM 20 mg/5 mg Tablet,86.9,False,Orchid Chemicals & Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Olmesartan Medoxomil (20mg) , Amlodipine (5mg)
+165024,Olmetor 10mg Tablet,62.6,False,Torrent Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Olmesartan Medoxomil (10mg),
+170951,Osonim P 100mg/500mg Tablet,33.0,False,Osper Formulations Pvt Ltd,allopathy,strip of 10 tablets,Nimesulide (100mg) , Paracetamol (500mg)
+170270,Ompizole D 10 mg/20 mg Capsule,10.0,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 capsules,Domperidone (10mg) , Omeprazole (20mg)
+163633,Orthokind 200mg Tablet,69.9,True,Mankind Pharma Ltd,allopathy,strip of 10 tablets,Hydroxychloroquine (200mg),
+171463,Oflosar 200 Tablet,54.0,False,Vsaar Pharma Pvt Ltd,allopathy,strip of 10 tablets,Ofloxacin (200mg),
+167448,Onon 4mg Tablet MD,35.0,False,Mestra Pharma Pvt Ltd,allopathy,strip of 10 tablet md,Ondansetron (4mg),
+168812,Omejem 20mg Capsule,35.0,False,Jemster Healthcare Private Limited,allopathy,strip of 10 capsules,Omeprazole (20mg),
+169445,Oregra-M Tablet,140.0,False,Rishab Healthcare pvt. Ltd.,allopathy,strip of 10 tablets,Montelukast (10mg) , Fexofenadine (160mg)
+163921,Oslol-TR 40 Capsule,60.5,False,Oxpro Pharma Private Limited,allopathy,strip of 10 capsule er,Propranolol (40mg),
+166893,Onfresh 2mg Syrup,36.5,False,Alcott Healthcare Pvt Ltd,allopathy,bottle of 30 ml Syrup,Ondansetron (2mg),
+165348,Olee 10mg Tablet MD,55.8,False,Tweet India Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablet md,Olanzapine (10mg),
+171750,Oncip TZ 500mg/600mg Tablet,62.75,False,Pharma Plus,allopathy,strip of 10 tablets,Ciprofloxacin (500mg) , Tinidazole (600mg)
+166347,Ottace-P Tablet,45.0,False,Plenum Biotech,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg)
+163122,Ocuvana HA Eye Drop,398.0,False,Waypham India Pvt Ltd,allopathy,bottle of 10 ml Eye Drop,Sodium Hyaluronate (0.1% w/v),
+162531,Onitraz SB 50mg Capsule,150.0,False,KLM Laboratories Pvt Ltd,allopathy,strip of 10 capsules,Itraconazole (50mg),
+166552,Oxacent 600mg Tablet,147.0,False,Crescent Therapeutics Ltd,allopathy,strip of 10 tablets,Oxcarbazepine (600mg),
+172623,Overxon 500mg Injection,45.0,False,Medivaxia Pharma,allopathy,vial of 1 Injection,Ceftriaxone (500mg),
+171528,Ofalmax OZ 200mg/500mg Tablet,64.9,False,Sristi Pharmaceuticals,allopathy,strip of 10 tablets,Ofloxacin (200mg) , Ornidazole (500mg)
+166447,Opred 125mg Injection,475.0,False,Celon Laboratories Ltd,allopathy,vial of 1 Injection,Methylprednisolone (125mg),
+173510,Oflopot OZ Oral Suspension,57.0,False,Snu Biocare,allopathy,bottle of 60 ml Oral Suspension,Ofloxacin (50mg/5ml) , Ornidazole (125mg/5ml)
+166182,OA 200mg Tablet,45.36,False,Aaron Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Ofloxacin (200mg),
+170743,Olymox 500mg Capsule,50.0,False,Shalaks Healthcare,allopathy,strip of 10 capsules,Amoxycillin (500mg),
+166271,Oxaltero 50mg Injection,2025.0,False,Hetero Healthcare Limited,allopathy,vial of 25 ml Injection,Oxaliplatin (50mg),
+167978,Ozi 250 Tablet,62.35,False,Medcure Pharma,allopathy,strip of 6 tablets,Azithromycin (250mg),
+165910,Olmont Syrup,65.0,False,Ind Blues Pharma,allopathy,bottle of 60 ml Syrup,Levocetirizine (2.5mg) , Montelukast (4mg)
+164645,Olmenol T 40mg/10mg/12.5mg Tablet,125.0,False,Fawn Incorporation,allopathy,strip of 10 tablets,Olmesartan Medoxomil (40mg) , Cilnidipine (10mg) 
+166315,Ondistop 4mg Tablet,46.0,False,Skyways Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Ondansetron (4mg),
+167274,Ozomed 20mg Tablet,32.0,False,Medna Biotech Private Limited,allopathy,strip of 10 tablets,Omeprazole (20mg),
+167150,Oxocetam 800mg Tablet,108.0,False,Lifecare Neuro Products Ltd,allopathy,strip of 10 tablets,Piracetam (800mg),
+162010,Orthosenz Ointment,240.79,False,Eris Lifesciences Ltd,allopathy,tube of 30 gm Ointment,Capsaicin Based Rubefacients (0.025% w/w) , Diclofenac (4% w/w) 
+161701,Opox 200mg Tablet,158.5,False,Hetero Drugs Ltd,allopathy,strip of 10 tablets,Cefpodoxime Proxetil (200mg),
+171270,Opot 200mg Tablet,51.0,False,Ridgecure Pharma,allopathy,strip of 10 tablets,Ofloxacin (200mg),
+164311,Obactin Cef 200mg/200mg Tablet,198.0,False,Meridian Enterprises Pvt Ltd,allopathy,strip of 10 tablets,Cefixime (200mg) , Ofloxacin (200mg)
+164043,Oxalic M Suspension,41.0,False,Aronex Life Sciences Pvt Ltd,allopathy,bottle of 60 ml Suspension,Ofloxacin (50mg) , Metronidazole (100mg)
+166205,O Rabb D 30mg/20mg Capsule SR,89.9,False,Ostrich Pharmaceuticals Pvt Ltd,allopathy,strip of 10 capsule sr,Domperidone (30mg) , Rabeprazole (20mg)
+166676,Ocef 250mg Injection,57.2,False,Gujarat Terce Laboratories Ltd,allopathy,vial of 1 ml Injection,Cefuroxime (250mg),
+166265,Olmiblu 20mg Tablet,80.0,False,Bluewaterresearch,allopathy,strip of 10 tablets,Olmesartan Medoxomil (20mg),
+170026,Opepti DP 50mg/325mg/10mg Tablet,55.0,False,Aspire Healthcare,allopathy,strip of 10 tablets,Diclofenac (50mg) , Paracetamol (325mg) 
+162788,Omniclav Dry Syrup,70.0,False,Cipla Ltd,allopathy,bottle of 30 ml Dry Syrup,Amoxycillin  (200mg) ,  Clavulanic Acid (28.5mg)
+162493,Ozapin -MD 10 Tablet,99.3,False,Ipca Laboratories Ltd,allopathy,strip of 10 tablet md,Olanzapine (10mg),
+162545,Obgram 40 Tablet,175.0,False,Ingram Biosciences Pvt Ltd,allopathy,strip of 10 tablets,Otilonium Bromide (40mg),
+167697,Olpitric 5mg Tablet,51.45,False,Cubit Healthcare,allopathy,strip of 10 tablets,Zolpidem (5mg),
+162752,Odipan-DSR Tablet,68.0,False,Solitaire Pharmacia Pvt Ltd,allopathy,strip of 10 tablet sr,Domperidone (30mg) , Pantoprazole (40mg)
+169954,Ozeflox-OZ Tablet,89.0,False,Ozenius Pharmaceuticals,allopathy,strip of 10 tablets,Ofloxacin (200mg) , Ornidazole (500mg)
+162380,Ovares Soft Gelatin Capsule,175.0,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 soft gelatin capsules,Dehydroepiandrosterone (Micronized) (25mg) , Folic Acid (1.5mg)
+169931,Oxfact O Oral Suspension,108.5,False,Haustus Biotech Pvt Ltd,allopathy,bottle of 170 ml Oral Suspension,Sucralfate (1000mg) , Oxetacaine (20mg)
+169886,Olmegard-H Tablet,85.65,False,Emcure Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Hydrochlorothiazide (12.5mg) , Olmesartan Medoxomil (20mg)
+168187,Ondolin 4 Tablet MD,48.6,False,Medcure Pharma,allopathy,strip of 10 tablet md,Ondansetron (4mg),
+170969,OFX 50mg Oral Suspension,46.0,False,DSV Healthcare,allopathy,bottle of 60 ml Oral Suspension,Ofloxacin (50mg),
+165741,Out Tablet,71.71,False,Elder Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Ofloxacin (200mg) , Ornidazole (500mg)
+172545,Oadym MF 20mg/250mg Tablet,62.0,False,Yester Pharma Pvt Ltd,allopathy,strip of 10 tablets,Dicyclomine (20mg) , Mefenamic Acid (250mg)
+171003,Olmecil 20mg Tablet,78.0,False,Cista Medicorp,allopathy,strip of 10 tablets,Olmesartan Medoxomil (20mg),
+166971,Oplanet-OZ Tablet,82.5,False,Pharma Planet India,allopathy,strip of 10 tablets,Ofloxacin (200mg) , Ornidazole (500mg)
+171118,Ofkas OZ 200mg/500mg Tablet,77.0,False,Kaansla Pharmaceuticals Private Limited,allopathy,strip of 10 tablets,Ofloxacin (200mg) , Ornidazole (500mg)
+169982,Ofordoz Tablet,65.38,False,Ceras Pharmaceutical,allopathy,strip of 10 tablets,Ofloxacin (200mg) , Ornidazole (500mg)
+161650,Okacet-L Tablet,62.7,False,Cipla Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg),
+170606,Orizole F Syrup,12.76,False,Orison Pharma International,allopathy,bottle of 60 ml Syrup,Furazolidone (30mg) , Metronidazole (100mg)
+167875,Olminac MR Tablet,69.0,False,Olamic Healthcare,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg) 
+163971,Obimet V  0.2 Tablet PR,97.35,False,Corona Remedies Pvt Ltd,allopathy,strip of 10 Tablet pr,Metformin (500mg) , Voglibose (0.2mg)
+169933,Omzoc-D Capsule,55.0,False,Biozoc INC,allopathy,strip of 10 capsules,Domperidone (10mg) , Omeprazole (20mg)
+168682,Oxetaine S Suspension,170.0,False,SBS Life Sciences Pvt Ltd,allopathy,bottle of 200 ml Suspension,Sucralfate (1gm) , Oxetacaine (20mg)
+166088,Omcure 40mg Capsule,58.9,False,Finecure Pharmaceuticals Ltd.,allopathy,strip of 10 capsules,Omeprazole (40mg),
+170094,ORLITROY 60MG CAPSULE,215.0,True,Troikaa Pharmaceuticals Ltd,allopathy,strip of 10 capsules,Orlistat (60mg),
+165099,ODN 2mg/5ml Syrup,25.9,False,Lifecom Pharmaceuticals Pvt Ltd,allopathy,bottle of 30 ml Syrup,Ondansetron (2mg/5ml),
+169312,Omisil D 10mg/20mg Capsule,45.0,False,Walberg Pharmaceuticals,allopathy,strip of 10 capsules,Domperidone (10mg) , Omeprazole (20mg)
+166307,Oloxy LB Capsule,30.4,False,Orison Pharma International,allopathy,strip of 10 capsules,Amoxycillin (250mg) , Cloxacillin (250mg) 
+168516,Obact 400mg Tablet,99.0,False,Biomax Laboratories,allopathy,strip of 10 tablets,Ofloxacin (400mg),
+163815,Ocan 150mg Tablet,15.3,False,G Nine Pharmaceuticals,allopathy,strip of 1 Tablet,Fluconazole (150mg),
+167889,Omax 20mg Capsule,65.62,False,Kniss Laboratories Pvt  Ltd,allopathy,strip of 10 capsules,Omeprazole (20mg),
+167007,Olmigo 40mg Tablet,110.0,False,Wings Biotech Ltd,allopathy,strip of 10 tablets,Olmesartan Medoxomil (40mg),
+169762,Ordeglim-Duo 2/500 Tablet SR,50.4,False,Osiante Biotech,allopathy,strip of 10 tablet sr,Glimepiride (2mg) , Metformin (500mg)
+168492,Olmelife H 12.5mg/40mg Tablet,120.0,False,LifeCare Formulation Pvt Ltd,allopathy,strip of 10 tablets,Hydrochlorothiazide (12.5mg) , Olmesartan Medoxomil (40mg)
+161831,Odoxil 250 DT Tablet,45.6,False,Lupin Ltd,allopathy,strip of 10 tablet dt,Cefadroxil (250mg),
+166898,Omimed Tablet,80.0,False,Medease Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Esomeprazole (40mg),
+162355,Ocutears 1% Eye Drop,145.0,False,Jainson Biotech (India) Pvt Ltd,allopathy,bottle of 10 ml Eye Drop,Carboxymethylcellulose (1% w/v),
+169680,Olflox 400mg Tablet,89.0,False,Cuber Lifesciences,allopathy,strip of 10 tablets,Ofloxacin (400mg),
+167820,Ondar 4mg Injection,13.1,False,Rhombus Pharma Pvt Ltd,allopathy,vial of 2 ml Injection,Ondansetron (4mg),
+171725,Oxyphar CV Forte Dry Syrup,115.0,False,Dolphar Life Care Pvt Ltd,allopathy,bottle of 30 ml Dry Syrup,Amoxycillin  (400mg) ,  Clavulanic Acid (57mg)
+171915,Omerav 20mg Capsule,37.0,False,Ravic Healthcare,allopathy,strip of 10 capsules,Omeprazole (20mg),
+163814,OM OD Capsule,46.0,False,Pacific Drugs & Chemicals,allopathy,strip of 10 capsules,Omeprazole (20mg),
+161991,Orvas 10 Tablet,42.0,True,Systopic Laboratories Pvt Ltd,allopathy,strip of 14 tablets,Atorvastatin (10mg),
+167013,Optizox Tablet,53.85,False,Avinash Health Products Pvt Ltd,allopathy,strip of 10 tablets,Chlorzoxazone (250mg) , Diclofenac (50mg) 
+164652,Omriz D Capsule,75.0,False,Ritz Pharma,allopathy,strip of 10 capsules,Domperidone (10mg) , Omeprazole (20mg)
+172520,Onamed 2mg Oral Drops,36.0,False,Medsyn Lab Biotech,allopathy,bottle of 30 ml Oral Drops,Ondansetron (2mg),
+168263,Oflikast-OZ Tablet,75.0,False,Hebert Biotech,allopathy,strip of 10 tablets,Ofloxacin (200mg) , Ornidazole (500mg)
+168780,Oflostar TZ Tablet,94.38,False,Cadila Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Ofloxacin (200mg) , Tinidazole (600mg)
+166855,Oflovive-OZ-LB Tablet,97.0,False,Vrevive Medicure Pvt. Ltd.,allopathy,strip of 10 tablets,Ornidazole (500mg) , Ofloxacin (200mg) 
+167120,Ofxwell-OZ Tablet,75.0,False,Everwell Pharma Pvt Ltd,allopathy,strip of 10 tablets,Ofloxacin (200mg) , Ornidazole (500mg)
+170701,Ofzen 400mg Tablet,84.0,False,Sain Medicaments Pvt Ltd,allopathy,strip of 10 tablets,Ofloxacin (400mg),
+166478,Onmol Syrup,35.25,False,Fitwel Pharmaceuticals Private Limited,allopathy,bottle of 60 ml Syrup,Paracetamol (250mg/5ml),
+169453,Oflid 200mg Tablet,56.0,False,Phoenix Pharmaceuticals,allopathy,strip of 10 tablets,Ofloxacin (200mg),
+173016,Olmedose-H Tablet,195.0,False,Care Formulation Labs Pvt Ltd,allopathy,strip of 10 tablets,Hydrochlorothiazide (12.5mg) , Olmesartan Medoxomil (40mg)
+169102,Ondot 4mg Tablet MD,51.5,False,Glorious Biotech,allopathy,strip of 10 tablet md,Ondansetron (4mg),
+172151,Osynac Gel,40.0,False,Pharmasynth Formulations Ltd,allopathy,tube of 20 gm Gel,Diclofenac (1.16% w/w),
+173427,Orwidox 50mg Dry Syrup,67.0,False,Orwin Biotech Pvt. Ltd.,allopathy,bottle of 30 ml Dry Syrup,Cefpodoxime Proxetil (50mg),
+166594,Oracon 200mg Capsule,225.0,False,Nemi Pharmaceuticles,allopathy,strip of 10 capsules,Itraconazole (200mg),
+172932,Ofvas 400mg Tablet,90.0,False,Decisive Pharma,allopathy,strip of 10 tablets,Ofloxacin (400mg),
+163033,Obiotic Plus Cream,78.0,False,BRD MediLabs,allopathy,tube of 15 gm Cream,Ciprofloxacin (1% w/w) , Metronidazole (1% w/w) 
+163565,Oak 200mg Tablet,69.0,False,Exotic Laboratories Pvt Ltd,allopathy,strip of 10 tablets,Ofloxacin (200mg),
+168626,Olamox LB 500mg Tablet,74.0,False,Rudolf Life Sciences Pvt Ltd,allopathy,strip of 10 tablets,Amoxycillin (500mg) , Lactobacillus (60Million spores)
+163609,Ovaease M 500mg/600mg Tablet SR,178.0,False,Saffron Medicare Pvt Ltd,allopathy,strip of 10 tablet sr,Metformin (500mg) , Myo-Inositol (600mg)
+163979,Odbion GB 300mg/500mcg Tablet,99.0,False,Aarux Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Gabapentin (300mg) , Methylcobalamin (500mcg)
+170733,Onzolef Forte 20mg Capsule,34.9,False,Sayona Medicare Pvt Ltd,allopathy,strip of 10 capsules,Omeprazole (20mg),
+172916,Ondix 1mg Injection,59.0,False,Nexus Biotech,allopathy,vial of 2 ml Injection,Ondansetron (1mg),
+170641,Ofcent 200 Tablet,51.9,False,Numera Life Sciences,allopathy,strip of 10 tablets,Ofloxacin (200mg),
+170917,Opol 25mg Tablet,19.0,False,Oscar Remedies Pvt Ltd,allopathy,strip of 10 tablets,Metoprolol Succinate (25mg),
+165501,Oxifol Tablet,25.0,False,Biogenetic Pharmaceuticals,allopathy,strip of 10 tablets,Doxylamine (10mg) , Vitamin B6 (Pyridoxine) (10mg) 
+170975,Oflobex OZ 200mg/500mg Tablet,69.0,False,Quintos Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Ofloxacin (200mg) , Ornidazole (500mg)
+166094,Omigas-D Capsule,68.04,False,Mancare Labs Pvt Ltd,allopathy,strip of 15 capsules,Domperidone (10mg) , Omeprazole (20mg)
+169576,Orthocel 100mg Tablet,27.0,False,Biochem Pharmaceutical Industries,allopathy,strip of 10 tablets,Celecoxib (100mg),
+166590,Ofx 100mg Oral Suspension,75.0,False,Embiotic Laboratories Pvt Ltd,allopathy,bottle of 60 ml Oral Suspension,Ofloxacin (100mg),
+173188,Oflanit 100mg Tablet,20.0,False,Signit Laboratories Pvt Ltd,allopathy,strip of 10 tablets,Ofloxacin (100mg),
+165760,Oxate 5mg Tablet,79.0,False,Astonea Labs Private Limited,allopathy,strip of 10 tablets,Methotrexate (5mg),
+168969,Ornikare Infusion,130.0,False,Rapid Life Drugs & Healthcare,allopathy,bottle of 100 ml Infusion,Ornidazole (0.5% w/v),
+164903,Oditel 40mg Tablet,64.0,False,Zinnia Life Sciences,allopathy,strip of 10 tablets,Telmisartan (40mg),
+172342,Ofsher 200mg Tablet,60.0,False,Sherwell Biotech,allopathy,strip of 10 tablets,Ofloxacin (200mg),
+166464,Omracap-DM 10mg/20mg Capsule,85.0,False,Nectar Biopharma Pvt Limited,allopathy,strip of 15 capsules,Domperidone (10mg) , Omeprazole (20mg)
+168346,Ondisung 4 MD Tablet,45.0,False,Neoliva Formulations,allopathy,strip of 10 tablet md,Ondansetron (4mg),
+167688,Offbac 200 Tablet,44.0,False,Adept Biocare,allopathy,strip of 10 tablets,Ofloxacin (200mg),
+162114,Oleanz 7.5 Tablet,90.0,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Olanzapine (7.5mg),
+162773,Octride 0.05mg Injection,305.0,False,Sun Pharmaceutical Industries Ltd,allopathy,vial of 1 ml Injection,Octreotide acetate (0.05mg),
+169469,Olmesat ID 40mg/1.5mg Tablet,120.0,False,Biocon,allopathy,strip of 10 tablets,Olmesartan Medoxomil (40mg) , Indapamide (1.5mg)
+163585,Oflochem Ord Syrup,18.75,False,Biochem Pharmaceutical Industries,allopathy,bottle of 30 ml Syrup,Ofloxacin (50mg/5ml) , Ornidazole (125mg/5ml)
+168686,Oflocube-OZ Tablet,110.0,False,Veecube Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Ofloxacin (200mg) , Ornidazole (500mg)
+166981,Omizol-D 10mg/20mg Capsule,49.0,False,Blossoms Biologicals,allopathy,strip of 10 capsules,Domperidone (10mg) , Omeprazole (20mg)
+170304,Omnec D 10mg/20mg Capsule,52.0,False,Rumik Lifescience Pvt Ltd,allopathy,strip of 10 capsules,Domperidone (10mg) , Omeprazole (20mg)
+172608,Ofetos OZ 200mg/500mg Tablet,69.0,False,Asbestos Drugs & Chemicals Pvt Ltd,allopathy,strip of 10 tablets,Ofloxacin (200mg) , Ornidazole (500mg)
+165787,Olworm 400mg Suspension,16.65,False,Biochem Pharmaceutical Industries,allopathy,bottle of 10 ml Suspension,Albendazole (400mg),
+172563,Oflod 200mg Tablet,44.0,False,Lifecare Neuro Products Ltd,allopathy,strip of 10 tablets,Ofloxacin (200mg),
+165577,Ongab 750mcg/150mg Capsule,228.5,False,Torrent Pharmaceuticals Ltd,allopathy,strip of 10 capsules,Methylcobalamin (750mcg) , Pregabalin (150mg)
+163210,Ocfex-M Tablet,120.0,False,Octane Biotech Pvt Ltd,allopathy,strip of 10 tablets,Montelukast (10mg) , Fexofenadine (120mg)
+168882,Otrifresh 0.1% Nasal Drops,54.66,False,Ikon Remedies Pvt Ltd,allopathy,bottle of 10 ml Nasal Drops,Xylometazoline (0.1% w/v),
+165315,Ondee 2mg/5ml Drop,34.8,False,Zydus Healthcare Limited,allopathy,packet of 30 ml Drop,Ondansetron (2mg/5ml),
+169156,Olenase T Tablet,190.0,False,Olens Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Thiocolchicoside (4mg)
+173017,Olrace H 12.5mg/40mg Tablet,183.0,False,Hemera Life Sciences Private Limited,allopathy,strip of 10 tablets,Hydrochlorothiazide (12.5mg) , Olmesartan Medoxomil (40mg)
+165939,Oviday 5mg Tablet,18.0,False,Casca Remedies Pvt Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg),
+168706,Ofvista OZ Suspension,26.5,False,Elder Pharmaceuticals Ltd,allopathy,bottle of 30 ml Suspension,Ofloxacin (50mg/5ml) , Ornidazole (125mg/5ml)
+170321,Ofturn OZ Oral Suspension,39.8,False,VHC Pharmaceuticals,allopathy,bottle of 30 ml Oral Suspension,Ofloxacin (50mg) , Ornidazole (125mg)
+166025,Oromol A 150mg Suspension,40.17,False,Embiotic Laboratories Pvt Ltd,allopathy,bottle of 60 ml Suspension,Paracetamol (150mg),
+170249,Onpride 50 Tablet,88.9,False,Masson Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Amisulpride (50mg),
+173489,Onace 2mg Injection,16.0,False,Raddison Health Care Pvt Ltd,allopathy,vial of 2 ml Injection,Ondansetron (2mg),
+163378,Opel Spas Tablet,21.5,False,Stanford Biotech Pvt Ltd,allopathy,strip of 10 tablets,Omeprazole (NA),
+162481,Odicef 500mg Injection,45.8,False,Galpha Laboratories Ltd,allopathy,vial of 5 ml Injection,Ceftriaxone (500mg),
+168476,Optikof AF Oral Drops Orange,51.9,False,Optiva Pharma Pvt Ltd,allopathy,bottle of 15 ml Oral Drops,Chlorpheniramine Maleate (2mg/ml) , Phenylephrine (5mg/ml)
+163061,Olpress 3D Tablet,235.0,False,Arche Medichem Pvt Ltd,allopathy,strip of 15 tablets,Olmesartan Medoxomil (40mg) , Amlodipine (5mg) 
+170476,Ofrex TZ 200mg/600mg Tablet,80.0,False,Zydus Cadila,allopathy,strip of 10 tablets,Ofloxacin (200mg) , Tinidazole (600mg)
+164037,Ospin 25mg Capsule,85.0,False,Cytoz Pharmaceuticals,allopathy,strip of 10 capsules,Doxepin (25mg),
+164319,Oxyglim G 1mg/500mg Tablet,52.0,False,Kotak Life Sciences,allopathy,strip of 10 tablets,Glimepiride (1mg) , Metformin (500mg)
+165823,Offkuf-AM Syrup Sugar Free,69.0,False,Fibovil Pharmaceuticals Pvt Ltd,allopathy,bottle of 100 ml Syrup,Ambroxol (15mg) , Guaifenesin (50mg) 
+170887,Oblidox 200 Tablet DT,170.0,False,Mecartus Health Care Pvt Ltd,allopathy,strip of 10 tablet dt,Cefpodoxime Proxetil (200mg),
+166248,Ojacon IT 200mg Tablet,220.0,False,Spranza Vita Pharmaceutical LLP,allopathy,strip of 10 tablets,Itraconazole (200mg),
+166135,Oxypar F Tablet,14.0,False,Beekay Pharmaceuticals,allopathy,strip of 10 tablets,Diclofenac (50mg) , Paracetamol (500mg) 
+161935,Olmat 20 AM Tablet,147.0,False,Micro Labs Ltd,allopathy,strip of 10 tablets,Olmesartan Medoxomil (20mg) , Amlodipine (5mg)
+162601,Oflochem OTC Cream,66.0,False,Biochem Pharmaceutical Industries,allopathy,tube of 15 gm Cream,Terbinafine (1% w/w) , Clobetasol (0.05% w/w) 

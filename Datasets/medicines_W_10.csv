@@ -1,0 +1,11 @@
+id,name,price(₹),Is_discontinued,manufacturer_name,type,pack_size_label,short_composition1,short_composition2
+243326,Waladrox 125mg Suspension,19.67,False,Wallace Pharmaceuticals Pvt Ltd,allopathy,bottle of 30 ml Suspension,Cefadroxil (125mg),
+242091,Widan 5mg Tablet,56.0,False,Cure Kelvin,allopathy,strip of 10 tablets,Norethisterone (5mg),
+242115,Welucel Mps Syrup,82.0,False,Martyn Nikk Pharma Private Limited,allopathy,bottle of 170 ml Syrup,Magaldrate (480mg) , Simethicone (20mg)
+243488,Wayflox OZ Syrup,19.9,False,Yacca Pharmaceuticals Pvt Ltd,allopathy,bottle of 30 ml Syrup,Ofloxacin (50mg) , Ornidazole (125mg)
+242599,Wintaz 4000mg/500mg Injection,450.0,False,Winsun Laboratories,allopathy,vial of 1 Injection,Piperacillin (4000mg) , Tazobactum (500mg)
+243398,Wepod O 200mg/200mg Tablet,219.0,False,Zenotis Healthcare,allopathy,strip of 10 tablets,Cefpodoxime Proxetil (200mg) , Ofloxacin (200mg)
+241804,Wincef 500mg Tablet,350.0,False,Ambic Ayurchem Ltd,allopathy,strip of 10 tablets,Cefuroxime (500mg),
+241532,Walaphage -SR 500 Tablet,35.46,False,Wallace Pharmaceuticals Pvt Ltd,allopathy,strip of 15 tablet sr,Metformin (500mg),
+242602,Winmox 250mg Capsule,33.0,False,Arihant Remedies Private Limited,allopathy,strip of 10 capsules,Amoxycillin (250mg),
+243394,Wormitek-I Tablet,26.0,False,Vintek Pharmaceuticals,allopathy,strip of 1 Tablet,Ivermectin  (6mg) ,  Albendazole (400mg)

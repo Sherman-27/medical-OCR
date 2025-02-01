@@ -1,0 +1,11 @@
+id,name,price(₹),Is_discontinued,manufacturer_name,type,pack_size_label,short_composition1,short_composition2
+25971,Budamate Forte Transcaps,388.7,False,Lupin Ltd,allopathy,bottle of 30 transcaps,Formoterol (12mcg) , Budesonide (400mcg)
+33596,Bacef T 1000mg/125mg Injection,152.0,False,Ambreyo Lifesciences,allopathy,vial of 1 Injection,Ceftriaxone (1000mg) , Tazobactum (125mg)
+32806,Brokav 100mg Tablet,79.0,False,Kav Laboratories,allopathy,strip of 10 tablets,Acebrophylline (100mg),
+27460,Buminate Infusion,3938.0,False,Baxter India Pvt Ltd,allopathy,bottle of 100 ml Infusion,Albumin (20%),
+27535,Bioex Gel,119.0,False,Biochemix Health Care Pvt. Ltd.,allopathy,tube of 15 gm Gel,Adapalene (0.1% w/w) , Clindamycin (1% w/w)
+33310,BIRYTH 50 MG TABLET,30.0,True,Emcure Pharmaceuticals Ltd,allopathy,strip of 4 tablets,Theophylline (50mg),
+31106,Brifix 100 DT Tablet,84.0,False,Biobrick Pharma,allopathy,strip of 10 tablet dt,Cefixime (100mg),
+29581,Bilclav 500 mg/125 mg Tablet,188.8,False,Viilbery Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Amoxycillin  (500mg) ,  Clavulanic Acid (125mg)
+32526,Bactorax 200mg Tablet,85.0,False,Moraceae Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Ofloxacin (200mg),
+28544,Brutaflox Injection,20.62,False,Mankind Pharma Ltd,allopathy,vial of 100 ml Injection,Ofloxacin (NA),

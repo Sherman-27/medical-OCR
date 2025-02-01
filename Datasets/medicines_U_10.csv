@@ -1,0 +1,11 @@
+id,name,price(₹),Is_discontinued,manufacturer_name,type,pack_size_label,short_composition1,short_composition2
+230523,Ulcireb-DSR Capsule,81.0,False,Allenge India,allopathy,strip of 10 capsule sr,Domperidone (30mg) , Rabeprazole (20mg)
+232058,Usroliv 300mg Tablet,320.0,False,Dr Kumars Pharmaceuticals,allopathy,strip of 10 tablets,Ursodeoxycholic Acid (300mg),
+232798,Ulcepan DSR 30 mg/40 mg Capsule,70.0,False,Rusi Remedies P  Ltd,allopathy,strip of 10 capsules,Domperidone (30mg) , Pantoprazole (40mg)
+231491,Uriox 200mg Tablet,133.0,False,Medons India,allopathy,strip of 10 tablets,Flavoxate (200mg),
+231283,Uniflox 200mg Tablet,45.0,True,Sanofi India  Ltd,allopathy,strip of 10 tablets,Ciprofloxacin (200mg),
+230973,Ursodox 150mg Tablet,152.0,False,Signova Pharma Pvt Ltd,allopathy,strip of 10 tablets,Ursodeoxycholic Acid (150mg),
+230244,Udiliv 450mg Tablet,541.47,False,Abbott,allopathy,strip of 10 tablets,Ursodeoxycholic Acid (450mg),
+232685,Ucef Kid 125mg Tablet DT,38.0,False,Rain Remedies,allopathy,strip of 10 tablet dt,Cefalexin (125mg),
+231289,Ulinatech Injection,4300.0,False,Protech Biosystems,allopathy,vial of 5 ml Injection,Ulinastatin (100000IU),
+233088,Ucx S 1000mg/500mg Injection,130.0,False,Dr Kumars Pharmaceuticals,allopathy,vial of 1 Injection,Ceftriaxone (1000mg) , Sulbactam (500mg)

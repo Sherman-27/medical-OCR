@@ -1,0 +1,11 @@
+id,name,price(₹),Is_discontinued,manufacturer_name,type,pack_size_label,short_composition1,short_composition2
+68908,Dictamol 50mg/500mg Tablet,22.65,False,Radius Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Diclofenac (50mg) , Paracetamol (500mg)
+65242,Dolanzen H  Tablet,181.0,True,Akumentis Healthcare Ltd,allopathy,strip of 10 tablets,Bromelain (90mg) , Trypsin (48mg) 
+62331,Dofy 400mg Tablet,57.5,False,Cosmas Research Lab Ltd,allopathy,strip of 10 tablets,Doxofylline (400mg),
+64791,Dic Top Gel,23.8,False,Dee Pharma Ltd,allopathy,tube of 20 gm Gel,Diclofenac (1% w/w),
+61083,Deflin 6mg Tablet,75.0,False,Healing India Life Sciences,allopathy,strip of 10 tablets,Deflazacort (6mg),
+63078,Doxsym 200mg Tablet,210.0,False,SBM Pharmaceuticals,allopathy,strip of 10 tablets,Cefpodoxime Proxetil (200mg),
+62888,Doxyqual LB Capsule,99.0,False,Rockmed Pharma Pvt. Ltd.,allopathy,strip of 10 capsules,Doxycycline (100mg) , Lactobacillus (5Billion Spores)
+64039,DavaIndia Etizolam 1mg Tablet,20.0,False,Davaindia Generic Pharmacy,allopathy,strip of 10 tablets,Etizolam (1mg),
+70089,Diared 1mg/500mg Tablet,52.0,False,Hextar Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Glimepiride (1mg) , Metformin (500mg)
+71644,Doxopax 400mg/10mg Tablet,132.0,False,Spark Bless Pharma,allopathy,strip of 10 tablets,Doxofylline (400mg) , Montelukast (10mg)

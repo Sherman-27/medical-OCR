@@ -1,0 +1,11 @@
+id,name,price(₹),Is_discontinued,manufacturer_name,type,pack_size_label,short_composition1,short_composition2
+118509,Kabigef 250mg Tablet,2139.63,False,Fresenius Kabi India Pvt Ltd,allopathy,strip of 10 tablets,Gefitinib (250mg),
+116122,Kalzin Nano Oral Solution (Each 5ml) Sugar Free,240.0,False,Unimarck Pharma India Ltd,allopathy,box of 4 oral solutions,Vitamin D3 (60000IU),
+118430,KC Force 50mg Tablet,200.0,False,KCM Laboratories,allopathy,strip of 10 tablets,Sildenafil (50mg),
+119309,Koxilex-P Tablet,91.0,False,Lxora Life Sciences,allopathy,strip of 10 tablets,Etoricoxib (60mg) , Paracetamol (325mg)
+118808,Kufsafe LS Oral Drops,45.0,False,Culmen Healthcare,allopathy,bottle of 15 ml Oral Drops,Ambroxol (7.5mg) , Levosalbutamol (0.25mg) 
+117849,Kymovil Plus 50mg/100000AU Tablet,99.0,False,Viilbery Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Diclofenac (50mg) , Trypsin Chymotrypsin (100000AU)
+116484,Ketofine Soap,110.0,False,Dermakare Pharmaceuticals Pvt Ltd,allopathy,packet of 75 gm Soap,Ketoconazole (1% w/w),
+118866,Kefage 250mg Injection,62.5,False,Indchemie Health Specialities Pvt Ltd,allopathy,vial of 1 Injection,Cefepime (250mg),
+116313,Kip 10mg Injection,53.0,False,DWD Pharmaceuticals Ltd,allopathy,vial of 1 ml Injection,Phytomenadione (10mg),
+116819,K Carb 25mg Tablet,30.01,True,Blue Cross Laboratories Ltd,allopathy,strip of 10 tablets,Acarbose (25mg),

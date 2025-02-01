@@ -1,0 +1,201 @@
+id,name,price(₹),Is_discontinued,manufacturer_name,type,pack_size_label,short_composition1,short_composition2
+216950,T-MINIC COLD SYRUP,90.8,True,Glaxo SmithKline Pharmaceuticals Ltd,allopathy,bottle of 60 ml Syrup,Chlorpheniramine Maleate (2mg/5ml) , Phenylephrine (5mg/5ml)
+222828,Texavil MF 500mg/250mg Tablet,220.0,False,Fibovil Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Tranexamic Acid (500mg) , Mefenamic Acid (250mg)
+217383,Tazlive Trio 40mg/5mg/12.5mg Tablet,119.0,False,Allysia Lifesciences Pvt Ltd,allopathy,strip of 10 tablets,Telmisartan (40mg) , Amlodipine (5mg) 
+224198,Thyroxium 150mcg Tablet,155.0,False,Elder Projects Ltd,allopathy,bottle of 100 tablets,Thyroxine (150mcg),
+222581,Teezol Topical Powder,65.0,False,Nidus Pharma Pvt Ltd,allopathy,box of 100 gm Powder,Clotrimazole (1% w/w),
+224054,Tufcid O Oral Gel Saunf Sugar Free,85.0,False,Medishri Healthcare,allopathy,bottle of 170 ml Oral Gel,Magaldrate (540mg) , Simethicone (50mg) 
+227745,Texclav CV LB 500mg/125mg Tablet,155.0,False,SBP Biotech,allopathy,strip of 6 tablets,Amoxycillin (500mg) , Clavulanic Acid (125mg) 
+220871,Torlis 100mg Tablet,340.0,False,Semper Fidelis Healthcare Pvt. Ltd.,allopathy,strip of 10 tablets,Torasemide (100mg),
+229312,Tramanec 50mg Injection,20.31,False,Nectar Remedies Ltd,allopathy,vial of 2 ml Injection,Tramadol (50mg),
+218461,Tacoba Forte 0.1% Ointment,950.0,False,Obat Medicare Pvt Ltd,allopathy,tube of 30 gm Ointment,Tacrolimus (0.1% w/w),
+216140,Tamzest Plus Tablet MR,135.0,False,Innovative Pharmaceuticals,allopathy,strip of 10 tablet mr,Tamsulosin  (0.4mg) ,  Dutasteride (0.5mg)
+229836,Thyrozyte 100mcg Tablet,116.45,False,Aamorb Pharmaceuticals Pvt Ltd,allopathy,bottle of 100 tablets,Thyroxine (100mcg),
+225271,Tearwish 0.5% Eye Drop,105.0,False,Nusmith Pharma Pvt. Ltd,allopathy,bottle of 10 ml Eye Drop,Carboxymethylcellulose (0.5% w/v),
+222570,Telsartan-H 80 Activ Tablet,255.0,True,Dr Reddy's Laboratories Ltd,allopathy,bottle of 30 tablets,Telmisartan (80mg) , Hydrochlorothiazide (12.5mg)
+226569,Tigatel 12mg Tablet,78.0,True,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Tiagabine (12mg),
+219055,Tormax 20mg Tablet,56.0,False,Lividus Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Torasemide (20mg),
+221462,Trixonid Forte Cream,92.0,False,Nidus Pharma Pvt Ltd,allopathy,tube of 20 gm Cream,Benzoyl Peroxide (5% w/w),
+224132,Telmiran H 40mg/12.5mg Tablet,140.0,False,Meddox Formulations,allopathy,strip of 15 tablets,Telmisartan (40mg) , Hydrochlorothiazide (12.5mg)
+220269,Tramagon Plus 37.5mg/325mg Tablet,65.0,False,Biozen Health Products Pvt Ltd,allopathy,strip of 10 tablets,Tramadol (37.5mg) , Paracetamol (325mg)
+224080,Telmates H 40mg/12.5mg Tablet,81.0,False,Tesla Labs Pvt Ltd,allopathy,strip of 10 tablets,Telmisartan (40mg) , Hydrochlorothiazide (12.5mg)
+230154,Tramy Plus 37.5mg/325mg Tablet,61.0,False,Senate Laboratories,allopathy,strip of 10 tablets,Tramadol (37.5mg) , Paracetamol (325mg)
+219935,Thiocheck 8mg Capsule,240.0,False,Future Pharma Pvt Ltd,allopathy,strip of 10 capsules,Thiocolchicoside (8mg),
+228763,Tarther 150mg Injection,90.0,False,Milard Life Sciences,allopathy,vial of 1 Injection,Alpha-Beta Arteether (150mg),
+229661,Tyscral O Oral Suspension,240.0,False,Tyscon Pharmaceuticals,allopathy,bottle of 200 ml Oral Suspension,Sucralfate (1000mg) , Oxetacaine (20mg)
+216611,Torvel 10 Tablet,41.0,False,C M R Life Sciences,allopathy,strip of 10 tablets,Torasemide (10mg),
+217079,Thio-XL 4mg Capsule,149.0,False,Bioplasma Immunological Research Pvt Ltd,allopathy,strip of 10 capsules,Thiocolchicoside (4mg),
+215278,Tamfil DS Capsule PR,643.0,False,Fourrts India Laboratories Pvt Ltd,allopathy,strip of 10 capsule pr,Tamsulosin (0.4mg) , Deflazacort (30mg)
+216507,Tellzy-RS Tablet,371.8,False,Alembic Pharmaceuticals Ltd,allopathy,strip of 15 tablets,Telmisartan (40mg) , Rosuvastatin (10mg)
+227904,Temcure 250mg Capsule,20000.0,False,Emcure Pharmaceuticals Ltd,allopathy,strip of 5 capsules,Temozolomide (250mg),
+216301,Troycof TR Syrup,110.0,False,Troikaa Pharmaceuticals Ltd,allopathy,bottle of 100 ml Syrup,Codeine (10mg/5ml) , Triprolidine (1.25mg/5ml)
+225745,Tenipack M Forte 1000mg/20mg Tablet ER,121.74,False,Koye Pharmaceuticals Pvt ltd,allopathy,strip of 10 tablet er,Metformin (1000mg) , Teneligliptin (20mg)
+215993,Trilin 10mg Tablet,29.5,False,Triton Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Amitriptyline (10mg),
+225548,Tebahist 8mg Tablet,40.0,False,Baxton Pharmacia,allopathy,strip of 10 tablets,Betahistine (8mg),
+225746,Thyramax 125mcg Tablet,153.0,False,Astonea Labs Private Limited,allopathy,bottle of 100 tablets,Thyroxine (125mcg),
+220379,Tussive AM Syrup,40.0,False,Swabhumi Drug & Pharmaceuticals India Ltd,allopathy,bottle of 100 ml Syrup,Ambroxol (30mg) , Guaifenesin (50mg) 
+224907,Trixone Plus 1000 mg/500 mg Injection,72.5,False,Torque Pharmaceuticals Pvt Ltd,allopathy,vial of 1 Injection,Ceftriaxone (1000mg) , Sulbactam (500mg)
+220192,Tolpee P 150mg/325mg Tablet,108.0,False,Solace Biotech Ltd,allopathy,strip of 10 tablets,Tolperisone (150mg) , Paracetamol (325mg)
+215828,Tadora 20mg Tablet,105.0,True,Zydus Healthcare Limited,allopathy,strip of 4 tablets,Tadalafil (20mg),
+229226,Tancold-Kid Oral Suspension,58.0,False,Tanzer Lifecare Pvt Ltd,allopathy,bottle of 60 ml Oral Suspension,Chlorpheniramine Maleate (2mg/5ml) , Paracetamol (250mg/5ml) 
+218234,Tyflon 200mg Tablet,47.7,False,Trio Remedies Pvt Ltd,allopathy,strip of 10 tablets,Ofloxacin (200mg),
+215629,Tiganex 50mg Injection,4328.17,False,Cipla Ltd,allopathy,vial of 5 ml Injection,Tigecycline (50mg),
+227742,TI Mero 500mg Injection,1036.0,False,Triglobal Lifesciences Private Limited,allopathy,vial of 1 Injection,Meropenem (500mg),
+215503,Tazid 1gm Injection,212.7,False,Alkem Laboratories Ltd,allopathy,vial of 10 ml Injection,Ceftazidime (1gm),
+226581,Tivazol 20mg Injection,64.9,False,Sanify Healthcare Pvt  Ltd,allopathy,vial of 1 Powder for Injection,Rabeprazole (20mg),
+223326,Troyperazone S 500 mg/500 mg Injection,397.0,False,Troikaa Pharmaceuticals Ltd,allopathy,vial of 1 Injection,Cefoperazone (500mg) , Sulbactam (500mg)
+225677,Tinbest 6mg Tablet,59.0,False,Biochemix Health Care Pvt. Ltd.,allopathy,strip of 4 tablets,Ivermectin (6mg),
+222466,Tixi OF 200mg/200mg Tablet,180.0,False,Arvincare Pharma,allopathy,strip of 10 tablets,Cefixime (200mg) , Ofloxacin (200mg)
+227187,Terbixol M Syrup,68.0,False,Rumik Lifescience Pvt Ltd,allopathy,bottle of 100 ml Syrup,Ambroxol (15mg/5ml) , Guaifenesin (50mg/5ml) 
+216756,Tenlizem-M500 SR Tablet,25.0,False,Zeelab Pharmacy Pvt Ltd,allopathy,strip of 10 tablet sr,Metformin (500mg) , Teneligliptin (20mg)
+226025,Tazobid 4000mg/500mg Injection,395.0,False,Osper Formulations Pvt Ltd,allopathy,vial of 1 Powder for Injection,Piperacillin (4000mg) , Tazobactum (500mg)
+221398,Telemac AM 40mg/5mg Tablet,80.0,False,Zynor Pharmaceutical Pvt Ltd,allopathy,strip of 10 tablets,Telmisartan (40mg) , Amlodipine (5mg)
+217646,Trylas BR Tablet,155.0,False,Estrellas Life Sciences Pvt. Ltd.,allopathy,strip of 10 tablets,Bromelain (90mg) , Trypsin (48mg) 
+226646,Tiflow D Eye Drop,8.0,False,Ahlcon Parenterals  India  Limited,allopathy,packet of 5 ml Eye Drop,Dexamethasone (NA) , Gatifloxacin (NA)
+215874,Tambac O Tablet,233.2,False,Cadila Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Cefpodoxime Proxetil (200mg) , Ofloxacin (200mg)
+216160,Tromanil Extra 500 mg/50 mg Tablet,45.0,False,Psychotropics India Ltd,allopathy,strip of 10 tablets,Paracetamol/Acetaminophen  (500mg) ,  Tramadol (50mg)
+218236,Telcros 40mg Tablet,81.9,False,Gold Line,allopathy,strip of 10 tablets,Telmisartan (40mg),
+216487,Tocef O Tablet,169.4,False,Synchem Lab,allopathy,strip of 10 tablets,Cefpodoxime Proxetil (200mg) , Ofloxacin (200mg)
+221258,Telmade 40mg Tablet,73.0,False,Made-inn Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Telmisartan (40mg),
+229365,Terbigrap Tablet,140.0,False,Grapple Life Sciences Pvt Ltd,allopathy,strip of 7 tablets,Terbinafine (250mg),
+214917,Telmikind-Trio 6.25 Tablet,99.82,False,Mankind Pharma Ltd,allopathy,strip of 10 tablets,Telmisartan (40mg) , Cilnidipine (10mg) 
+215106,Tadafil 20mg Tablet,165.0,False,Ajanta Pharma Ltd,allopathy,strip of 4 tablets,Tadalafil (20mg),
+217527,Triheal Plus Tablet,245.0,False,Saksham Pharmaceuticals India Ltd,allopathy,strip of 10 tablets,Trypsin (48mg) , Bromelain (90mg) 
+228783,Telmitech H 40mg/12.5mg Tablet,86.0,False,Shrinivas Gujarat Laboratories Pvt Ltd,allopathy,strip of 10 tablets,Telmisartan (40mg) , Hydrochlorothiazide (12.5mg)
+220824,Tramon-P 37.5mg/325mg Tablet,59.0,False,Floreat Medica Pvt Ltd,allopathy,strip of 10 tablets,Tramadol (37.5mg) , Paracetamol (325mg)
+221694,Tranfib MF 500 mg/250 mg Tablet,70.95,True,Cipla Ltd,allopathy,strip of 10 tablets,Tranexamic Acid (500mg) , Mefenamic Acid (250mg)
+216237,Takchlor-C Eye Ointment,65.0,False,Pharmtak Ophtalmics India Pvt Ltd,allopathy,tube of 5 gm Eye Ointment,Chloramphenicol (10mg) , Dexamethasone (1mg) 
+219402,Terbifon 500mg Tablet,286.0,False,Fawn Incorporation,allopathy,strip of 10 tablets,Terbinafine (500mg),
+227306,Tranelix MF 500mg/250mg Tablet,155.0,False,Elixir Life Care Pvt Ltd,allopathy,strip of 10 tablets,Tranexamic Acid (500mg) , Mefenamic Acid (250mg)
+223891,Traverine Plus 80mg/250mg Tablet,65.0,False,Tuttsan Pharma Pvt Ltd,allopathy,strip of 10 tablets,Drotaverine (80mg) , Mefenamic Acid (250mg)
+227694,Telmistal-H 80mg/12.5mg Tablet,150.0,False,Stallion Laboratories Pvt Ltd,allopathy,strip of 10 tablets,Telmisartan (80mg) , Hydrochlorothiazide (12.5mg)
+219228,Tearsgel Plus Lubricant,140.0,False,Essential Pharmaceuticals,allopathy,bottle of 10 ml Eye Drop,Carboxymethylcellulose (1% w/v) , Oxychloro Complex (0.0075% w/v)
+224168,Tina Tos 500mg Tablet,28.0,False,TOSC International Pvt Ltd,allopathy,strip of 10 tablets,Tinidazole (500mg),
+218451,Terex Expectorant,41.9,False,Jupiter Pharmaceutical Ltd,allopathy,bottle of 60 ml Expectorant,Guaifenesin (50mg) , Ammonium Chloride (100mg) 
+228628,Telmi 80mg Tablet,110.0,False,TNT Lifesciences,allopathy,strip of 10 tablets,Telmisartan (80mg),
+224874,Trymax AC Tablet,182.5,False,IGP Medventures Pvt Ltd,allopathy,strip of 10 tablets,Trypsin (48mg) , Rutoside (100mg) 
+229214,Telmisure 80mg Tablet,100.0,False,Medicron Life Sciences Pvt Ltd,allopathy,strip of 10 tablets,Telmisartan (80mg),
+225737,Tsartan 40mg Tablet,71.0,False,Glounce Pharmaceuticals,allopathy,strip of 10 tablets,Telmisartan (40mg),
+223369,Timolet 0.25% Eye Drop,67.25,True,Sun Pharmaceutical Industries Ltd,allopathy,packet of 5 ml Eye Drop,Timolol (0.25% w/v),
+216021,Tosiban 37.5mg Injection,5352.0,False,Zuventus Healthcare Ltd,allopathy,vial of 5 ml Injection,Atosiban (37.5mg),
+223633,Tranlor P 37.5mg/325mg Tablet,41.0,False,Hublore Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Tramadol (37.5mg) , Paracetamol (325mg)
+229947,Telmiyug H 80 mg/12.5 mg Tablet,139.0,True,Yug Pharmaceuticals,allopathy,strip of 10 tablets,Telmisartan (80mg) , Hydrochlorothiazide (12.5mg)
+225108,Tacpic 0.03% Ointment,140.0,False,Alpic Biotech Ltd,allopathy,tube of 10 gm Ointment,Tacrolimus (0.03% w/w),
+229195,Tinigram 250mg/300mg Tablet,30.0,False,Apco Pharma Ltd,allopathy,strip of 10 tablets,Ciprofloxacin (250mg) , Tinidazole (300mg)
+227512,Tofni M Oral Suspension,60.0,False,Torance Healthcare Pvt Ltd,allopathy,bottle of 60 ml Oral Suspension,Ofloxacin (50mg) , Metronidazole (100mg)
+227840,Tazosure 4000mg/500mg Injection,427.96,False,Aareen Healthcare Pvt Ltd,allopathy,vial of 1 Injection,Piperacillin (4000mg) , Tazobactum (500mg)
+219586,Trancodol 20mg Tablet DT,72.5,False,Intas Pharmaceuticals Ltd,allopathy,strip of 10 tablet dt,Haloperidol (20mg),
+219991,Traceta 325 mg/37.5 mg Tablet,57.0,False,Wanbury Ltd,allopathy,strip of 10 tablets,Paracetamol/Acetaminophen  (325mg) ,  Tramadol (37.5mg)
+230178,Tivpodox 100mg Tablet,71.0,False,Sanify Healthcare Pvt  Ltd,allopathy,strip of 10 tablets,Cefpodoxime Proxetil (100mg),
+225842,Tvpress Eye Drop,149.0,False,Entod Pharmaceuticals Ltd,allopathy,packet of 3 ml Eye Drop,Travoprost (NA),
+220893,TOLOL H 25MG TABLET,19.8,True,Torrent Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Metoprolol Succinate (25mg) , Hydrochlorothiazide (12.5mg)
+215662,Torex-SF Syrup,108.0,False,Torque Pharmaceuticals Pvt Ltd,allopathy,bottle of 100 ml Syrup,Diphenhydramine (8mg/5ml) , Guaifenesin (50mg/5ml) 
+229999,Tanoxy Kid Dry Syrup,57.0,False,Tanzer Lifecare Pvt Ltd,allopathy,bottle of 30 ml Oral Suspension,Amoxycillin  (200mg) ,  Clavulanic Acid (28.5mg)
+218122,Toradic 10mg Tablet,38.3,False,East West Pharma,allopathy,strip of 10 tablets,Torasemide (10mg),
+224393,Telzoe MT 40mg/50mg Tablet,98.0,False,Ekard Life Sciences Pvt Ltd,allopathy,strip of 10 tablets,Telmisartan (40mg) , Metoprolol Succinate (50mg)
+214786,Terbinaforce Tablet,100.14,False,Mankind Pharma Ltd,allopathy,strip of 7 tablets,Terbinafine (250mg),
+218745,Telsartan-AM Activ 40mg Tablet,169.5,False,Dr Reddy's Laboratories Ltd,allopathy,strip of 30 tablets,Telmisartan (40mg) , Amlodipine (5mg)
+216090,Tbis 0.1% Ointment,510.49,False,Biocon,allopathy,tube of 10 gm Ointment,Tacrolimus (0.1% w/w),
+223641,Tri Cardace Forte Kit,152.76,True,Sanofi India  Ltd,allopathy,packet of 10 kit,Amlodipine (5mg) , Atorvastatin (20mg) 
+220660,Tussout Syrup,95.0,False,Addii Biotech Pvt Ltd,allopathy,bottle of 100 ml Syrup,Phenylephrine (5mg) , Chlorpheniramine Maleate (2mg) 
+215802,Twincal 10 Tablet,137.6,False,Zydus Cadila,allopathy,strip of 10 tablets,Cilnidipine (10mg),
+219792,Tinimox Tablet,103.0,True,Dr Reddy's Laboratories Ltd,allopathy,strip of 10 tablets,Amoxycillin (500mg) , Tinidazole (300mg)
+220130,Telmistal 40mg Tablet,54.0,False,Stallion Laboratories Pvt Ltd,allopathy,strip of 10 tablets,Telmisartan (40mg),
+214866,Tizan 2 Tablet,164.0,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Tizanidine (2mg),
+226938,Timcin 400mg Tablet,69.0,False,Zuventus Healthcare Ltd,allopathy,strip of 10 tablets,Ofloxacin (400mg),
+217631,Tryboside D Tablet,150.0,False,Solace Biotech Ltd,allopathy,strip of 10 tablets,Trypsin (48mg) , Bromelain (90mg) 
+220932,Tansa 40mg Tablet,50.0,False,Arvincare Pharma,allopathy,strip of 10 tablets,Pantoprazole (40mg),
+218562,Toflox OZ 200 mg/500 mg Tablet,82.5,False,Lincoln Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Ofloxacin (200mg) , Ornidazole (500mg)
+218937,Tapendol 100mg Tablet SR,300.0,False,Unimarck Healthcare Ltd,allopathy,strip of 10 tablet sr,Tapentadol (100mg),
+222179,Thiorelax 8mg Tablet,156.0,False,Aristo Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Thiocolchicoside (8mg),
+224840,Telcia 40mg Tablet,32.5,False,Ambrocia Life Sciences,allopathy,strip of 10 tablets,Telmisartan (40mg),
+221845,Torsemax 40mg Tablet,144.0,False,Retro Life Sciences,allopathy,strip of 10 tablets,Torasemide (40mg),
+223417,Telin A 40mg/5mg Tablet,58.9,False,Pharma Drugs & Chemicals,allopathy,strip of 10 tablets,Telmisartan (40mg) , Amlodipine (5mg)
+217250,Terbocet 250 Tablet,162.0,False,Kivi Labs Ltd,allopathy,strip of 10 tablets,Terbinafine (250mg),
+216792,Tiomist Respicap,173.2,False,Zydus Cadila,allopathy,strip of 15 respicaps,Tiotropium (18mcg),
+225508,Tranisol 1mg Tablet,19.0,True,Glenmark Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Alprazolam (1mg),
+218171,Tramafit TH Tablet SR,290.0,False,Mabril Healthcare Pvt Ltd,allopathy,strip of 10 tablet sr,Aceclofenac (200mg) , Thiocolchicoside (8mg)
+222412,Teicostat 200mg Injection,799.0,False,RPG Life Sciences Ltd,allopathy,vial of 1 Injection,Teicoplanin (200mg),
+218603,Tramacon 100mg Tablet SR,192.3,False,Consern Pharma Limited,allopathy,strip of 10 tablet sr,Tramadol (100mg),
+216378,Taxim-AZ 100 Tablet,193.5,False,Alkem Laboratories Ltd,allopathy,strip of 10 tablets,Cefixime (100mg) , Azithromycin (125mg)
+226304,Tamol Suspension,24.0,False,Oyster Labs Ltd,allopathy,bottle of 60 ml Suspension,Paracetamol (125mg),
+228102,Tatcob P 750mcg/75mg Capsule,123.0,False,Kenriz Care,allopathy,strip of 10 capsules,Methylcobalamin (750mcg) , Pregabalin (75mg)
+218871,Torway 10mg Tablet,79.0,False,Allysia Lifesciences Pvt Ltd,allopathy,strip of 10 tablets,Torasemide (10mg),
+220981,Tazit 500mg Tablet,62.53,False,Talent Healthcare,allopathy,strip of 10 tablets,Azithromycin (500mg),
+219589,Tromed-MR Tablet,149.0,False,Bio-Zenesis Healthcare,allopathy,strip of 10 tablets,Chlorzoxazone (250mg) , Diclofenac (50mg) 
+228750,Thyroslab 50 Tablet,9.85,False,Geolife Sciences,allopathy,strip of 10 tablets,Thyroxine (50mcg),
+228830,Tipifox 4000mg/500mg Injection,680.0,False,Chemo Biological,allopathy,vial of 1 Powder for Injection,Piperacillin (4000mg) , Tazobactum (500mg)
+224517,Tenameh 20mg Tablet,99.0,False,Ameha Healthcare,allopathy,strip of 10 tablets,Teneligliptin (20mg),
+227307,Trigluwin 1mg/500mg/15mg Tablet SR,59.9,False,Ambrosia Pharmaceuticals,allopathy,strip of 10 tablet sr,Glimepiride (1mg) , Metformin (500mg) 
+216751,Tamcool-D Tablet,358.5,False,Tycoon Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Tamsulosin  (0.4mg) ,  Dutasteride (0.5mg)
+223959,Telmend-M 25 ER Tablet,85.0,False,Mendcure Life Sciences Pvt Ltd,allopathy,strip of 10 tablet er,Telmisartan (40mg) , Metoprolol Succinate (25mg)
+217686,Tolter OD 2mg Tablet,117.6,False,Zydus Cadila,allopathy,strip of 10 tablets,Tolterodine (2mg),
+217447,Thyroup 75 Tablet,193.04,False,Lupin Ltd,allopathy,bottle of 120 tablets,Thyroxine (75mcg),
+228305,Teriss 1mg Injection,1900.0,False,Alfa Igra Inc,allopathy,vial of 1 Injection,Terlipressin (1mg),
+229515,Themcef S 500mg/250mg Injection,84.0,False,Asgard Labs Private Limited,allopathy,vial of 1 Injection,Ceftriaxone (500mg) , Sulbactam (250mg)
+222038,Tryhigh BR Tablet,190.0,False,Rauwolfia Pharma Pvt Ltd,allopathy,strip of 10 tablets,Trypsin (48mg) , Bromelain (90mg) 
+227292,Tuclav Dry Syrup,52.9,False,Tuttsan Pharma Pvt Ltd,allopathy,bottle of 30 ml Dry Syrup,Amoxycillin  (200mg) ,  Clavulanic Acid (28.5mg)
+219209,Tenfoclear 300mg Tablet,1487.02,False,Abbott,allopathy,bottle of 30 tablets,Tenofovir disoproxil fumarate (300mg),
+219847,Totalax Fiber Oral Solution,160.0,True,Mankind Pharma Ltd,allopathy,bottle of 100 ml Oral Solution,Lactulose (2.5gm/5ml),
+227733,Tazloy 30mg Tablet,144.65,False,Enrico Pharmaceuticals,allopathy,strip of 10 tablets,Mirtazapine (30mg),
+226097,Taurworm 400mg Tablet,8.9,False,Taurus Laboratories Pvt Ltd,allopathy,strip of 1 Tablet,Albendazole (400mg),
+224886,Thankroz Trio 40mg/10mg/6.25mg Tablet,127.0,False,Nexina Life Sciences Pvt Ltd,allopathy,strip of 10 tablets,Telmisartan (40mg) , Cilnidipine (10mg) 
+223421,Trexil 200mg Tablet,130.0,False,Try Drugs Pharmaceuticals,allopathy,strip of 10 tablets,Cefixime (200mg),
+227227,Terbirin 1% Cream,64.0,False,Medmom Pharmaceuticals LLP,allopathy,tube of 15 gm Cream,Terbinafine (1% w/w),
+217356,TOR 100 Tablet,316.0,False,Intas Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Torasemide (100mg),
+221099,Tcris Cream,528.0,False,Brinton Pharmaceuticals Pvt Ltd,allopathy,tube of 50 gm Cream,Amorolfine (0.25% w/w),
+222558,Tersin BM Syrup,73.0,False,Zennar Life Sciences,allopathy,bottle of 100 ml Syrup,Bromhexine (2mg/5ml) , Guaifenesin (50mg/5ml) 
+217741,Thyrocare 25mcg Tablet,75.0,False,Elder Pharmaceuticals Ltd,allopathy,bottle of 100 tablets,Thyroxine (25mcg),
+218705,Triglycilarc 2mg/500mg/15mg Tablet SR,58.4,False,Wynclark Pharmaceuticals Private Limited,allopathy,strip of 10 tablet sr,Glimepiride (2mg) , Metformin (500mg) 
+219727,Tendar Tablet,98.5,False,BPL,allopathy,strip of 10 tablets,Trypsin Chymotrypsin (50mg),
+228878,Tromacef XP 1000mg/125mg Injection,152.0,False,Global Care,allopathy,vial of 1 Injection,Ceftriaxone (1000mg) , Tazobactum (125mg)
+218390,Trulock 40mg Tablet,55.0,False,Sia Life Sciences,allopathy,strip of 10 tablets,Pantoprazole (40mg),
+221226,Trypon Syrup Sugar Free,86.0,False,Lunas Remedies,allopathy,bottle of 200 ml Oral Solution,Cyproheptadine (2mg/5ml) , Tricholine Citrate (275mg/5ml) 
+215146,Trineurosol H Injection,55.5,True,Wockhardt Ltd,allopathy,vial of 5 ml Injection,Vitamin B (NA),
+217405,Triwin 5mg/10mg Tablet,16.15,False,Chicky Pharma Pvt  Ltd,allopathy,strip of 10 tablets,Diclofenac (5mg) , Serratiopeptidase (10mg)
+214869,Tenovate GN Cream,83.1,False,Glaxo SmithKline Pharmaceuticals Ltd,allopathy,tube of 20 gm Cream,Clobetasol (0.05% w/w) , Neomycin (0.5% w/w)
+218841,Tiretam 500mg Tablet,112.0,False,Krish Care Remedys Pvt ltd,allopathy,strip of 10 tablets,Levetiracetam (500mg),
+229518,Trafec 37.5mg/325mg Tablet,55.0,False,Vibcare Pharma Pvt Ltd,allopathy,strip of 10 tablets,Tramadol (37.5mg) , Paracetamol (325mg)
+227062,Torsigard 5 Tablet,35.5,False,Kelvin Remedies,allopathy,strip of 10 tablets,Torasemide (5mg),
+225379,Tussnil A 30mg/100mg/1.25mg Syrup,37.4,False,Unicure India Pvt Ltd,allopathy,bottle of 50 ml Syrup,Ambroxol (30mg) , Guaifenesin (100mg) 
+219807,Tolaz-MD 10 Tablet,29.0,False,Torrent Pharmaceuticals Ltd,allopathy,strip of 10 tablet md,Olanzapine (10mg),
+215309,Telsartan 20 Tablet,63.28,False,Dr Reddy's Laboratories Ltd,allopathy,strip of 14 tablets,Telmisartan (20mg),
+224504,Tezelon Tablet,168.0,False,Snu Biocare,allopathy,strip of 6 tablets,Artemether (80mg) , Lumefantrine (480mg)
+225826,Tazopath 4000mg/500mg Injection,481.0,False,Leeford Healthcare Ltd,allopathy,vial of 20 ml Injection,Piperacillin (4000mg) , Tazobactum (500mg)
+216968,Tramrod P Tablet,55.0,False,Intra Life,allopathy,strip of 10 tablets,Tramadol (37.5mg) , Paracetamol (325mg)
+223493,Ticobact 200mg Injection,406.25,False,Gland Pharma Limited,allopathy,vial of 1 Injection,Teicoplanin (200mg),
+229036,Tigatel 8mg Tablet,112.77,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Tiagabine (8mg),
+224949,Telflag AM 40mg/5mg Tablet,80.0,False,Bioshine Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Telmisartan (40mg) , Amlodipine (5mg)
+223596,Telmisafe AM Tablet,105.0,False,Lakshya Life Sciences,allopathy,strip of 10 tablets,Telmisartan (40mg) , Amlodipine (5mg)
+229469,Troxim-DT 100mg Capsule,120.6,False,Taj Pharma India Ltd,allopathy,strip of 4 capsules,Cefixime (100mg),
+219629,Tranzat Plus 500 mg/50 mg Tablet,10.0,False,Wockhardt Ltd,allopathy,strip of 10 tablets,Paracetamol/Acetaminophen  (500mg) ,  Tramadol (50mg)
+225396,Talentil 50mg Tablet,8.6,False,Talent Healthcare,allopathy,strip of 10 tablets,Chlorpromazine (50mg),
+215651,Torpanel 4 Tablet,149.0,False,Torrent Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Perampanel (4mg),
+218177,TAPENTROL 100 MG TABLET,189.0,True,Torrent Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Tapentadol (100mg),
+227835,Torestal 2mg Injection,19.5,False,Totem Biotech Pvt Ltd,allopathy,vial of 2 ml Injection,Ondansetron (2mg),
+217536,Tranzex 50mg Capsule,8.91,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 capsules,Tramadol (50mg),
+227371,Thiozid 10mg Tablet,9.5,False,Saga Laboratories,allopathy,strip of 10 tablets,Thioridazine (10mg),
+217826,Tampres D 0.4mg/0.5mg Tablet,125.0,False,Olcare Laboratories,allopathy,strip of 10 tablets,Tamsulosin  (0.4mg) ,  Dutasteride (0.5mg)
+226667,Theofix-CV Dry Syrup,92.0,False,Iva Healthcare Pvt. Ltd.,allopathy,bottle of 30 ml Dry Syrup,Cefixime (50mg) , Clavulanic Acid (31.25 mg/5ml)
+219554,T Zine 10mg Tablet,13.7,False,Orchid Chemicals & Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Thioridazine (10mg),
+228569,Terbipine 250 Tablet,134.0,False,Jeotrix Healthcare,allopathy,strip of 7 tablets,Terbinafine (250mg),
+224081,Teltoss CH 40mg/12.5mg Tablet,85.0,False,Minitoss Medicines,allopathy,strip of 10 tablets,Telmisartan (40mg) , Chlorthalidone (12.5mg)
+227962,Tratam P 37.5mg/325mg Tablet,64.6,False,Glenvox Biotech,allopathy,strip of 10 tablets,Tramadol (37.5mg) , Paracetamol (325mg)
+217572,Thiodex Gel,160.0,False,BSA Pharma Inc,allopathy,tube of 15 gm Gel,Diclofenac diethylamine (1% w/w) , Linseed Oil (3% w/w) 
+227233,Tryprant-D Tablet,161.0,False,Edrant Pharmaceuticals,allopathy,strip of 10 tablets,Trypsin (48mg) , Bromelain (90mg) 
+217680,Targit 80 Tablet,156.1,False,Pfizer Ltd,allopathy,strip of 15 tablets,Telmisartan (80mg),
+220709,Telmizem 80 Tablet,20.0,False,Zeelab Pharmacy Pvt Ltd,allopathy,strip of 10 tablets,Telmisartan (80mg),
+221614,Telapp AM 40mg/5mg Tablet,97.9,False,Retra Life Science Pvt Ltd,allopathy,strip of 10 tablets,Telmisartan (40mg) , Amlodipine (5mg)
+217034,Teru MS 14mg Tablet,1247.16,False,MSN Laboratories,allopathy,strip of 10 tablets,Teriflunomide (14mg),
+217883,Tenligress-M 1000mg/20mg Tablet,134.0,False,La Renon Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Metformin (1000mg) , Teneligliptin (20mg)
+222077,Thiopen AP 4mg/100mg/325mg Tablet,190.0,False,Welgenic Pharma,allopathy,strip of 10 tablets,Thiocolchicoside (4mg) , Aceclofenac (100mg) 
+222045,Trypco 10mg Tablet,21.0,False,Emocare,allopathy,strip of 10 tablets,Amitriptyline (10mg),
+230108,Telhart 80mg Tablet,155.0,False,Levin Health Care,allopathy,strip of 15 tablets,Telmisartan (80mg),
+224876,Tilpod 100 Dry Syrup,115.0,False,Styla Pharmaceutical Private Limited,allopathy,bottle of 30 ml Oral Suspension,Cefpodoxime Proxetil (100mg),
+215502,Tide 20 Tablet,105.95,False,Torrent Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Torasemide (20mg),
+226971,Telanto 40mg Tablet,61.0,False,Krebz Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Telmisartan (40mg),
+218465,Tinety 25mg Tablet ER,164.5,False,Sanity Pharma,allopathy,strip of 10 tablet er,Paroxetine (25mg),
+218066,Tripsofalm Tablet,179.0,False,Waksmed Lifescience Pvt Ltd,allopathy,strip of 10 tablets,Bromelain (90mg) , Trypsin (48mg) 
+219617,Torfree AL 10mg/5mg Tablet,79.0,False,Oswin Pharmaceuticals,allopathy,strip of 10 tablets,Torasemide (10mg) , Amiloride (5mg)
+224625,Tox 5.65 mg/100 mg Expectorant,33.05,True,Bennet Pharmaceuticals Limited,allopathy,bottle of 100 ml Expectorant,Promethazine (5.65mg) , Potassium Glycerophosphate (100mg)
+219226,Tear E Eye Drop,95.75,False,Ethics Health Care Pvt Ltd,allopathy,bottle of 10 ml Eye Drop,Carboxymethylcellulose (0.5% w/v) , Oxychloro Complex (0.005% w/v)

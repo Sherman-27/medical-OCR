@@ -1,0 +1,201 @@
+id,name,price(₹),Is_discontinued,manufacturer_name,type,pack_size_label,short_composition1,short_composition2
+243988,Xircox 90 Tablet,137.5,False,HBC Lifesciences Pvt Ltd,allopathy,strip of 10 tablets,Etoricoxib (90mg),
+244205,Xarex 10mg Tablet,135.0,True,Alteus Biogenics Pvt Ltd,allopathy,strip of 10 tablets,Rivaroxaban (10mg),
+245252,Xiama ET 250mg/250mg Tablet,119.0,False,Cheminnova Life Sciences,allopathy,strip of 10 tablets,Tranexamic Acid (250mg) , Ethamsylate (250mg)
+245100,Xcef 200mg Tablet,138.0,False,Alicon Pharmaceutical Pvt Ltd,allopathy,strip of 10 tablets,Cefixime (200mg) , Lactobacillus (60Million spores)
+244229,Xycalm 0.25mg Tablet,7.8,False,Ipca Laboratories Ltd,allopathy,strip of 10 tablets,Alprazolam (0.25mg),
+245127,Xplametta 100mg Injection,6900.0,False,Metta Life Sciences Private Limited,allopathy,vial of 1 Injection,Oxaliplatin (100mg),
+244728,Xynotel 3D 40mg/5mg/12.5mg Tablet,116.0,False,Empower Life Sciences,allopathy,strip of 10 tablets,Telmisartan (40mg) , Amlodipine (5mg) 
+245132,Xadomet G 1mg/500mg Tablet,52.8,False,Dr Cure Pharmaceuticals India Pvt Ltd,allopathy,strip of 10 tablets,Glimepiride (1mg) , Metformin (500mg)
+245092,Xtrashine Cream,198.0,False,Ziotic Life Sciences,allopathy,tube of 20 gm Cream,Hydroquinone (2% w/w) , Tretinoin (0.025% w/w) 
+244887,Xifacol 200mg Tablet,169.9,False,Fawn Incorporation,allopathy,strip of 10 tablets,Rifaximin (200mg),
+245326,X-Gic-Mk Syrup,79.35,False,Vee Remedies,allopathy,bottle of 60 ml Syrup,Levocetirizine (2.5mg/5ml) , Montelukast (4mg/5ml)
+244082,Xylem A Cream,52.0,True,Percos India Pvt  Ltd,allopathy,tube of 20 gm Cream,Tretinoin (0.025% w/w),
+245411,Xefotil L 200mg/250mg Tablet,250.0,False,Biomax Biotechnics Pvt Ltd,allopathy,strip of 10 tablets,Cefpodoxime Proxetil (200mg) , Levofloxacin (250mg)
+245749,Xonmed 500mg Injection,43.92,False,Medlock Healthcare Pvt Ltd,allopathy,vial of 5 ml Injection,Ceftriaxone (500mg),
+244986,Xeroc D Syrup,42.0,False,P R G Pharma Pvt Ltd,allopathy,bottle of 100 ml Syrup,Phenylpropanolamine (12.5mg) , Chlorpheniramine Maleate (2mg) 
+245292,Xaclevo 500 Tablet,51.0,False,Superlative Healthcare,allopathy,strip of 5 tablets,Levofloxacin (500mg),
+245265,Xiaten M 1000mg/20mg Tablet,108.92,False,Vidakem Lifesciences Pvt Ltd,allopathy,strip of 10 tablets,Metformin (1000mg) , Teneligliptin (20mg)
+244649,Xym 100mg Dry Syrup,68.0,False,Nordic Formulations Pvt Ltd,allopathy,bottle of 30 ml Dry Syrup,Cefixime (100mg) , Lactobacillus (60Million spores)
+244143,XO Flu & Cold Oral Drops,79.95,False,Aleixo Pharma,allopathy,bottle of 15 ml Oral Drops,Chlorpheniramine Maleate (1mg/ml) , Paracetamol (125mg/ml) 
+243832,Xigduo XR 10mg/500mg Tablet,444.0,False,AstraZeneca,allopathy,strip of 7 tablet er,Dapagliflozin (10mg) , Metformin (500mg)
+245716,Xetocef T 1000mg/125mg Injection,149.94,False,Alde Medi Impex Ltd,allopathy,vial of 1 Injection,Ceftriaxone (1000mg) , Tazobactum (125mg)
+245322,Xxone 250mg Injection,25.0,False,Alardius Healthcare,allopathy,vial of 1 Injection,Ceftriaxone (250mg),
+244319,X TRANT 140 MG CAPSULE,14650.0,True,Natco Pharma Ltd,allopathy,strip of 100 capsules,Estramustine (140mg),
+245006,Xelife 500mg Tablet,595.0,False,ABL Lifecare Pvt Ltd,allopathy,strip of 10 tablets,Cefuroxime (500mg),
+244331,Xytus X Syrup,98.0,False,Serbia Molecules Pvt Ltd,allopathy,bottle of 100 ml Syrup,Ambroxol (15mg/5ml) , Guaifenesin (50mg/5ml) 
+244469,Xerk 16 Tablet,128.0,False,Salveo Lifecare,allopathy,strip of 10 tablets,Betahistine (16mg),
+244528,Xibnic 90mg Tablet,127.0,False,DN Therapeutics Pvt Ltd,allopathy,strip of 10 tablets,Etoricoxib (90mg),
+245226,Xyraze 200 Tablet,54.71,False,Aegis Prescriptions Pvt Ltd,allopathy,strip of 10 tablets,Ofloxacin (200mg),
+245018,Xetamol N 100mg/325mg Tablet,42.0,False,Nimbles Biotech Pvt Ltd,allopathy,strip of 10 tablets,Nimesulide (100mg) , Paracetamol (325mg)
+243846,Xprab Vaccine,398.35,False,Sun Pharmaceutical Industries Ltd,allopathy,vial of 0.5 ml Injection,"Rabies vaccine, Human (150IU)",
+245542,Xoflo 250mg Tablet,34.0,False,Mexon Healthcare Ltd,allopathy,strip of 10 tablets,Ciprofloxacin (250mg),
+243841,Xigduo 5mg/1000mg Tablet IR,329.0,False,AstraZeneca,allopathy,strip of 14 tablet ir,Dapagliflozin (5mg) , Metformin (1000mg)
+244574,Xmetor 10 mg/500 mg Tablet SR,27.05,True,Glenmark Pharmaceuticals Ltd,allopathy,strip of 10 tablet sr,Atorvastatin (10mg) , Metformin (500mg)
+244306,X Flav 200mg Tablet,110.0,False,Rouzel Pharma,allopathy,strip of 10 tablets,Flavoxate (200mg),
+244766,Xlo OZ 200mg/500mg Tablet,80.0,False,Balaji Biotech,allopathy,strip of 10 tablets,Ofloxacin (200mg) , Ornidazole (500mg)
+243887,Xykaa TD 650mg Tablet,36.3,False,Troikaa Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Paracetamol (650mg),
+244963,Xappy-DR 80mg/250mg Tablet,49.9,False,Sanify Healthcare Pvt  Ltd,allopathy,strip of 10 tablets,Drotaverine (80mg) , Mefenamic Acid (250mg)
+244498,Xnac-T Tablet,164.0,False,Estrellas Life Sciences Pvt. Ltd.,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Thiocolchicoside (4mg)
+244271,Xsert 50mg Tablet,26.7,False,Cadila Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Sertraline (50mg),
+245297,Xe 250mg Tablet,350.0,False,Alpic Biotech Ltd,allopathy,strip of 10 tablets,Cefuroxime (250mg),
+245054,Xtmoheal 90mg/48mg/100mg Tablet,219.6,False,Corona Remedies Pvt Ltd,allopathy,strip of 10 tablets,Bromelain (90mg) , Trypsin (48mg) 
+244541,Xynotel MT 40mg/25mg Tablet,112.0,False,Empower Life Sciences,allopathy,strip of 10 tablets,Telmisartan (40mg) , Metoprolol Succinate (25mg)
+243900,Xykaa MR 8 Tablet,340.0,False,Troikaa Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Paracetamol (500mg) , Thiocolchicoside (8mg)
+244663,Xnurocure Max Injection,99.0,False,Aleixo Pharma,allopathy,vial of 2 ml Injection,Methylcobalamin (2500mcg) , Folic Acid (0.7mg) 
+244387,Xtra Cream,49.85,False,Zee Laboratories,allopathy,tube of 15 gm Cream,Aceclofenac (NA),
+245269,Xenowin OZ 250mg/500mg Tablet,100.0,False,10 Drug Mart,allopathy,strip of 10 tablets,Levofloxacin (250mg) , Ornidazole (500mg)
+245010,Xyfu 500mg Tablet,327.0,False,Otik Biotec,allopathy,strip of 6 tablets,Cefuroxime (500mg),
+245248,Xanheal P 100mg/325mg Tablet,35.0,False,Xanocia Lifesciences,allopathy,strip of 10 tablets,Nimesulide (100mg) , Paracetamol (325mg)
+244254,X Pod CV Tablet,210.0,False,Texas Pharmaceuticals,allopathy,strip of 6 tablets,Cefpodoxime Proxetil (200mg) , Clavulanic Acid (125mg)
+244521,XYNOLUBE 0.1% DROPS,58.0,True,Ajanta Pharma Ltd,allopathy,packet of 10 ml Drop,Oxymetazoline (0.1%w/v),
+244863,X Gest 200mg Soft Gelatin Capsule,310.0,False,Novogen Captab,allopathy,strip of 10 soft gelatin capsules,Progesterone (Natural Micronized) (200mg),
+244343,Xadovild M 500mg/50mg Tablet,121.0,False,Dr Cure Pharmaceuticals India Pvt Ltd,allopathy,strip of 10 tablets,Metformin  (500mg) ,  Vildagliptin (50mg)
+243805,Xarelto 20mg Tablet,1015.0,False,Bayer Zydus Pharma Pvt Ltd,allopathy,strip of 14 tablets,Rivaroxaban (20mg),
+243904,Xtor 5 Tablet,73.45,False,Ipca Laboratories Ltd,allopathy,strip of 10 tablets,Atorvastatin (5mg),
+245736,Ximisef 100mg Dry Syrup,118.0,False,Tansy Molequle,allopathy,bottle of 30 ml Dry Syrup,Cefpodoxime Proxetil (100mg),
+244369,Xeglyza 50mg Tablet,132.0,False,Makeway Formulations Pvt Ltd,allopathy,strip of 15 tablets,Vildagliptin (50mg),
+245611,Xodop 200mg Tablet,170.0,False,Unilite Medicare Pvt Ltd,allopathy,strip of 10 tablets,Cefpodoxime Proxetil (200mg),
+244568,Ximsac 200mg Tablet DT,199.0,False,SAC Pharmaceuticals,allopathy,strip of 10 tablet dt,Cefixime (200mg),
+244256,Xebac 250mg Tablet,63.0,False,Bios Lab,allopathy,strip of 6 tablets,Azithromycin (250mg),
+244013,Xone 2000mg Injection,130.23,True,Alkem Laboratories Ltd,allopathy,vial of 1 Injection,Ceftriaxone (2000mg),
+245715,Xcef CV 200mg/125mg Tablet,230.0,False,Maxamus Pharma Pvt Ltd,allopathy,strip of 10 tablets,Cefixime (200mg) , Clavulanic Acid (125mg)
+245160,Xilo M Oral Suspension,55.0,False,Sannova Biotech Pvt Ltd,allopathy,bottle of 60 ml Oral Suspension,Mefenamic Acid (100mg/5ml) , Paracetamol (250mg/5ml)
+245328,Xoomax-DX Syrup,89.0,False,Cantry Medico Pvt Ltd,allopathy,bottle of 100 ml Syrup,Phenylephrine (5mg) , Chlorpheniramine Maleate (2mg) 
+244725,Xentip 40mg Capsule,55.0,False,Emocare,allopathy,strip of 10 capsules,Fluoxetine (40mg),
+244823,X Cet Plus Syrup,43.6,False,Invision Medi Sciences Pvt Ltd,allopathy,bottle of 100 ml Syrup,Ambroxol (15mg) , Guaifenesin (50mg) 
+244137,Xodin-D Syrup,85.0,False,Evitalife Pharma Private Limited,allopathy,bottle of 100 ml Syrup,Phenylephrine (5mg/5ml) , Chlorpheniramine Maleate (2mg/5ml) 
+244941,Xofenadin MK 10mg/120mg Tablet,125.0,False,Mancop Remedies,allopathy,strip of 10 tablets,Montelukast (10mg) , Fexofenadine (120mg)
+244142,XTPara 250mg/5ml Suspension,44.35,False,Torrent Pharmaceuticals Ltd,allopathy,bottle of 60 ml Suspension,Paracetamol (250mg/5ml),
+245093,Xclud D Syrup,68.0,False,Enivid lifesciences,allopathy,bottle of 100 ml Syrup,Phenylephrine (5mg) , Chlorpheniramine Maleate (2mg) 
+245208,Xanfix LB 200mg Tablet,130.0,False,Xanocia Lifesciences,allopathy,strip of 10 tablets,Cefixime (200mg) , Lactobacillus (2.5Billion Spores)
+245135,Xibrocin 500mg Injection,310.0,False,Brawn Laboratories Ltd,allopathy,vial of 1 Injection,Vancomycin (500mg),
+243845,Xonift  100mg Tablet,89.91,False,Corona Remedies Pvt Ltd,allopathy,strip of 10 tablets,Nitrofurantoin (100mg),
+245624,Xoflon OZ Syrup,58.0,False,Asiatic Pharmaceuticals,allopathy,bottle of 60 ml Syrup,Ofloxacin (50mg) , Ornidazole (125mg)
+244952,Xenodryl Expectorant,60.0,False,Theogen Pvt Ltd,allopathy,bottle of 100 ml Expectorant,Ammonium Chloride (138mg/5ml) , Sodium Citrate (57.03mg/5ml) 
+244810,Xylocon 0.1% Nasal Drops,47.0,False,Briscon Remedies,allopathy,bottle of 10 ml Nasal Drops,Xylometazoline (0.1% w/v),
+244617,Xcin 200 Tablet,50.0,False,Fantabulous Pharma,allopathy,strip of 10 tablets,Ofloxacin (200mg),
+245531,Xplocef 2000 mg/1000 mg Injection,717.13,False,Elder Pharmaceuticals Ltd,allopathy,vial of 20 ml Injection,Ceftriaxone (2000mg) , Vancomycin (1000mg)
+244255,Xpand-W Dry Syrup,52.9,False,Ozone Pharmaceuticals Ltd,allopathy,bottle of 30 ml Powder for Oral Suspension,Amoxycillin  (200mg) ,  Clavulanic Acid (28.5mg)
+244833,Xitap 50mg Tablet,135.0,False,Acekinetics Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Tapentadol (50mg),
+244976,Xylo OZ 200mg/500mg Tablet,171.0,False,Remandish Pharma Pvt Ltd,allopathy,strip of 10 tablets,Cefixime (200mg) , Ornidazole (500mg)
+245635,Xorzid 600mg Tablet,193.0,False,Trireme Life Sciences Pvt Ltd,allopathy,strip of 10 tablets,Linezolid (600mg),
+245357,Xifapill 200mg Tablet,132.0,False,Ordain Health Care Global Pvt Ltd,allopathy,strip of 10 tablets,Rifaximin (200mg),
+244752,Xtram Plus 500mg/50mg Tablet,45.0,False,Saga Laboratories,allopathy,strip of 10 tablets,Paracetamol/Acetaminophen  (500mg) ,  Tramadol (50mg)
+244482,Xpera-DC Syrup,86.0,False,Graciera Pharmacetuicals LLP,allopathy,bottle of 100 ml Syrup,Phenylephrine (5mg) , Chlorpheniramine Maleate (2mg) 
+245728,Xorcetam 250mg Tablet,150.0,False,Trireme Life Sciences Pvt Ltd,allopathy,strip of 10 tablets,Levetiracetam (250mg),
+244196,X Vis CV 500mg/125mg Tablet,520.0,False,Dolvis Bio Pharma Pvt Ltd,allopathy,strip of 6 tablets,Cefuroxime (500mg) , Clavulanic Acid (125mg)
+244512,Xymet 0.05% Nasal Drops,32.0,False,Aver Pharmaceuticals Pvt Ltd,allopathy,packet of 10 ml Nasal Drops,Xylometazoline (0.05% w/v),
+243875,Xeroflam 100 mg/400 mg Tablet,53.0,False,Helios Pharmaceuticals,allopathy,strip of 10 tablets,Diclofenac (100mg) , Paracetamol (400mg)
+244283,Xolin XT Syrup,59.9,False,Servo Healthcare,allopathy,bottle of 100 ml Syrup,Ambroxol (15mg/5ml) , Guaifenesin (50mg/5ml) 
+244030,Xorimax 500mg Tablet,108.0,False,Novartis India Ltd,allopathy,strip of 4 tablets,Cefuroxime (500mg),
+244065,Xydap 30mg Tablet,94.33,True,Cipla Ltd,allopathy,strip of 4 tablets,Dapoxetine (30mg),
+244692,Ximin LB 200mg Tablet,148.5,False,Aeon Remedies,allopathy,strip of 10 tablets,Cefixime (200mg) , Lactobacillus (60Million spores)
+245489,Xypril H 2.5mg/12.5mg Capsule,54.8,False,Arrowin Pharmaceuticals,allopathy,strip of 10 capsules,Ramipril (2.5mg) , Hydrochlorothiazide (12.5mg)
+245198,Xoryl BR 90mg/48mg/100mg Tablet,180.0,False,Corvin Pharmaceuticals,allopathy,strip of 10 tablets,Bromelain (90mg) , Trypsin (48mg) 
+244170,X-pecia Gel,620.0,False,Amwill Healthcare,allopathy,bottle of 60 ml Gel,Minoxidil (5% w/w) , Finasteride (0.1% w/w)
+244130,Xaria Kidz Oral Suspension Mango,80.0,True,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 60 ml Oral Suspension,Fexofenadine (30mg/5ml),
+245308,Ximeact 200mg/125mg Tablet,296.0,False,Aavhanzr Pharmaceutical Pvt Ltd,allopathy,strip of 10 tablets,Cefpodoxime Proxetil (200mg) , Clavulanic Acid (125mg)
+244320,Xelflo 10mg Tablet,88.0,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Alfuzosin (10mg),
+244100,Xolybex 0.5mg Tablet,44.0,False,Vidakem Lifesciences Pvt Ltd,allopathy,strip of 10 tablets,Flupenthixol (0.5mg),
+244831,Xypace 100mg/325mg Tablet,37.0,False,Xyris Life Sciences Pvt Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg)
+244789,Xarta Tablet,62.0,False,Century Life Science,allopathy,strip of 10 tablets,Loratadine (10mg),
+245673,Xme 200mg Syrup,62.68,False,Brook Parker,allopathy,bottle of 30 ml Syrup,Cefixime (200mg),
+245188,Xtone M Lotion,150.0,False,Maxamus Pharma Pvt Ltd,allopathy,bottle of 100 ml Lotion,Aloe Vera (3%),
+245469,X Til 125mg Tablet DT,130.0,False,Novogen Captab,allopathy,strip of 10 tablet dt,Cefuroxime (125mg),
+244896,Xamifen T 500mg/250mg Tablet,210.0,False,Theogen Pvt Ltd,allopathy,strip of 10 tablets,Tranexamic Acid (500mg) , Mefenamic Acid (250mg)
+244585,Xarb 150 Tablet,213.5,False,Abbott,allopathy,strip of 10 tablets,Irbesartan (150mg),
+244470,Xoline Nasal Drops,54.0,False,Jantec Pharma,allopathy,packet of 10 ml Nasal Drops,Xylometazoline (0.01% w/v),
+245049,Xioflo 200mg Tablet,51.0,False,Aeran Lab India Pvt Ltd,allopathy,strip of 10 tablets,Ofloxacin (200mg),
+244486,Xtum 125 mg/62.5 mg Injection,50.75,False,Shreya Life Sciences Pvt Ltd,allopathy,vial of 1 Injection,Ceftriaxone (125mg) , Sulbactam (62.5mg)
+244794,Xenotrip 10mg Tablet,22.3,False,10 Drug Mart,allopathy,strip of 10 tablets,Amitriptyline (10mg),
+244754,Xoy S 1000mg/500mg Injection,116.5,False,Dr. Johns Laboratories Pvt Ltd,allopathy,vial of 1 Injection,Ceftriaxone (1000mg) , Sulbactam (500mg)
+245509,X Fuero 500mg Tablet,340.0,False,Mediyork Pharma Pvt Ltd,allopathy,strip of 6 tablets,Cefuroxime (500mg),
+244961,Xyclav 250 mg/125 mg Tablet,116.81,False,Aamorb Pharmaceuticals Pvt Ltd,allopathy,strip of 6 tablets,Amoxycillin  (250mg) ,  Clavulanic Acid (125mg)
+245739,Xaiofung 150mg Tablet,11.53,False,Indo-Asia Pharma Care,allopathy,strip of 1 Tablet,Fluconazole (150mg),
+244715,Xklot AS Tablet,38.0,False,DR Best pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Aspirin (75mg) , Clopidogrel (75mg)
+245199,Xigpro Tablet,220.0,False,Zumentes Healthcare,allopathy,strip of 10 tablets,Bromelain (90mg) , Trypsin (48mg) 
+245721,Xyfu 250 Tablet,178.0,False,Otik Biotec,allopathy,strip of 6 tablets,Cefuroxime (250mg),
+245182,Xofenad 180 Tablet,127.0,False,Superlative Healthcare,allopathy,strip of 10 tablets,Fexofenadine (180mg),
+245460,Xypril 5mg Capsule,74.8,False,Arrowin Pharmaceuticals,allopathy,strip of 10 capsules,Ramipril (5mg),
+245205,Xondmet 2mg Injection,29.0,False,Sanify Healthcare Pvt  Ltd,allopathy,vial of 2 ml Injection,Ondansetron (2mg/1ml),
+244645,Ximep 200mg Tablet,210.0,False,Pax Healthcare,allopathy,strip of 10 tablets,Cefpodoxime Proxetil (200mg),
+245110,Xtraban 5mg Infusion,4310.77,True,Sun Pharmaceutical Industries Ltd,allopathy,bottle of 100 ml Infusion,Tirofiban (5mg),
+244781,Xenocet 5mg Tablet,13.13,False,Orchid Chemicals & Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg),
+244913,Xylid M Oral Suspension,42.0,False,Arlak Biotech Pvt Ltd,allopathy,bottle of 60 ml Oral Suspension,Mefenamic Acid (50mg) , Paracetamol (125mg)
+245181,Xitoglip 50mg Tablet,90.0,False,Exito Pharma,allopathy,strip of 10 tablets,Sitagliptin (50mg),
+245637,Xaio Oral Suspension,45.0,False,Indo-Asia Pharma Care,allopathy,bottle of 60 ml Oral Suspension,Mefenamic Acid (50mg) , Paracetamol (125mg)
+243987,Xpain 4 Tablet,176.0,False,Biological E Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Thiocolchicoside (4mg)
+244851,Ximbel 250mg Tablet,228.0,False,Blubell Pharma,allopathy,strip of 6 tablets,Cefuroxime (250mg),
+244430,Xoneact 250mg Injection,24.0,False,Cee Bee Laboratories,allopathy,vial of 1 Injection,Ceftriaxone (250mg),
+244118,X Derm Plus Cream,55.0,False,Plus Pharma,allopathy,tube of 5 gm Cream,Beclometasone (0.025% w/w) , Neomycin (0.5% w/w) 
+245557,Xerobact TZ 500mg/600mg Tablet,80.0,False,Medix Laboratories,allopathy,strip of 10 tablets,Ciprofloxacin (500mg) , Tinidazole (600mg)
+245404,Xogar 200mg Tablet,90.0,False,Mexon Healthcare Ltd,allopathy,strip of 10 tablets,Sparfloxacin (200mg),
+244081,Xentas 0.5mg Tablet,40.5,False,Tas Med India Pvt Ltd,allopathy,strip of 10 tablets,Flupenthixol (0.5mg),
+245156,Xeropen 1gm Injection,1990.0,False,Bayberry Pharmaceuticals Pvt Ltd,allopathy,vial of 1 Injection,Meropenem (1gm),
+245278,Xtro Kid Suspension,55.0,False,Axis Life Science Pvt Ltd,allopathy,bottle of 60 ml Suspension,Dextromethorphan Hydrobromide (10mg/5ml) , Phenylephrine (5mg) 
+245430,Xyfi O 200mg/200mg Tablet,156.0,False,Otik Biotec,allopathy,strip of 10 tablets,Cefixime (200mg) , Ofloxacin (200mg)
+244625,Xynox-NT Tablet,160.0,False,North Corp Life Sciences,allopathy,strip of 10 tablets,Pregabalin (75mg) , Nortriptyline (10mg)
+245129,Xylovir 800mg Tablet,186.7,False,Green Cross Remedies,allopathy,strip of 10 tablets,Acyclovir (800mg),
+244763,Xovoltib 20mg Tablet,13724.5,False,Boehringer Ingelheim,allopathy,strip of 7 tablets,Afatinib dimaleate (20mg),
+245696,Xoftad 1000mg Injection,79.0,False,Adbio Organics Pvt Ltd,allopathy,vial of 1 Injection,Ceftriaxone (1000mg),
+245492,Xeroworm AD 400mg Tablet,90.0,False,Alpha Drugs & Pharmaceuticals,allopathy,strip of 10 tablets,Albendazole (400mg),
+244007,Xilia-Trio 2 Tablet SR,202.35,False,Emcure Pharmaceuticals Ltd,allopathy,strip of 10 tablet sr,Glimepiride (2mg) , Metformin (500mg) 
+243896,Xylocaine Adrenaline 2% Injection,34.5,False,AstraZeneca,allopathy,vial of 30 ml Injection,Lidocaine (2%),
+245114,Xal 50mg Suspension,30.0,False,Bajaj Pharmaceutical,allopathy,bottle of 30 ml Suspension,Ofloxacin (50mg),
+245004,Xerolimus Ointment,325.0,True,Merck Ltd,allopathy,tube of 10 gm Ointment,Tacrolimus (NA),
+244933,Ximtil 500mg Tablet,430.0,False,Grefith Life Sciences Pvt Ltd,allopathy,strip of 10 tablets,Cefuroxime (500mg),
+244844,X-Clo 50mg Tablet,45.9,False,Depsons Healthcare,allopathy,strip of 5 tablets,Clomiphene (50mg),
+243911,Xylopan 40mg Tablet,70.0,False,Lividus Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Pantoprazole (40mg),
+245626,Xoburic 40 Tablet,105.0,False,Theon Pharmaceuticals Ltd.,allopathy,strip of 10 tablets,Febuxostat (40mg),
+245583,Xaparin 60mg Injection,625.0,False,New Medicon Pharma Labs Pvt Ltd,allopathy,vial of 0.6 ml Injection,Enoxaparin (60mg),
+245755,Xemo 250mg Tablet,140.0,False,Age Biotech,allopathy,strip of 4 tablets,Cefuroxime (250mg),
+244346,Xib 90mg Tablet,72.5,False,Kabir Life Sciences,allopathy,strip of 10 tablets,Etoricoxib (90mg),
+244009,Xnac-SP Tablet,77.0,False,Estrellas Life Sciences Pvt. Ltd.,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg) 
+244786,Xipil Plus Tablet,99.75,False,Psychotropics India Ltd,allopathy,strip of 10 tablets,Cefixime (200mg) , Ofloxacin (200mg)
+243885,XL Mont Syrup,70.0,False,DWD Pharmaceuticals Ltd,allopathy,bottle of 60 ml Syrup,Levocetirizine (2.5mg/5ml) , Montelukast (4mg/5ml)
+244073,X Plus Syrup,32.2,False,Aaron Pharmaceuticals Pvt Ltd,allopathy,bottle of 100 ml Syrup,Ambroxol (NA) , Guaifenesin (NA) 
+245037,Xytroy Rapid  500mg Tablet,13.33,False,Troikaa Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Paracetamol (500mg),
+243986,Xoten 20 Tablet,244.42,False,Alteus Biogenics Pvt Ltd,allopathy,strip of 15 tablets,Rosuvastatin (20mg),
+245495,Xidol 50mg Injection,24.0,False,Dewcare Concept Pvt.Ltd.,allopathy,vial of 1 ml Injection,Tramadol (50mg),
+245005,Xflo OD Suspension,36.0,False,Apids Pharmaceuticals,allopathy,bottle of 30 ml Suspension,Ofloxacin (50mg) , Ornidazole (125mg)
+245689,Xoricort 6mg Tablet,84.0,False,Aenor Pharmaceuticals Private Limited,allopathy,strip of 10 tablets,Deflazacort (6mg),
+245207,Xoneact 500mg Injection,43.93,False,Cee Bee Laboratories,allopathy,vial of 1 Injection,Ceftriaxone (500mg),
+245223,Xidol A 200mg Tablet SR,34.0,False,Dewcare Concept Pvt.Ltd.,allopathy,strip of 10 tablet sr,Aceclofenac (200mg),
+244446,Xemo 500mg Tablet,250.0,False,Age Biotech,allopathy,strip of 4 tablets,Cefuroxime (500mg),
+244051,Xpectra 300mg ER Tablet ER,650.0,False,Human Bio Organics Pvt Ltd,allopathy,strip of 6 tablet er,Faropenem (300mg),
+244914,Xepime-TAZ 1000mg/125mg Injection,280.0,False,Sanify Healthcare Pvt  Ltd,allopathy,vial of 1 Powder for Injection,Cefepime (1000mg) , Tazobactum (125mg)
+245416,Xlot AS 75mg/75mg Capsule,38.0,False,DR Best pharmaceuticals Pvt Ltd,allopathy,strip of 10 capsules,Aspirin (75mg) , Clopidogrel (75mg)
+245493,Xxone 500mg Injection,43.9,False,Alardius Healthcare,allopathy,vial of 1 Injection,Ceftriaxone (500mg),
+244128,Xifarix 400mg Tablet,352.0,False,Sinsan Pharmaceuticals,allopathy,strip of 10 tablets,Rifaximin (400mg),
+244027,Xyeter 500mg Tablet,475.0,False,KLM Laboratories Pvt Ltd,allopathy,strip of 10 tablets,Cefuroxime (500mg),
+245606,Xucef 100mg Tablet DT,110.0,False,Allentis Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablet dt,Cefpodoxime Proxetil (100mg),
+245681,Xolfo OZ Oral Suspension,35.0,False,P R G Pharma Pvt Ltd,allopathy,bottle of 30 ml Oral Suspension,Ofloxacin (50mg) , Ornidazole (125mg)
+244187,X-Vis 500mg Tablet,500.0,False,Dolvis Bio Pharma Pvt Ltd,allopathy,strip of 10 tablets,Cefuroxime (500mg),
+244799,Xil 500mg Tablet,84.0,False,Vega Pharma,allopathy,strip of 10 tablets,Cefadroxil (500mg),
+244679,Xanotor 40mg Tablet,95.0,False,Diamond Drugs Pvt Ltd,allopathy,strip of 10 tablets,Febuxostat (40mg),
+244352,Xylomonas 4.5 MIU Injection,3950.0,False,Alkem Laboratories Ltd,allopathy,vial of 1 Injection,Colistin Sulphate (4.5Million IU),
+244270,Xanti 0.5mg Tablet,20.62,False,Targof Pure Drugs Td,allopathy,strip of 10 tablets,Alprazolam (0.5mg),
+245752,Xiffime 500 Tablet,380.0,False,Aadi Health Care,allopathy,strip of 6 tablets,Cefuroxime (500mg),
+244046,Xceft 200  Tablet,169.3,True,Alembic Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Cefixime (200mg) , Cloxacillin (500mg) 
+244980,Xspore-IT Capsule,170.0,False,Estrellas Life Sciences Pvt. Ltd.,allopathy,strip of 10 capsules,Itraconazole (100mg),
+244324,Xstan-H 40mg/12.5mg Tablet,38.0,False,Blue Cross Laboratories Ltd,allopathy,strip of 10 tablets,Telmisartan (40mg) , Hydrochlorothiazide (12.5mg)
+245038,Xipil CV 200 mg/125 mg Tablet,109.0,False,Psychotropics India Ltd,allopathy,strip of 6 tablets,Cefixime (200mg) , Clavulanic Acid (125mg)
+245131,Xituss Syrup,74.99,False,Sannova Biotech Pvt Ltd,allopathy,bottle of 100 ml Syrup,Ambroxol (15mg) , Guaifenesin (50mg) 
+243825,Xenadom 250 Tablet,79.0,False,Icon Life Sciences,allopathy,strip of 10 tablets,Naproxen (250mg) , Domperidone (10mg)
+244366,Xf 200mg Tablet,150.0,False,Accretion Pharmaceuticals,allopathy,strip of 10 tablets,Cefixime (200mg),
+244023,Xtaz 5mg Tablet,55.0,False,Medley Pharmaceuticals,allopathy,strip of 10 tablets,Clonazepam (0.5mg) , Escitalopram Oxalate (5mg)
+244032,X-Plat 100 Injection,3550.0,True,Cipla Ltd,allopathy,vial of 50 ml Injection,Oxaliplatin (100mg),
+245340,Xonejet 500mg Injection,54.0,False,Biofield Pharma,allopathy,vial of 1 Injection,Ceftriaxone (500mg),
+245443,Xoflon-OZ Tablet,69.0,False,Asiatic Pharmaceuticals,allopathy,strip of 10 tablets,Ofloxacin (200mg) , Ornidazole (500mg)
+245451,Xolev 5 Tablet,31.0,False,Hummed Healthcare,allopathy,strip of 10 tablets,Levocetirizine (5mg),
+244150,Xop 50mg Dry Syrup,78.3,False,Corona Remedies Pvt Ltd,allopathy,bottle of 30 ml Dry Syrup,Cefpodoxime Proxetil (50mg),
+244092,Xantron 500mg Tablet,71.0,False,CNX Healthcare Pvt Ltd,allopathy,strip of 3 tablets,Azithromycin (500mg),
+244657,Xylovin Nasal Drops,30.0,False,Mandar Pharmaceuticals Pvt Ltd,allopathy,bottle of 10 ml Nasal Drops,Xylometazoline (0.1% w/v),
+244557,Xabine 500mg Tablet,1609.5,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 1 Tablet,Capecitabine (500mg),
+244212,Xtradol P 50 mg/325 mg/500 mg Tablet,80.52,False,Organic Laboratories,allopathy,strip of 15 tablets,Diclofenac (50mg) , Paracetamol (325mg) 
+244889,Xpantoz-DSR Capsule,160.25,False,Aleixo Pharma,allopathy,strip of 10 capsule pr,Domperidone (30mg) , Pantoprazole (40mg)
+244483,Xtagem 200 Tablet,260.0,False,Eright Healthcare,allopathy,strip of 10 tablets,Cefpodoxime Proxetil (200mg),
+244372,XO Block 40mg Tablet,120.0,False,Solano HealthCare Pvt Ltd,allopathy,strip of 10 tablets,Febuxostat (40mg),
+243799,Xylocaine 5% Ointment,66.7,False,Zydus Cadila,allopathy,tube of 50 gm Ointment,Lidocaine (5% w/w),
+244126,Xtraclav Tablet ER,361.0,False,Lupin Ltd,allopathy,strip of 10 tablet er,Amoxycillin  (NA) ,  Clavulanic Acid (NA)

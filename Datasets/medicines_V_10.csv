@@ -1,0 +1,11 @@
+id,name,price(₹),Is_discontinued,manufacturer_name,type,pack_size_label,short_composition1,short_composition2
+234420,Vitel AM 40mg/5mg Tablet,138.0,False,Alvio Pharma,allopathy,strip of 15 tablets,Telmisartan (40mg) , Amlodipine (5mg)
+236654,Vogol 0.3mg Tablet,84.5,False,In Med Therapeutics,allopathy,strip of 10 tablets,Voglibose (0.3mg),
+238103,Vrimet 500mg Tablet,16.38,False,Vrinda Life,allopathy,strip of 10 tablets,Metformin (500mg),
+239280,Volfix 100mg Tablet,78.0,False,Volus Pharma Pvt Ltd,allopathy,strip of 10 tablets,Cefixime (100mg),
+234083,Vamol Pediatric Drop,30.0,False,Variety Pharmaceuticals Pvt Ltd,allopathy,bottle of 15 ml Oral Suspension,Paracetamol (100mg/ml),
+235858,Vertiwell 5mg Tablet,17.0,False,Treatwell Pharma,allopathy,strip of 10 tablets,Prochlorperazine (5mg),
+240371,Vdzol 40 Injection,51.0,False,Medios Laboratories Pvt Ltd,allopathy,vial of 1 Injection,Pantoprazole (40mg),
+238642,Vensil 37.5mg Tablet,40.0,False,Silicon Pharma,allopathy,strip of 10 tablets,Venlafaxine (37.5mg),
+235861,Visken 10mg Tablet,17.42,False,Novartis India Ltd,allopathy,strip of 10 tablets,Pindolol (10mg),
+234459,Volrab DSR Capsule,69.0,False,Biochemix Health Care Pvt. Ltd.,allopathy,strip of 10 capsule sr,Domperidone (30mg) , Rabeprazole (20mg)

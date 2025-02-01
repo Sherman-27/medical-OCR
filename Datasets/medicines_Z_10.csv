@@ -1,0 +1,11 @@
+id,name,price(₹),Is_discontinued,manufacturer_name,type,pack_size_label,short_composition1,short_composition2
+247640,Zolpirest 10mg Tablet,61.5,False,East West Pharma,allopathy,strip of 10 tablets,Zolpidem (10mg),
+253795,Zoxotrox S 500mg/250mg Injection,85.0,False,Zoxvina Biotech Private Limited,allopathy,vial of 1 Injection,Ceftriaxone (500mg) , Sulbactam (250mg)
+252364,Zutris 200mg Oral Suspension,49.5,False,Soinsvie Pharmacia Pvt Ltd,allopathy,bottle of 15 ml Oral Suspension,Azithromycin (200mg),
+249426,Zetax O 200mg Tablet,127.5,False,Dynamed Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Cefixime (200mg),
+246965,Zinase-Plus Tablet,135.0,False,Rapross Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Bromelain (90mg) , Diclofenac (50mg) 
+248552,Zivert 25mg Tablet,25.0,False,Alna Biotech Pvt Ltd,allopathy,strip of 10 tablets,Cinnarizine (25mg),
+248922,Zicof D Syrup,75.0,False,Ziyana Lifesciences Pvt Ltd,allopathy,bottle of 100 ml Syrup,Phenylephrine (5mg) , Chlorpheniramine Maleate (2mg) 
+248399,Zulip 500mg Tablet SR,20.0,False,Azurite Bio Science Pvt Ltd,allopathy,strip of 10 tablet sr,Metformin (500mg),
+249076,Zyluta 50mg Tablet,422.9,False,Zydus Cadila,allopathy,strip of 10 tablets,Bicalutamide (50mg),
+246787,Ziglim-M1 Tablet PR,63.4,False,FDC Ltd,allopathy,strip of 15 Tablet pr,Glimepiride (1mg) , Metformin (500mg)
