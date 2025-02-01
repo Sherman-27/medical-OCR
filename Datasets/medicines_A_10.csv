@@ -1,0 +1,11 @@
+id,name,price(₹),Is_discontinued,manufacturer_name,type,pack_size_label,short_composition1,short_composition2
+22449,Alrozith 250 Tablet,68.0,False,Alrosa Pharmaceuticals Pvt Ltd,allopathy,strip of 6 tablets,Azithromycin (250mg),
+1960,Amnac Opthalmic Suspension,175.8,False,Zydus Cadila,allopathy,packet of 5 ml Eye Drop,Nepafenac (0.1% w/v),
+2196,Alocet 5mg Tablet,31.0,False,Viilbery Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg),
+19925,Azzicin 200mg Oral Suspension,90.0,False,Safe Life Care,allopathy,bottle of 30 ml Oral Suspension,Azithromycin (200mg/5ml),
+197,Apidra 100IU Cartridge,761.0,False,Sanofi India  Ltd,allopathy,cartridge of 3 ml Solution for Injection,Insulin Glulisine (100IU),
+2580,Amipace 100 Tablet,63.57,False,Lupin Ltd,allopathy,strip of 10 tablets,Amiodarone (100mg),
+24918,Amikon 250mg Injection,35.0,False,Konark Biochem,allopathy,vial of 1 Injection,Amikacin (250mg),
+9749,Acelide 100mg/500mg Tablet,22.4,False,Apids Pharmaceuticals,allopathy,strip of 10 tablets,Nimesulide (100mg) , Paracetamol (500mg)
+4901,Aceclogesic MR 100mg/325mg/250mg Tablet,55.0,False,Nectar Biopharma Pvt Limited,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg) 
+13478,Abimonte Tablet,143.5,False,Abigail Care Pharmaceutical,allopathy,strip of 10 tablets,Montelukast (10mg) , Fexofenadine (120mg)

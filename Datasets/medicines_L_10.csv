@@ -1,0 +1,11 @@
+id,name,price(₹),Is_discontinued,manufacturer_name,type,pack_size_label,short_composition1,short_composition2
+131670,L Aspinase 5000IU Injection,978.2,False,RPG Life Sciences Ltd,allopathy,vial of 1 Injection,Asparaginase (5000IU),
+122912,Lorate 10mg Tablet,36.0,False,Pifer Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Loratadine (10mg),
+130414,Lulisut Cream,240.0,False,Monsut Chem Industries,allopathy,tube of 30 gm Cream,Luliconazole (1% w/w),
+121150,Ludura Cream,266.2,False,Cipla Ltd,allopathy,tube of 20 gm Cream,Luliconazole (1% w/w),
+126321,Levostar D 5mg/10mg Tablet,40.0,False,Intra Labs India Pvt Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Phenylephrine (10mg)
+123658,Levoford 500mg Tablet,81.98,False,Roussel Laboratories Pvt Ltd,allopathy,strip of 10 tablets,Levofloxacin (500mg),
+127620,Litrapen 0.5mg/10mg Tablet,85.0,False,Captab Biotec,allopathy,strip of 10 tablets,Flupenthixol (0.5mg) , Escitalopram Oxalate (10mg)
+123103,Lee 5mg Tablet,36.35,False,Merkury Arena Labs,allopathy,strip of 10 tablets,Levocetirizine (5mg),
+129609,Locopan D 30mg/40mg Capsule SR,110.0,False,Loco Healthcare Pvt Ltd,allopathy,strip of 10 capsule sr,Domperidone (30mg) , Pantoprazole (40mg)
+133321,Levoraj OZ 250mg/500mg Tablet,85.0,False,Zenstar Life Sciences,allopathy,strip of 10 tablets,Levofloxacin (250mg) , Ornidazole (500mg)

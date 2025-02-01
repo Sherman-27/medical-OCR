@@ -1,0 +1,11 @@
+id,name,price(₹),Is_discontinued,manufacturer_name,type,pack_size_label,short_composition1,short_composition2
+243988,Xircox 90 Tablet,137.5,False,HBC Lifesciences Pvt Ltd,allopathy,strip of 10 tablets,Etoricoxib (90mg),
+244205,Xarex 10mg Tablet,135.0,True,Alteus Biogenics Pvt Ltd,allopathy,strip of 10 tablets,Rivaroxaban (10mg),
+245252,Xiama ET 250mg/250mg Tablet,119.0,False,Cheminnova Life Sciences,allopathy,strip of 10 tablets,Tranexamic Acid (250mg) , Ethamsylate (250mg)
+245100,Xcef 200mg Tablet,138.0,False,Alicon Pharmaceutical Pvt Ltd,allopathy,strip of 10 tablets,Cefixime (200mg) , Lactobacillus (60Million spores)
+244229,Xycalm 0.25mg Tablet,7.8,False,Ipca Laboratories Ltd,allopathy,strip of 10 tablets,Alprazolam (0.25mg),
+245127,Xplametta 100mg Injection,6900.0,False,Metta Life Sciences Private Limited,allopathy,vial of 1 Injection,Oxaliplatin (100mg),
+244728,Xynotel 3D 40mg/5mg/12.5mg Tablet,116.0,False,Empower Life Sciences,allopathy,strip of 10 tablets,Telmisartan (40mg) , Amlodipine (5mg) 
+245132,Xadomet G 1mg/500mg Tablet,52.8,False,Dr Cure Pharmaceuticals India Pvt Ltd,allopathy,strip of 10 tablets,Glimepiride (1mg) , Metformin (500mg)
+245092,Xtrashine Cream,198.0,False,Ziotic Life Sciences,allopathy,tube of 20 gm Cream,Hydroquinone (2% w/w) , Tretinoin (0.025% w/w) 
+244887,Xifacol 200mg Tablet,169.9,False,Fawn Incorporation,allopathy,strip of 10 tablets,Rifaximin (200mg),

@@ -1,0 +1,11 @@
+id,name,price(₹),Is_discontinued,manufacturer_name,type,pack_size_label,short_composition1,short_composition2
+110810,Ivagesic-SP Tablet,98.0,False,Ivaan pharmaceuticals,allopathy,strip of 10 tablets,Diclofenac (50mg) , Paracetamol (325mg) 
+108055,Inceptova HCG 5000IU Injection,472.59,False,Indian Immunologicals Ltd,allopathy,vial of 1 Injection,Human chorionic gonadotropin (hCG) (5000IU),
+111220,Introcin 500 Tablet,112.0,False,Integrated Laboratories Pvt Ltd,allopathy,strip of 6 tablets,Azithromycin (500mg),
+111036,Itocan Medicated Soap,160.0,False,Canbro Healthcare,allopathy,box of 75 gm Soap,Itraconazole (1% w/w),
+109358,Ivercid 6mg Tablet,30.0,False,East West Pharma,allopathy,strip of 2 tablets,Ivermectin (6mg),
+112074,Insiflam 75mg Injection,19.0,False,Insinius Pharmaceuticals,allopathy,vial of 1 ml Injection,Diclofenac (75mg),
+113696,Impusid Cream,86.0,False,Shalaks Healthcare,allopathy,tube of 10 gm Cream,Fusidic Acid (2% w/w),
+109913,Insicobal-NT Tablet,195.0,False,Insinius Pharmaceuticals,allopathy,strip of 10 tablets,Pregabalin (75mg) , Nortriptyline (10mg) 
+108000,Itin 12 Tablet,52.0,False,Canixa Life Sciences Pvt,allopathy,strip of 2 tablets,Ivermectin (12mg),
+107934,Itradila 200 Capsule,280.0,False,Cadila Pharmaceuticals Ltd,allopathy,strip of 10 capsules,Itraconazole (200mg),

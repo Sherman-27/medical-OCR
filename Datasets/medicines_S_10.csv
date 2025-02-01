@@ -1,0 +1,11 @@
+id,name,price(₹),Is_discontinued,manufacturer_name,type,pack_size_label,short_composition1,short_composition2
+203187,Sidose 400mg Suspension,19.8,False,Emcee Pharmaceuticals Pvt Ltd,allopathy,bottle of 10 ml Suspension,Albendazole (400mg),
+214305,Sulbid T 100mg/2mg Tablet,47.0,False,Alpic Remedies Ltd,allopathy,strip of 10 tablets,Nimesulide (100mg) , Tizanidine (2mg)
+212014,StayHappi Esomeprazole 40mg Tablet,30.0,False,Sarvagunaushdhi Pvt Ltd,allopathy,strip of 10 tablets,Esomeprazole (40mg),
+203299,Spd Plus  Tablet,84.0,False,Curagen Biological   Pharmaceuticals,allopathy,strip of 10 tablets,Diclofenac (50mg) , Paracetamol (325mg) 
+214726,Seroace P Oral Suspension,47.0,False,Scocia Labs,allopathy,bottle of 60 ml Oral Suspension,Aceclofenac (50mg) , Paracetamol (125mg)
+213925,Sapocef 500 Tablet,485.0,False,Sapson Pharma,allopathy,strip of 10 tablets,Cefuroxime (500mg),
+208399,Strovent 80mg Tablet,234.0,False,Worth Medicines Pvt Ltd,allopathy,strip of 10 tablets,Atorvastatin (80mg),
+211042,Shiroz 10mg Tablet,136.0,False,Schwitz Biotech,allopathy,strip of 10 tablets,Rosuvastatin (10mg),
+201124,Slipizem 5mg Suppository,56.0,False,Bliss Gvs Pharma Limited,allopathy,packet of 5 suppositories,Diazepam (5mg),
+209965,Sertavib Cream,120.0,False,Vibcare Pharma Pvt Ltd,allopathy,tube of 10 gm Cream,Sertaconazole (2% w/w),

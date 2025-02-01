@@ -1,0 +1,201 @@
+id,name,price(₹),Is_discontinued,manufacturer_name,type,pack_size_label,short_composition1,short_composition2
+155756,Nuavomin 2mg Injection,17.08,False,Abbott,allopathy,vial of 2 ml Injection,Ondansetron (2mg),
+156947,Nyarabi LS 75mg/20mg Capsule,150.0,False,Treatwell Biotech,allopathy,strip of 10 capsules,Levosulpiride (75mg) , Rabeprazole (20mg)
+156945,Nit 5mg Tablet,13.0,False,Aan Pharma Pvt Ltd,allopathy,strip of 10 tablets,Nitrazepam (5mg),
+158950,Nolia-A 200mg/250mg Tablet,400.0,False,Shinto Organics (P) Limited,allopathy,strip of 10 tablets,Cefpodoxime Proxetil (200mg) , Azithromycin (250mg)
+155743,Naxim O 200mg/200mg Tablet,210.0,False,Nemi Pharmaceuticles,allopathy,strip of 10 tablets,Cefixime (200mg) , Ofloxacin (200mg)
+155092,Novaten 100mg Tablet,33.33,False,Ajanta Pharma Ltd,allopathy,strip of 14 tablets,Atenolol (100mg),
+158635,Nuroflam P 750mcg/75mg Capsule,127.35,False,Vinson pharma,allopathy,strip of 10 capsules,Methylcobalamin (750mcg) , Pregabalin (75mg)
+155315,Neolet 250mg Tablet,64.06,False,Kivi Labs Ltd,allopathy,strip of 10 tablets,Levetiracetam (250mg),
+160687,Nimdus P 100mg/500mg Suspension,32.0,False,Zydus Cadila,allopathy,bottle of 60 ml Suspension,Nimesulide (100mg) , Paracetamol (500mg)
+158768,Nitrogem 6.4mg Tablet,197.0,False,Kelvin Remedies,allopathy,strip of 10 tablets,Nitroglycerin (6.4mg),
+153330,Nupreg N 75mg/10mg Tablet,145.0,False,Salveo Lifecare,allopathy,strip of 10 tablets,Pregabalin (75mg) , Nortriptyline (10mg)
+158853,Napronik 500mg/10mg Tablet,120.0,False,Sycap Pharma,allopathy,strip of 10 tablets,Naproxen (500mg) , Domperidone (10mg)
+153003,Nimol 50mg Drop,25.0,False,Hema Laboratories,allopathy,packet of 15 ml Drop,Nimesulide (50mg),
+151844,New Asthalin Expectorant,53.5,True,Cipla Ltd,allopathy,bottle of 100 ml Syrup,Salbutamol (0.5mg) , Guaifenesin (50mg)
+159064,Narnuron Injection,90.0,False,Deify Pharma,allopathy,vial of 2 ml Injection,Methylcobalamin (1000mcg) , Vitamin B6 (Pyridoxine) (100mg) 
+161100,Nucobod 1500mcg Injection,35.0,False,Orlife Healthcare,allopathy,vial of 1 Injection,Methylcobalamin (1500mcg),
+153707,Nupred 4mg Tablet,49.78,False,Nectar Remedies Ltd,allopathy,strip of 15 tablets,Methylprednisolone (4mg),
+156928,Novatax O 100mg Tablet,140.0,False,Cipla Ltd,allopathy,strip of 10 tablets,Cefotaxime (100mg),
+150553,Norflokem TZ Tablet,91.0,False,Alkem Laboratories Ltd,allopathy,strip of 10 tablets,Norfloxacin (400mg) , Tinidazole (600mg)
+155904,Nemag Plus Tablet,5.23,False,Agron Remedies Pvt Ltd,allopathy,strip of 10 tablets,Nimesulide (100mg) , Paracetamol (500mg)
+153357,Nodep 10mg/1mg Tablet,37.5,False,Life Vision Medicare Pvt Ltd,allopathy,strip of 15 tablets,Chlordiazepoxide (10mg) , Trifluoperazine (1mg)
+153375,Nosset Syrup,40.0,False,Beline Pharmaceuticals Pvt Ltd,allopathy,bottle of 60 ml Syrup,Chlorpheniramine Maleate (2mg/5ml) , Phenylephrine (5mg/5ml)
+155952,Nekszole-LS Capsule,241.0,False,Care Formulation Labs Pvt Ltd,allopathy,strip of 10 capsules,Levosulpiride (75mg) , Esomeprazole (40mg)
+157196,Nutova 20mg Tablet,99.0,False,Biophar Lifesciences Pvt Ltd,allopathy,strip of 10 tablets,Atorvastatin (20mg),
+151100,Norpace 100 Capsule,89.2,True,RPG Life Sciences Ltd,allopathy,strip of 10 capsules,Disopyramide (100mg),
+155485,Nanoxel 30mg Injection,2747.5,False,Fresenius Kabi India Pvt Ltd,allopathy,vial of 1 Injection,Paclitaxel (30mg),
+154399,Neuri Forte Injection,18.51,False,Perk Pharmaceuticals Ltd,allopathy,vial of 3 ml Injection,Methylcobalamin (NA),
+160064,Naba P Syrup,27.62,False,Monokem Labs,allopathy,bottle of 60 ml Syrup,Nimesulide (NA),
+160361,Nihigesic-MR Tablet,95.0,False,Nihit Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg) 
+161151,Nexim AZ 200mg/250mg Tablet,189.3,False,Kentreck Laboratories Pvt Ltd,allopathy,strip of 10 tablets,Cefixime (200mg) , Azithromycin (250mg)
+155233,Nimpac 100 mg/250 mg Tablet,55.0,False,Sysmed Laboratories Pvt Ltd,allopathy,strip of 10 tablets,Nimesulide (100mg) , Chlorzoxazone (250mg)
+153653,NXT-Plus Tablet,35.0,False,Denmarc Remedies,allopathy,strip of 10 tablets,Nimesulide (100mg) , Paracetamol (325mg)
+161204,Nidaflox 400mg/600mg Tablet,55.0,False,Medicamen Biotech Ltd,allopathy,strip of 10 tablets,Norfloxacin (400mg) , Tinidazole (600mg)
+157180,Nidsex 50mg Tablet,72.0,False,Nidus Pharma Pvt Ltd,allopathy,strip of 4 tablets,Sildenafil (50mg),
+157054,Nimwell P 100mg/325mg Tablet,30.0,False,Healthwell Healthcare,allopathy,strip of 10 tablets,Nimesulide (100mg) , Paracetamol (325mg)
+150897,Noculi Tablet,64.0,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Potassium Magnesium Citrate (978mg),
+156599,Nexpraz D 10mg/20mg Capsule,55.0,False,Nexus Biotech,allopathy,strip of 10 capsules,Domperidone (10mg) , Omeprazole (20mg)
+154604,Nictoris 5 Tablet,360.0,False,Archicare Limited,allopathy,bottle of 30 tablets,Nicorandil (5mg),
+157942,Nofite 50mg/100mg Tablet,12.6,False,Sunrise Remedies Pvt Ltd,allopathy,strip of 10 tablets,Phenobarbitone (50mg) , Phenytoin (100mg)
+156636,Neurocheck-Plus Injection,55.0,False,Gentronix Lifecare Pvt Ltd,allopathy,box of 2 ml Injection,Methylcobalamin (1500mcg) , Niacinamide (100mg) 
+151458,Neurokem D 75/30 Capsule DR,239.0,False,Alkem Laboratories Ltd,allopathy,strip of 10 Capsule DR,Pregabalin (75mg) , Duloxetine (30mg)
+153796,Nucoxia Ointment,66.5,True,Zydus Cadila,allopathy,tube of 30 gm Ointment,Etoricoxib (1% w/w),
+158258,Namosid 100mg Tablet,22.0,False,Taj Pharma India Ltd,allopathy,strip of 10 tablets,Nimesulide (100mg),
+159731,Nexus P Suspension,19.5,False,Lexus Organics,allopathy,bottle of 60 ml Suspension,Nimesulide (50mg) , Paracetamol (125mg)
+150501,Novastat 20 Tablet,592.0,False,Lupin Ltd,allopathy,strip of 15 tablets,Rosuvastatin (20mg),
+155210,Neunac SP Tablet,113.0,False,Neumorgen Pharmaceuticals Pvt. Ltd.,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg) 
+156505,Norpen TZ Tablet,24.37,False,Morepen Laboratories Ltd,allopathy,strip of 10 tablets,Norfloxacin (400mg) , Tinidazole (600mg)
+157283,N Zin 10mg Tablet,26.95,False,Nestor Pharmaceuticals,allopathy,strip of 10 tablets,Cetirizine (10mg),
+156090,Nifix LB 200mg Tablet,143.0,False,Bionics Remedies,allopathy,strip of 10 tablets,Cefixime (200mg) , Lactobacillus (60Million spores)
+158980,Numipan IV 40mg Injection,48.75,False,Nusmith Pharma Pvt. Ltd,allopathy,vial of 1 Injection,Pantoprazole (40mg),
+153144,Nornet-F Tablet,46.5,False,Pharma Planet India,allopathy,strip of 10 tablets,Flunarizine (10mg),
+153351,Neocuf Syrup,74.0,False,Neolina Pharmaceuticals,allopathy,bottle of 100 ml Syrup,Ambroxol (15mg/5ml) , Guaifenesin (50mg/5ml) 
+156260,NOVATEN-AM 5MG/50MG TABLET,29.5,False,Ajanta Pharma Ltd,allopathy,strip of 10 tablets,Amlodipine (5mg) , Atenolol (50mg)
+156125,Nims S 100mg/15mg Tablet,55.0,False,Man Serve Pharma,allopathy,strip of 10 tablets,Nimesulide (100mg) , Serratiopeptidase (15mg)
+156346,Nexicef 1gm Injection,56.0,False,Novo Medi Sciences Pvt Ltd,allopathy,vial of 10 ml Injection,Ceftriaxone (1gm),
+151741,Ntyl Tablet,339.0,False,Clamed Healthcare Pvt. Ltd.,allopathy,strip of 10 tablets,Acetylcysteine (600mg) , Pyridoxamine dihydrochloride (50mg)
+156685,Neva OZ 500mg/200mg Tablet,75.0,False,Novogen Captab,allopathy,strip of 10 tablets,Ornidazole (500mg) , Ofloxacin (200mg) 
+151217,Nimdex SP 100mg/325mg/10mg Tablet,89.0,False,Corporsano Mediaid,allopathy,strip of 10 tablets,Nimesulide (100mg) , Paracetamol (325mg) 
+155131,Nonsom Cream,165.0,False,Catholicon Pharmaceuticals Pvt Ltd,allopathy,tube of 20 gm Cream,Mometasone (0.1% w/v),
+154048,Neurozest G 300mg/500mcg Tablet,115.0,False,Innovative Pharmaceuticals,allopathy,strip of 10 tablets,Gabapentin (300mg) , Methylcobalamin (500mcg)
+159110,Nupex 1mg Tablet,80.0,False,Kivi Labs Ltd,allopathy,strip of 10 tablets,Flupenthixol (1mg),
+160621,Nandant 25mg Injection,70.0,False,Tyrant Pharma Pvt Ltd,allopathy,vial of 1 Injection,Nandrolone Decanoate (25mg),
+158871,Novapride 4mg Tablet,66.25,False,Organic Laboratories,allopathy,strip of 10 tablets,Glimepiride (4mg),
+157009,Nurosler 2500mcg Injection,80.0,False,Ausler Snovy Pharma,allopathy,vial of 2 ml Injection,Methylcobalamin (2500mcg),
+154699,Nextum 500mg/500mg Injection,95.0,False,Nexus India,allopathy,vial of 1 Injection,Cefoperazone (500mg) , Sulbactam (500mg)
+155017,Nimodinol 30mg Tablet,160.0,False,Knoll Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Nimodipine (30mg),
+160867,Nandrosen 25mg Injection,78.0,False,Ambreyo Lifesciences,allopathy,vial of 1 Injection,Nandrolone Decanoate (25mg),
+153719,Nimu-P Tablet,28.5,False,Pex-care Biotech,allopathy,strip of 10 tablets,Nimesulide (100mg) , Paracetamol (325mg)
+152378,NADOXIN M CREAM,51.27,True,Wockhardt Ltd,allopathy,tube of 1 gm Cream,Nadifloxacin (NA),
+160112,Niloose Solution,300.0,False,Nidus Pharma Pvt Ltd,allopathy,bottle of 200 ml Oral Solution,Lactulose (10gm),
+159939,Naspi 800mg Tablet,104.0,False,Nascent Life Sciences,allopathy,strip of 10 tablets,Piracetam (800mg),
+154119,Nevarid TC  Tablet,117.0,False,Mecartus Health Care Pvt Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg) 
+158716,Nimuzide 100mg/2mg Tablet,43.0,False,Instant Remedies Pvt Ltd,allopathy,strip of 10 tablets,Nimesulide (100mg) , Tizanidine (2mg)
+157772,ND Lex 5mg Syrup,80.0,False,NDMA Healthcare Pvt Ltd,allopathy,bottle of 100 ml Syrup,Sodium Picosulfate (5mg/5ml),
+153773,Nitrocin 50mg Injection,65.2,False,Samarth Life Sciences Pvt Ltd,allopathy,vial of 10 ml Injection,Nitroglycerin (50mg),
+153223,NT Spas Tablet,4.75,False,Intas Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Dicyclomine (20mg) , Paracetamol (325mg)
+152335,Neuroxia P 750mcg/75mg Capsule,120.0,False,Innovexia Life Sciences Pvt Ltd,allopathy,strip of 10 capsules,Methylcobalamin (750mcg) , Pregabalin (75mg)
+156334,NEWSTA 20 MG TABLET,234.5,True,Pfizer Ltd,allopathy,strip of 10 tablets,Rosuvastatin (20mg),
+160658,Nekcef 250mg Injection,30.0,False,Amplec Healthcare Pvt. Ltd.,allopathy,vial of 1 Injection,Ceftriaxone (250mg),
+158714,Nomxime 100mg Tablet,100.0,False,Acinom Healthcare,allopathy,strip of 10 tablets,Cefixime (100mg),
+161005,Nodiril AMH 40mg/5mg/12.5mg Tablet,149.0,False,Addii Biotech Pvt Ltd,allopathy,strip of 10 tablets,Telmisartan (40mg) , Amlodipine (5mg) 
+161234,ND Tas 50mg Injection,127.35,False,Vintas Pharmaceuticals Pvt. Ltd.,allopathy,vial of 1 Injection,Nandrolone Decanoate (50mg),
+155058,Nexporin 250 Capsule,59.11,False,Scott Edil Pharmacia Ltd,allopathy,strip of 10 capsules,Cefalexin (250mg),
+161585,Numipril-H Tablet,89.5,False,Numera Life Sciences,allopathy,strip of 10 tablets,Ramipril (2.5mg) , Hydrochlorothiazide (12.5mg)
+156765,Neurolice 500mg/5mg Tablet,15.0,False,Alice Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Paracetamol (500mg) , Prochlorperazine (5mg)
+155401,Neogentin 75 Injection,735.0,False,Maneesh Pharmaceuticals Ltd,allopathy,vial of 2 ml Injection,Urofollitropin (75IU),
+158190,Newdoxime 100 Tablet,102.85,False,Plenteous Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Cefpodoxime Proxetil (100mg),
+161589,Ndmod 25mg Injection,130.0,False,Modron Healthcare,allopathy,vial of 1 Injection,Nandrolone Decanoate (25mg),
+159114,Negesic P Suspension,28.0,False,NPS Pharmaceuticals,allopathy,bottle of 60 ml Suspension,Nimesulide (50mg) , Paracetamol (125mg)
+153793,Nodon 10 Tablet,229.0,False,Cadila Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Nebivolol (10mg),
+152481,Neukine 150mcg Injection,1347.0,False,Intas Pharmaceuticals Ltd,allopathy,vial of 1 ml Injection,Filgrastim (150mcg),
+156891,Normapac 25mg Tablet,94.45,False,Mankind Pharma Ltd,allopathy,strip of 10 tablets,Loxapine (25mg),
+158650,Nicorest-P Tablet,35.0,False,Biofrank Pharmaceuticals,allopathy,strip of 10 tablets,Nimesulide (100mg) , Paracetamol (325mg)
+150351,Nor-TZ Tablet,42.0,True,Alkem Laboratories Ltd,allopathy,strip of 6 tablets,Norfloxacin (400mg) , Tinidazole (600mg)
+153555,Nostrilin Adult 0.1% Nasal Spray,59.0,False,Vanesa Care Pvt Ltd,allopathy,packet of 10 ml Nasal Spray,Xylometazoline (0.1% w/v),
+160770,Nervagaba 1500mcg/75mg Capsule,135.0,False,Beloorbayir Biotech Limited,allopathy,strip of 10 capsules,Methylcobalamin (1500mcg) , Pregabalin (75mg)
+150707,Nexipox Vaccine,2389.0,False,Novo Medi Sciences Pvt Ltd,allopathy,vial of 1 Injection,Varicella Vaccine (live) attenuated (2000PFU),
+154331,Nikkmoiz Cream,189.5,False,Martyn Nikk Pharma Private Limited,allopathy,tube of 100 gm Cream,Urea (10% w/w) , Lactic Acid (10% w/w) 
+153992,Nuhylo Plus  Eye Drop,349.0,False,Doctor Wonder Private Limited,allopathy,bottle of 10 ml Eye Drop,Sodium Hyaluronate (0.1% w/v),
+156064,NT-Frost Oral Suspension,65.0,False,Chemross Lifesciences,allopathy,bottle of 60 ml Oral Suspension,Chlorpheniramine Maleate (0.5mg) , Paracetamol (250mg) 
+157689,NP Flox Syrup,28.0,False,NPS Pharmaceuticals,allopathy,bottle of 30 ml Syrup,Ofloxacin (50mg),
+153698,Norazol Tablet,65.61,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Norfloxacin (400mg) , Tinidazole (600mg)
+156803,Nayanim 100mg Tablet MD,24.0,False,BMW Pharmaco India Pvt. Ltd.,allopathy,strip of 10 tablet md,Nimesulide (100mg),
+158736,Nessfax O Syrup,109.0,False,Spark Bless Pharma,allopathy,bottle of 100 ml Syrup,Sucralfate (1000mg) , Oxetacaine (20mg)
+152728,Novalept Chrono 300mg Tablet CR,36.18,False,Aurum Life Science Pvt Ltd,allopathy,strip of 10 tablet cr,Valproic Acid (300mg),
+155938,N Side P 100 mg/500 mg Tablet,28.0,False,Adcock Ingram Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Nimesulide (100mg) , Paracetamol (500mg)
+151972,Nomigrain 10mg Capsule,19.71,False,Torrent Pharmaceuticals Ltd,allopathy,strip of 10 capsules,Flunarizine (10mg),
+154083,Norlox TZ Tablet,31.25,False,Lincoln Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Norfloxacin (400mg) , Tinidazole (600mg)
+151182,Nizral Tablet,347.0,True,Janssen Pharmaceuticals,allopathy,strip of 10 tablets,Ketoconazole (200mg),
+155461,Nestin 6.4mg Tablet CR,171.0,False,Alde Medi Impex Ltd,allopathy,strip of 30 tablet cr,Nitroglycerin (6.4mg),
+157234,Nucetam 400mg Tablet,50.0,False,Nusearch Organic,allopathy,strip of 10 tablets,Piracetam (400mg),
+154669,Nevon 4mg Tablet,39.0,False,Nivia Lifescience,allopathy,strip of 10 tablets,Ondansetron (4mg),
+156980,Nuroway P 750mcg/75mg Capsule,80.0,False,Gateway Remedies,allopathy,strip of 10 capsules,Methylcobalamin (750mcg) , Pregabalin (75mg)
+150997,Novamentin 625 Tablet,101.5,False,Scott Edil Pharmacia Ltd,allopathy,strip of 10 tablets,Amoxycillin  (500mg) ,  Clavulanic Acid (125mg)
+155041,Novolev 5mg Tablet,32.5,False,Captab Biotec,allopathy,strip of 10 tablets,Levocetirizine (5mg),
+161551,Nimclav 500mg/125mg Tablet,108.0,False,Veewin Healthcare Pvt Ltd,allopathy,strip of 6 tablets,Amoxycillin  (500mg) ,  Clavulanic Acid (125mg)
+157115,Nicomend 5 Tablet,110.0,False,Mendcure Life Sciences Pvt Ltd,allopathy,strip of 10 tablets,Nicorandil (5mg),
+159801,Nilcobose 0.2mg Tablet,64.0,False,Neelkanth Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Voglibose (0.2mg),
+152465,Neuzumab 440mg Injection,55350.0,False,Lupin Ltd,allopathy,vial of 20 ml Injection,Trastuzumab (440mg),
+155531,Nimuda 100mg Tablet,25.0,False,Almet Corporation Ltd,allopathy,strip of 10 tablets,Nimesulide (100mg),
+155245,Nidtroin 30mg Capsule,250.0,False,Nidus Pharma Pvt Ltd,allopathy,strip of 10 capsules,Isotretinoin (30mg),
+152095,Norosol M Syrup,25.66,False,Perk Pharmaceuticals Ltd,allopathy,bottle of 30 ml Syrup,Metronidazole (100mg) , Norfloxacin (100mg)
+156643,Norace MR 100mg/325mg/250mg Tablet,69.0,False,Norden Lifesciences,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg) 
+158945,Nexrami 2.5mg Tablet,36.0,False,Nexus Biotech,allopathy,strip of 10 tablets,Ramipril (2.5mg),
+159970,Nimyork P Tablet,39.0,False,Prosem Healthcare Private Limited,allopathy,strip of 10 tablets,Nimesulide (100mg) , Paracetamol (325mg)
+157970,Nurodix G 300mg/500mcg Tablet,145.0,False,Scotwin Healthcare,allopathy,strip of 10 tablets,Gabapentin (300mg) , Methylcobalamin (500mcg)
+160528,Nanticef CV 200mg/125mg Tablet,290.0,False,Milard Life Sciences,allopathy,strip of 10 tablets,Cefixime (200mg) , Clavulanic Acid (125mg)
+154657,Nervimust M 750mcg/75mg Capsule,189.0,False,Tulsi Medi Sciences,allopathy,strip of 10 capsules,Methylcobalamin (750mcg) , Pregabalin (75mg)
+160099,Nacbest P 50mg/325mg Tablet,28.0,False,Zeeford Life Sciences,allopathy,strip of 10 tablets,Diclofenac (50mg) , Paracetamol (325mg)
+154972,NFD Retard 30mg Tablet SR,38.0,False,Johnlee Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablet sr,Nifedipine (30mg),
+157755,Naxiflox 200mg Tablet,53.0,False,Norwin Lifesciences,allopathy,strip of 10 tablets,Ofloxacin (200mg),
+150711,Noblok New Tablet,39.93,False,Mankind Pharma Ltd,allopathy,strip of 10 tablets,Caffeine (30mg) , Diphenhydramine (25mg) 
+158573,Nemexin 500mg Capsule,134.0,False,Nemi Pharmaceuticles,allopathy,strip of 10 capsules,Cefalexin (500mg),
+150269,Nikoran 5 Tablet,365.0,False,Torrent Pharmaceuticals Ltd,allopathy,bottle of 20 tablets,Nicorandil (5mg),
+153163,Nortex TZ Tablet,55.56,False,Shreya Life Sciences Pvt Ltd,allopathy,strip of 10 tablets,Tinidazole (600mg) , Norfloxacin (400mg) 
+156936,Nidgesic-PS Tablet,43.9,False,Nidus Pharma Pvt Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (500mg) 
+155691,Netokuf L Syrup,78.4,False,Rosnet Pharma,allopathy,bottle of 100 ml Syrup,Ambroxol (15mg/5ml) , Guaifenesin (50mg/5ml) 
+153097,Nochil Oral Suspension,51.0,False,Arion Healthcare,allopathy,bottle of 60 ml Oral Suspension,Chlorpheniramine Maleate (2mg) , Paracetamol (125mg) 
+159179,Nexolan Rapitab 2.5mg Tablet MD,23.81,False,Emenox Healthcare,allopathy,strip of 10 tablet md,Olanzapine (2.5mg),
+158745,Nimslon 4mg Tablet,38.0,False,Nimbles Biotech Pvt Ltd,allopathy,strip of 10 tablets,Methylprednisolone (4mg),
+150450,Nootropil Syrup,337.75,False,Dr Reddy's Laboratories Ltd,allopathy,bottle of 100 ml Syrup,Piracetam (500mg/5ml),
+150468,Nefrosave Keto Tablet,229.0,False,Fourrts India Laboratories Pvt Ltd,allopathy,strip of 10 tablets,Alpha Ketoanalogue (NA),
+150554,New Adesam 200 Tablet,444.0,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Ademetionine (200mg),
+152672,Neutolen P 500mg/800mg Tablet,89.0,False,Secure Life Science India Pvt Ltd,allopathy,strip of 10 tablets,Citicoline (500mg) , Piracetam (800mg)
+156272,Neugrow 300mcg Injection,1363.0,False,BPRL Pvt Ltd,allopathy,vial of 1 ml Injection,Filgrastim (300mcg),
+160896,Ng Xone S 1000mg/500mg Injection,118.45,False,NG Healthcare Pvt Ltd,allopathy,vial of 1 Injection,Ceftriaxone (1000mg) , Sulbactam (500mg)
+157803,Nefter 100mg/500mg Tablet,27.0,False,Neiss Labs Pvt Ltd,allopathy,strip of 10 tablets,Nimesulide (100mg) , Paracetamol (500mg)
+154360,Neurocin-P 500mcg/75mg Tablet,149.95,False,Biocin Genetics & Pharma,allopathy,strip of 10 tablets,Methylcobalamin (500mcg) , Pregabalin (75mg)
+150427,Nimulid Tablet,84.8,False,Panacea Biotec Ltd,allopathy,strip of 15 tablets,Nimesulide (100mg),
+161539,Neelacin 250mg Injection,35.0,False,Shreeji Healthcare Impex,allopathy,vial of 1 Injection,Amikacin (250mg),
+159551,Nixzine-M Tablet,125.0,False,Carenix Bio Pharma Pvt. Ltd.,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Montelukast (10mg)
+150596,Nebzmart FB 0.5mg Smartules 2ml,370.3,False,Glenmark Pharmaceuticals Ltd,allopathy,packet of 7 respules,Formoterol (20mcg) , Budesonide (0.5mg)
+157481,Nartoz 200mg Tablet,199.0,False,Chemo Remedies,allopathy,strip of 10 tablets,Cefixime (200mg),
+160626,Nimorox P 100mg/325mg Tablet,29.0,False,Sunroxx Pharma,allopathy,strip of 10 tablets,Nimesulide (100mg) , Paracetamol (325mg)
+152173,Nuro Beta Plus 0.5mg/10mg Tablet,72.6,False,Alteus Biogenics Pvt Ltd,allopathy,strip of 10 tablets,Clonazepam (0.5mg) , Propranolol (10mg)
+156023,Nausiloc-MD Tablet,39.0,False,Medlock Healthcare Pvt Ltd,allopathy,strip of 10 tablet md,Ondansetron (4mg),
+153281,Neuroflam 50mg Tablet,86.08,True,Novartis India Ltd,allopathy,strip of 10 tablets,Diclofenac (50mg),
+152870,Neocin 350mg Tablet,69.5,False,Western Remedies,allopathy,strip of 10 tablets,Neomycin (350mg),
+156244,Nervowish-G Tablet,138.0,False,Nusmith Pharma Pvt. Ltd,allopathy,bottle of 10 tablets,Gabapentin (300mg) , Methylcobalamin (500mcg)
+151531,Navionce Eye Drop,184.0,False,Sentiss Pharma,allopathy,packet of 2.5 ml Eye Drop,Bromfenac (0.09% w/v),
+153284,Nimucold Tablet,32.0,False,Symbiosis Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Caffeine (30mg) , Chlorpheniramine Maleate (2mg) 
+151600,Nulong 20 Tablet,187.5,False,Micro Labs Ltd,allopathy,strip of 15 tablets,Cilnidipine (20mg),
+155879,Novodoxim 50mg Syrup,79.0,False,Captab Biotec,allopathy,bottle of 30 ml Syrup,Cefpodoxime Proxetil (50mg),
+150357,Nodard Plus Tablet,57.75,False,Cipla Ltd,allopathy,strip of 10 tablets,Nimesulide (100mg) , Paracetamol (325mg)
+157823,Nervilead NT 75mg/10mg Tablet,150.0,False,Vilead Healthcare,allopathy,strip of 10 tablets,Pregabalin (75mg) , Nortriptyline (10mg)
+157041,Ngsart MT 40 mg/25 mg Tablet,99.0,False,Precia Pharma,allopathy,strip of 10 tablets,Telmisartan (40mg) , Metoprolol Succinate (25mg)
+158879,Nig 25mg Injection,37.5,False,Vhb Life Sciences Inc,allopathy,vial of 5 ml Injection,Nitroglycerin (25mg),
+154160,Norglobin 5gm Infusion,11825.0,False,Claris Lifesciences Ltd,allopathy,bottle of 100 ml Solution for Infusion,Human Normal Immunoglobulin (5gm),
+154094,Nirglim MV 2/0.3 Tablet SR,99.0,False,Nirvana India Pvt Ltd,allopathy,strip of 10 tablet sr,Glimepiride (2mg) , Metformin (500mg) 
+160959,Nimzone MR 100mg/2mg Tablet,49.0,False,Wood Rock Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Nimesulide (100mg) , Tinidazole (2mg)
+159003,Naxineon 5mg Tablet,97.45,False,VHC Pharmaceuticals,allopathy,strip of 10 tablets,Allylestrenol (5mg),
+153494,Nazomac-F Nasal Drops,264.0,False,Macleods Pharmaceuticals Pvt Ltd,allopathy,packet of 15 ml Nasal Drops,Fluticasone Propionate (0.05% w/w),
+152705,Normabrain 200mg Injection,113.1,False,Torrent Pharmaceuticals Ltd,allopathy,vial of 15 ml Injection,Piracetam (200mg),
+154521,Nurovion NT Plus 75mg/10mg/1500mcg Tablet,250.0,False,Werke Healthcare,allopathy,strip of 10 tablets,Pregabalin (75mg) , Nortriptyline (10mg) 
+155867,Naxicold Tablet,45.0,False,Norwin Lifesciences,allopathy,strip of 10 tablets,Caffeine (25mg) , Cetirizine (5mg) 
+160737,Nidmont LC 5mg/10mg Tablet,110.0,False,Biovec Lifesciences,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Montelukast (10mg)
+152622,Nerva-NT 75mg/10mg Tablet,150.0,False,Bajaj Pharmaceutical,allopathy,strip of 10 tablets,Pregabalin (75mg) , Nortriptyline (10mg)
+154714,Nefsul 500 mg/500 mg Injection,162.65,False,Nitin Lifesciences Ltd,allopathy,vial of 20 ml Injection,Cefoperazone (500mg) , Sulbactam (500mg)
+156307,Nokia Tablet,30.0,False,Vardhman Biotech Pvt Ltd,allopathy,strip of 10 tablets,Nimesulide (100mg) , Paracetamol (500mg) 
+151920,Neuro One Plus Injection,89.5,False,Universal Micro Sciences,allopathy,vial of 2 ml Injection,Methylcobalamin (1000mcg) , Niacinamide (100mg) 
+158198,Noxval Chrono 500 Tablet,100.95,False,Emenox Healthcare,allopathy,strip of 10 tablets,Sodium Valproate (333mg) , Valproic Acid (145mg)
+159467,Nimpy P 100mg/325mg Tablet,30.0,False,Anisum Lifesciences,allopathy,strip of 10 tablets,Nimesulide (100mg) , Paracetamol (325mg)
+160710,Notacalamine Lotion,57.0,False,Lotus Life Sciences,allopathy,bottle of 50 ml Lotion,Calamine (10% w/v),
+152836,Nervedoc NT 75mg/10mg Tablet,145.0,False,Edoc Life Sciences Pvt Ltd,allopathy,strip of 10 tablets,Pregabalin (75mg) , Nortriptyline (10mg)
+159676,Nypa Suspension,33.32,False,Nri Vision Care India Limited,allopathy,bottle of 60 ml Suspension,Nimesulide (100mg) , Paracetamol (325mg)
+158014,Novomine 2500mcg Injection,90.0,False,Novogen Captab,allopathy,vial of 1 Injection,Methylcobalamin (2500mcg),
+153683,Nosobac XP 1.5G Injection,155.0,False,Aglowmed Limited,allopathy,vial of 1 Injection,Cefoperazone (1000mg) , Sulbactam (500mg)
+153776,NU D3 300000IU Injection,40.0,True,Zydus Cadila,allopathy,vial of 1 ml Injection,Vitamin D3 (300000IU),
+155575,Nimsin P 100mg/325mg Tablet,35.0,False,Insinius Pharmaceuticals,allopathy,strip of 10 tablets,Nimesulide (100mg) , Paracetamol (325mg)
+156857,Nak-P 100mg/500mg Tablet,45.0,False,Abron Healthcare,allopathy,strip of 10 tablets,Nimesulide (100mg) , Paracetamol (500mg)
+159398,Nofal AR 60mg Injection,190.0,False,Legend Pharma Technologies,allopathy,vial of 1 Injection,Artesunate (60mg),
+155296,NIFERIL RETARD 20MG TABLET,7.5,False,USV Ltd,allopathy,strip of 10 tablets,Nifedipine (20mg),
+151260,NS-Aid Eye Drop,60.0,False,Syntho Pharmaceuticals Pvt Ltd,allopathy,packet of 5 ml Ophthalmic Solution,Diclofenac (0.1% w/v),
+156978,Nexmet XL 25mg Tablet,58.0,False,Nexus Biotech,allopathy,strip of 10 tablets,Metoprolol Succinate (25mg),
+156642,Nody Plus 100mg/325mg Tablet,37.0,False,Nature & Time Formulations,allopathy,strip of 10 tablets,Nimesulide (100mg) , Paracetamol (325mg)
+159142,Nyadol 250mg Syrup,38.0,False,Treatwell Biotech,allopathy,bottle of 60 ml Syrup,Paracetamol (250mg/5ml),
+154343,NOPAIN SYRUP,24.73,True,GRAF Laboratories Pvt Ltd,allopathy,bottle of 50 ml Syrup,Ibuprofen (100mg) , Paracetamol (500mg)
+160753,Ndoate 25mg Injection,76.5,False,Habitare Pharma,allopathy,ampoule of 1 ml Injection,Nandrolone Decanoate (25mg),
+158969,Nany 25mg Injection,95.0,False,Labcorp India Pvt Ltd,allopathy,vial of 1 Injection,Nandrolone Decanoate (25mg),
+153943,Netrab 20mg Tablet,55.4,False,Rosnet Pharma,allopathy,strip of 10 tablets,Rabeprazole (20mg),

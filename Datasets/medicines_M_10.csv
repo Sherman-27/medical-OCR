@@ -1,0 +1,11 @@
+id,name,price(₹),Is_discontinued,manufacturer_name,type,pack_size_label,short_composition1,short_composition2
+147690,Moxiring 400mg Tablet,145.0,False,Werke Healthcare,allopathy,strip of 5 tablets,Moxifloxacin (400mg),
+137087,Moxieye Gel,165.0,False,Eyekare Kilitch Limited,allopathy,bottle of 5 ml Eye Drop,Moxifloxacin (0.5% w/v),
+147434,Moflet 5mg Tablet,98.0,False,Stallion Laboratories Pvt Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg),
+142343,Mogiv 0.1% Cream,223.0,False,Heptagon Lifesciences Pvt Ltd,allopathy,tube of 30 gm Cream,Mometasone (0.1% w/w),
+145241,Mitgest 200mg Injection,130.0,False,Mits Healthcare Pvt Ltd,allopathy,vial of 4 ml Injection,Progesterone (Natural Micronized) (200mg),
+134936,Mintop Forte 2 Hair Restore Formula,680.5,False,Dr Reddy's Laboratories Ltd,allopathy,bottle of 120 ml Solution,Minoxidil (20mg),
+136749,Metaplus 650mg Tablet,20.61,False,Themis Pharmaceuticals Prop Chemosyn Ltd,allopathy,strip of 10 tablets,Paracetamol (650mg),
+143064,Mecoceff 100mg Dry Syrup,120.0,False,Human Biolife India Pvt Ltd,allopathy,bottle of 30 ml Dry Syrup,Cefpodoxime Proxetil (100mg),
+133489,Monit GTN 2.6 Tablet CR,226.0,False,Intas Pharmaceuticals Ltd,allopathy,bottle of 30 tablet cr,Nitroglycerin (2.6mg),
+142610,Moxigap-CV 375 Tablet,155.0,False,Everwell Pharma Pvt Ltd,allopathy,strip of 10 tablets,Amoxycillin  (250mg) ,  Clavulanic Acid (125mg)

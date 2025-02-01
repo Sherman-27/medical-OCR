@@ -1,0 +1,201 @@
+id,name,price(₹),Is_discontinued,manufacturer_name,type,pack_size_label,short_composition1,short_composition2
+110810,Ivagesic-SP Tablet,98.0,False,Ivaan pharmaceuticals,allopathy,strip of 10 tablets,Diclofenac (50mg) , Paracetamol (325mg) 
+108055,Inceptova HCG 5000IU Injection,472.59,False,Indian Immunologicals Ltd,allopathy,vial of 1 Injection,Human chorionic gonadotropin (hCG) (5000IU),
+111220,Introcin 500 Tablet,112.0,False,Integrated Laboratories Pvt Ltd,allopathy,strip of 6 tablets,Azithromycin (500mg),
+111036,Itocan Medicated Soap,160.0,False,Canbro Healthcare,allopathy,box of 75 gm Soap,Itraconazole (1% w/w),
+109358,Ivercid 6mg Tablet,30.0,False,East West Pharma,allopathy,strip of 2 tablets,Ivermectin (6mg),
+112074,Insiflam 75mg Injection,19.0,False,Insinius Pharmaceuticals,allopathy,vial of 1 ml Injection,Diclofenac (75mg),
+113696,Impusid Cream,86.0,False,Shalaks Healthcare,allopathy,tube of 10 gm Cream,Fusidic Acid (2% w/w),
+109913,Insicobal-NT Tablet,195.0,False,Insinius Pharmaceuticals,allopathy,strip of 10 tablets,Pregabalin (75mg) , Nortriptyline (10mg) 
+108000,Itin 12 Tablet,52.0,False,Canixa Life Sciences Pvt,allopathy,strip of 2 tablets,Ivermectin (12mg),
+107934,Itradila 200 Capsule,280.0,False,Cadila Pharmaceuticals Ltd,allopathy,strip of 10 capsules,Itraconazole (200mg),
+112815,Itocia 200mg Capsule,246.0,False,Ambrosia Pharmaceuticals,allopathy,strip of 10 capsules,Itraconazole (200mg),
+110769,Isomove 10mg Soft Gelatin Capsule,150.0,False,Annie Pharmaceuticals Pvt Ltd,allopathy,strip of 10 soft gelatin capsules,Isotretinoin (10mg),
+108753,IMATERO 400 MG TABLET,2336.0,True,Hetero Drugs Ltd,allopathy,strip of 10 tablets,Imatinib mesylate (400mg),
+108248,Imicrit 250mg/250mg Injection,726.0,False,Cipla Ltd,allopathy,vial of 20 ml Injection,Imipenem (250mg) , Cilastatin (250mg)
+108611,Itch Cutter Cream,55.0,False,Scott Edil Pharmacia Ltd,allopathy,tube of 25 gm Cream,Clotrimazole (0.5% w/w),
+110550,Iverkem 3mg Tablet,9.5,False,Anikem Laboratories,allopathy,strip of 1 Tablet,Ivermectin (3mg),
+111728,Itrasol 200mg Tablet,110.0,False,Ria Lifesciences Pvt Ltd,allopathy,strip of 4 tablets,Itraconazole (200mg),
+108434,IO-Nepa Eye Drop,165.0,False,Maa Enterprise,allopathy,bottle of 5 ml Opthalmic Suspension,Nepafenac (0.1% w/v),
+108898,Ivabeat 7.5 Tablet,155.0,True,Cipla Ltd,allopathy,strip of 10 tablets,Ivabradine (7.5mg),
+110757,I Ten 100mg Injection,261.0,False,Feron Healthcare Pvt Ltd,allopathy,vial of 5 ml Injection,Elemental Iron (20mg/ml),
+111612,Ibformin 500mg Tablet,15.0,False,Indiabulls pharmaceutical ltd,allopathy,strip of 10 tablets,Metformin (500mg),
+109903,Ikcinz 25mg Tablet,54.0,False,Neuracle Lifesciences Pvt Ltd,allopathy,strip of 10 tablets,Cinnarizine (25mg),
+108242,Isoret 20mg Capsule,155.0,False,Santiago Lifesciences Pvt Ltd,allopathy,strip of 10 capsules,Isotretinoin (20mg),
+111710,Itrakol 100mg Capsule,217.0,False,Kolaz Biotech Pvt Ltd,allopathy,strip of 10 capsules,Itraconazole (100mg),
+108239,Instalast Tablet,66.0,False,Aglowmed Limited,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Montelukast (10mg)
+109433,Ilosure 2 Tablet,54.0,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Iloperidone (2mg),
+113084,Imestin Injection,1528.0,False,Agex Laboratories Pvt Ltd,allopathy,vial of 1 Injection,Imipenem (500mg) , Cilastatin (500mg)
+108946,Iifamox-CL 625 Tablet,188.0,False,I.I.F.A Health Care,allopathy,strip of 10 tablets,Amoxycillin  (500mg) ,  Clavulanic Acid (125mg)
+112949,Itpran 100mg Capsule,81.0,False,Pranshul Lifescience Pvt Ltd,allopathy,strip of 4 capsules,Itraconazole (100mg),
+108172,Indclav 375 Tablet,213.0,False,Indchemie Health Specialities Pvt Ltd,allopathy,strip of 10 tablets,Amoxycillin  (250mg) ,  Clavulanic Acid (125mg)
+108238,Irivisc Liquigel,158.93,False,Indoco Remedies Ltd,allopathy,packet of 10 ml Eye Drop,Carboxymethylcellulose (0.5% w/v),
+109398,Inoxi Solution,185.0,False,Psycormedies,allopathy,bottle of 60 ml Solution,Minoxidil (2% w/v),
+108585,Ibs Free 400mg Tablet,327.9,False,Maneesh Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Rifaximin (400mg),
+107937,Ismigen Tablet,496.0,False,Lupin Ltd,allopathy,strip of 10 tablets,Bacterial Lysate (50mg),
+108176,Intacept 25 Solution for Injection,5714.0,False,Intas Pharmaceuticals Ltd,allopathy,vial of 0.5 ml Solution for Injection,Etanercept (25mg),
+110676,Inflobact 200mg Tablet,26.13,False,Invision Medi Sciences Pvt Ltd,allopathy,strip of 5 tablets,Ofloxacin (200mg),
+111026,Itreco 200mg Capsule,80.0,False,Reco Drugs,allopathy,strip of 4 capsules,Itraconazole (200mg),
+112157,Impiron Injection,260.0,False,Ampira Biotechnics Pvt Ltd,allopathy,ampoule of 5 ml Injection,Iron Sucrose (100mg),
+110185,I-Dox 50mg Injection,19800.0,False,Getwell Pharmaceutical Pvt Ltd,allopathy,vial of 25 ml Injection,Doxorubicin (Liposomal) (50mg),
+109975,Indometh 75mg Tablet SR,130.0,False,Matins Pharma,allopathy,strip of 10 tablet sr,Indomethacin (75mg),
+112810,Itrovell 100mg Capsule,92.5,False,Vellinton Healthcare,allopathy,strip of 4 capsules,Itraconazole (100mg),
+109460,Igforce 100mg Capsule,99.0,False,Lifecom Pharmaceuticals Pvt Ltd,allopathy,strip of 10 capsules,Itraconazole (100mg),
+111252,Itcuna 200mg Capsule,116.0,False,Achillea Life Sciences Pvt Ltd,allopathy,strip of 4 capsules,Itraconazole (200mg),
+112560,IG-Pod-O Tablet,280.0,False,IGP Medventures Pvt Ltd,allopathy,strip of 10 tablets,Cefpodoxime Proxetil (200mg) , Ofloxacin (200mg)
+108853,Itrenza 200mg Tablet,240.0,False,Hetero Healthcare Limited,allopathy,strip of 10 tablets,Itraconazole (200mg),
+109885,Izcid Tablet,35.0,False,Forman Medics Pvt Ltd,allopathy,strip of 10 tablets,Rabeprazole (20mg),
+111742,Inorox 500mg Tablet DT,50.0,False,Lenit Pharmaceuticals,allopathy,strip of 10 tablet dt,Cefadroxil (500mg),
+110577,Icozide 60mg Tablet,82.0,False,Icon Life Sciences,allopathy,strip of 10 tablets,Gliclazide (60mg),
+112367,Ibidarb 200mcg Injection,9285.71,False,Indiabulls pharmaceutical ltd,allopathy,vial of 1 Injection,Darbepoetin alfa (200mcg),
+110555,IBU-C TH 4 Tablet,160.0,False,Winston Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Thiocolchicoside (4mg)
+110395,Ifydrox 90mg Tablet,79.0,False,Sanify Healthcare Pvt  Ltd,allopathy,strip of 10 tablets,Etoricoxib (90mg),
+110667,Ifnopime TZ 250mg/31.25mg Injection,96.0,False,Albia Biocare,allopathy,vial of 1 ml Injection,Cefepime (250mg) , Tazobactum (31.25mg)
+109899,Ioflame P 100mg/500mg Tablet,48.0,False,Vision Pharma,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (500mg)
+113812,Infeczon 500mg Injection,45.0,False,Arkle Healthcare Pvt Ltd,allopathy,vial of 1 Injection,Ceftriaxone (500mg),
+110589,Itrajohn 200 Capsule,340.0,False,Johnlee Pharmaceuticals Pvt Ltd,allopathy,strip of 4 capsules,Itraconazole (200mg),
+111833,Itracyclo 200mg Capsule,188.0,False,Encyclo Healthcare,allopathy,strip of 4 capsules,Itraconazole (200mg),
+110513,Itrolin 100 Capsule,95.4,False,Medcure Pharma,allopathy,strip of 4 capsules,Itraconazole (100mg),
+112688,Ikacin 500mg Injection,60.0,False,Cinerea Biotech Pvt Ltd,allopathy,vial of 2 ml Injection,Amikacin (500mg),
+110253,IT Set 200mg Capsule,115.0,False,Varmed Pharma Pvt Ltd,allopathy,strip of 4 capsules,Itraconazole (200mg),
+108509,Insugen-N 100IU/ml Refil Injection,214.41,False,Biocon,allopathy,cartridge of 3 ml Injection,Insulin Isophane (100IU),
+110645,Imipod CV Dry Syrup,95.0,False,Cista Medicorp,allopathy,bottle of 30 ml Dry Syrup,Cefpodoxime Proxetil (50mg) , Clavulanic Acid (31.25mg)
+111316,Itcomeg 250mg Injection,160.0,False,Ridhima Biocare,allopathy,vial of 2 ml Injection,Citicoline (250mg),
+113591,Itana 200 Capsule,118.0,False,Torance Healthcare Pvt Ltd,allopathy,strip of 4 capsules,Itraconazole (200mg),
+108265,Ivazine 5 Tablet,246.8,False,Torrent Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Ivabradine (5mg),
+108385,Itron 200mg Tablet,195.0,False,Nivia Lifescience,allopathy,strip of 6 tablets,Itraconazole (200mg),
+109373,Ilaraz 20 Tablet,140.0,False,Bioceutics Inc,allopathy,strip of 10 tablets,Ilaprazole (20mg),
+112521,Inatos 300mg/10mg Tablet,3.1,False,TOSC International Pvt Ltd,allopathy,strip of 10 tablets,Isoniazid (300mg) , Vitamin B6 (Pyridoxine) (10mg)
+112029,Imicen 25mg Tablet,32.0,False,Centurion Remedies Pvt Ltd,allopathy,strip of 10 tablets,Cinnarizine (25mg),
+107784,Inhalex Respules,150.0,False,Cipla Ltd,allopathy,packet of 5 respules,Ambroxol (15mg),
+112079,Itum 500mg Tablet,540.0,False,Gladden Laboratories,allopathy,strip of 10 tablets,Cefuroxime (500mg),
+113477,Ilahil L 75mg/10mg Capsule,165.0,False,Viilbery Healthcare Pvt Ltd,allopathy,strip of 10 capsules,Levosulpiride (75mg) , Ilaprazole (10mg)
+111974,Ibudol 650mg/50mg Tablet,57.55,False,Stedman Pharmaceuticals Pvt Ltd,allopathy,bottle of 100 tablets,Paracetamol/Acetaminophen  (650mg) ,  Tramadol (50mg)
+107871,Itromax OC Cream,85.0,False,Univentis Medicare Ltd,allopathy,tube of 15 gm Cream,Ofloxacin (0.75% w/w) , Ornidazole (2% w/w) 
+108901,Intracon 200 Capsule,139.0,False,Integrated Laboratories Pvt Ltd,allopathy,strip of 4 capsules,Itraconazole (200mg),
+108865,Isocute 20mg Capsule,158.0,False,Cutis Biologicals,allopathy,strip of 10 capsules,Isotretinoin (20mg),
+109334,Igtad-MD 20 Tablet,630.0,False,Ignyx Pharmaceuticals,allopathy,strip of 10 tablet md,Tadalafil (20mg),
+109087,Instacyp Syrup,99.0,False,Insta Care Lifescience,allopathy,bottle of 200 ml Syrup,Cyproheptadine (2mg/5ml) , Tricholine Citrate (275mg/5ml) 
+113471,Innotaxel 100mg Injection,4500.0,False,Innova Formulations Pvt Ltd,allopathy,vial of 16.7 ml Injection,Paclitaxel (100mg),
+110230,Ivomox 500mg Tablet,62.8,False,Sois Formulations Pvt Ltd,allopathy,strip of 10 tablets,Amoxycillin (500mg) , Lactobacillus (60Million spores)
+108887,Indocin 200mg Tablet,48.0,False,Helax Healthcare Pvt. Ltd.,allopathy,strip of 10 tablets,Ofloxacin (200mg),
+108451,Infutec NS Infusion,17.32,False,Infutec Healthcare Limited,allopathy,bottle of 100 ml Infusion,Sodium Chloride (0.9% w/v),
+109316,Itrasig 200mg Capsule,140.0,False,Signova Pharma Pvt Ltd,allopathy,strip of 4 capsules,Itraconazole (200mg),
+112018,Iystin 12.5mg Suspension,36.0,False,Thrift Pharmaceuticals,allopathy,bottle of 30 ml Suspension,Colistin Sulphate (12.5mg),
+108788,Itomis 50mg Tablet,53.57,False,Mission Research Laboratories Pvt Ltd,allopathy,strip of 10 tablets,Itopride (50mg),
+109347,Infutec RL Infusion,47.69,False,Infutec Healthcare Limited,allopathy,bottle of 500 ml Infusion,Sodium Chloride (0.600gm) , Sodium Lactate (0.32gm) 
+110392,Itracef 500 Injection,48.0,False,Iatric Pharmaceuticals,allopathy,vial of 1 Injection,Ceftriaxone (500mg),
+112211,Imofetil S 360mg Tablet,743.0,False,East West Pharma,allopathy,strip of 10 tablets,Mycophenolate sodium (360mg),
+108387,Isofeel 0.025 Cream,110.0,False,Dermakare Pharmaceuticals Pvt Ltd,allopathy,tube of 30 gm Cream,Tretinoin (0.025% w/w),
+108923,Icl 1Million IU Injection,906.65,False,Zuventus Healthcare Ltd,allopathy,vial of 1 Injection,Colistimethate Sodium (1Million IU),
+110870,Ilopride 4mg Tablet,50.41,False,Intas Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Iloperidone (4mg),
+109074,Isojet 20 Softgel Capsule,150.0,False,MLT Laboratories Pvt Ltd,allopathy,strip of 10 soft gelatin capsules,Isotretinoin (20mg),
+107727,Insuman Comb 25 Injection,367.0,False,Sanofi India  Ltd,allopathy,cartridge of 3 ml Injection,Insulin Isophane/NPH   (75%) ,   Human Insulin/Soluble Insulin (25%)
+107783,Invanz 1gm Injection,3100.0,False,MSD Pharmaceuticals Pvt Ltd,allopathy,vial of 1 Injection,Ertapenem (1gm),
+110350,Irto 200mg Capsule,100.0,False,Zaq Healthcare,allopathy,strip of 4 capsules,Itraconazole (200mg),
+113252,Ivori 3mg Tablet,100.0,False,Invision Medi Sciences Pvt Ltd,allopathy,strip of 10 tablets,Ivermectin (3mg),
+109872,Imuzinc-R Syrup,54.5,False,Medisurf Pharma,allopathy,bottle of 30 ml Syrup,Racecadotril (15mg/5ml),
+112979,Itrobless 200 Capsule,120.0,False,Vibsan Pharmaceuticals,allopathy,strip of 4 capsules,Itraconazole (200mg),
+109097,Ivaford 5mg Tablet,285.0,False,Leeford Healthcare Ltd,allopathy,strip of 15 tablets,Ivabradine (5mg),
+110357,Invog M 500mg/0.3mg Tablet SR,62.0,False,Med Manor Organics Pvt Ltd,allopathy,strip of 10 tablet sr,Metformin (500mg) , Voglibose (0.3mg)
+111045,Ildomex-AT Tablet,99.0,False,Ildong Pharmaceutical Pvt Ltd,allopathy,strip of 10 tablets,S-Amlodipine (2.5mg) , Atenolol (50mg)
+112555,Imosan 100mg Tablet MD,24.0,False,Arvincare Pharma,allopathy,strip of 10 tablet md,Nimesulide (100mg),
+109187,IZinc Oral Suspension,124.9,False,Asterism Pharmaceuticals Pvt  Ltd,allopathy,bottle of 100 ml Oral Suspension,Zinc Gluconate (20mg),
+110912,Itcort 6mg Tablet,75.0,False,Dhara Formulation Pvt Ltd,allopathy,strip of 10 tablets,Deflazacort (6mg),
+108743,Itrazen 200mg Capsule,140.0,False,Elder Pharmaceuticals Ltd,allopathy,strip of 4 capsules,Itraconazole (200mg),
+113460,Itradaz 100mg Capsule,100.0,False,Dazzle Healthcare,allopathy,strip of 4 capsules,Itraconazole (100mg),
+112430,Iroviz 50mg Injection,130.0,False,Age Biotech,allopathy,vial of 2.5 ml Injection,Iron Sucrose (50mg),
+111303,Icustin TM 1Million IU Injection,866.17,True,Abbott,allopathy,vial of 1 Injection,Colistimethate Sodium (1Million IU),
+112674,Invictum 200mg Injection,790.0,False,Cachet Pharmaceuticals Pvt Ltd,allopathy,vial of 1 Injection,Teicoplanin (200mg),
+112970,IMEDIAB M 2 TABLET,65.0,True,Pfizer Ltd,allopathy,strip of 10 tablets,Glimepiride (2mg) , Metformin (500mg)
+110956,Inflobid OZ 200mg/500mg Tablet,69.0,False,Intra Labs India Pvt Ltd,allopathy,strip of 10 tablets,Ofloxacin (200mg) , Ornidazole (500mg)
+109366,Itonid 100mg Capsule,110.0,False,Nidus Pharma Pvt Ltd,allopathy,strip of 10 capsules,Itraconazole (100mg),
+112300,Ioncef 200 OLB Tablet,200.0,False,Ionaire Biotech,allopathy,strip of 10 tablets,Cefixime (200mg) , Ofloxacin (200mg) 
+110944,Icobit D 100mg/50mg Tablet,240.0,False,Cubit Healthcare,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Diacerein (50mg)
+113361,Itratica 100 Capsule,175.0,False,Almatica Pharmaceuticals Private Limited,allopathy,strip of 10 capsules,Itraconazole (100mg),
+108630,Iben Plus 200 mg/325 mg Tablet,10.75,False,Apex Laboratories Pvt Ltd,allopathy,strip of 10 tablets,Ibuprofen (200mg) , Paracetamol (325mg)
+111535,Itrasporax 100mg Capsule,89.0,False,HAB Pharma,allopathy,strip of 4 capsules,Itraconazole (100mg),
+111184,Inodol 125mg Suspension,19.8,False,Innova Formulations Pvt Ltd,allopathy,bottle of 60 ml Suspension,Paracetamol (125mg/5ml),
+111279,Indolam 0.5mg Tablet,16.8,False,Indo Pacific Life Sciences,allopathy,strip of 10 tablets,Alprazolam (0.5mg),
+110738,Inflobid 200mg Tablet,48.6,False,Intra Labs India Pvt Ltd,allopathy,strip of 10 tablets,Ofloxacin (200mg),
+112357,Ibcil 10mg Tablet,75.5,False,Indiabulls pharmaceutical ltd,allopathy,strip of 10 tablets,Cilnidipine (10mg),
+110256,Ifomid M 400mg/2gm Injection,813.75,False,United Biotech Pvt Ltd,allopathy,vial of 1 Injection,Mesna (400mg) , Ifosfamide (2gm)
+107902,Itroderm-OC Cream,151.25,False,Laborate Pharmaceuticals India Ltd,allopathy,tube of 15 gm Cream,Ofloxacin (0.75% w/w) , Ornidazole (2% w/w) 
+110899,Ibanic 6 Injection,3294.0,False,Axiommax Oncology Pvt Ltd,allopathy,vial of 6 ml Injection,Ibandronic Acid (6mg),
+108468,Imunotac 1.0 Capsule,348.8,False,RPG Life Sciences Ltd,allopathy,strip of 10 capsules,Tacrolimus (1mg),
+109026,Ibflux Oral Solution,220.0,False,Indiabulls pharmaceutical ltd,allopathy,bottle of 200 ml Oral Solution,Lactulose (10gm),
+109808,Itarex 200mg Capsule,145.0,False,Biovalence Skin Care,allopathy,strip of 4 capsules,Itraconazole (200mg),
+108180,Imf Eye Drop,88.0,False,Deys Medical,allopathy,packet of 5 ml Eye Drop,Moxifloxacin (0.5% w/v),
+110220,Ifos 1gm Injection,330.0,False,Cipla Ltd,allopathy,vial of 1 Injection,Ifosfamide (1gm),
+112184,Idapride 2mg Tablet,45.0,False,Invision Medi Sciences Pvt Ltd,allopathy,strip of 10 tablets,Glimepiride (2mg),
+113726,Itraung 1% Dusting Powder,175.0,False,GBK Healthcare,allopathy,bottle of 75 gm Dusting Powder,Itraconazole (1% w/w),
+109422,Iverkil 1% Cream,158.0,False,Vts Life Sciences,allopathy,tube of 30 gm Cream,Ivermectin (1% w/w),
+112740,Imcivin Injection,2250.0,False,Vinder Pharma,allopathy,vial of 1 Injection,Imipenem (500mg) , Cilastatin (500mg)
+111562,Ibuconz P Syrup,23.0,False,Plena Remedies,allopathy,bottle of 60 ml Syrup,Ibuprofen (100mg) , Paracetamol (162.5mg)
+113036,Iglim MV Tablet,72.56,False,Emenox Healthcare,allopathy,strip of 10 tablets,Glimepiride (1mg) , Metformin (500mg) 
+108965,Imicort 8mg Tablet,53.5,False,Lyra Healthcare,allopathy,strip of 10 tablets,Methylprednisolone (8mg),
+111438,Infaclav 500mg/125mg Tablet,110.0,False,Advok Pharmacia Private Limited,allopathy,strip of 10 tablets,Amoxycillin  (500mg) ,  Clavulanic Acid (125mg)
+112108,Iviroxime 1.5gm Injection,180.0,False,Vhb Life Sciences Inc,allopathy,vial of 1 Injection,Cefuroxime (1.5gm),
+112624,Icip 250mg Tablet,15.55,False,Noel Pharma India Pvt Ltd,allopathy,strip of 10 tablets,Ciprofloxacin (250mg),
+108414,Imol 400 mg/333 mg Tablet,8.65,False,Zydus Cadila,allopathy,strip of 10 tablets,Ibuprofen (400mg) , Paracetamol (333mg)
+113192,Isofenac MR 100mg/325mg/250mg Tablet,98.0,False,Isonic Pharmaceuticals Private Limited,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg) 
+108972,Iso Clin 10mg Capsule,90.0,False,Unimarck Healthcare Ltd,allopathy,strip of 10 capsules,Isotretinoin (10mg),
+110525,Inocef 100mg Tablet,112.0,False,Innova Formulations Pvt Ltd,allopathy,strip of 10 tablets,Cefpodoxime Proxetil (100mg),
+110583,Itoseep 100mg Capsule,160.0,False,Seepi Pharma Pvt Ltd,allopathy,strip of 10 capsules,Itraconazole (100mg),
+110348,Infla 100mg Tablet SR,37.0,False,Bajaj Pharmaceutical,allopathy,strip of 10 tablet sr,Diclofenac (100mg),
+111431,Ictasure 25mg Tablet DT,50.0,True,Abbott,allopathy,strip of 10 tablet dt,Lamotrigine (25mg),
+109799,Itrazit 200mg Capsule,150.0,False,Exquisite Pharma,allopathy,strip of 4 capsules,Itraconazole (200mg),
+108280,IVORAL 6MG/400MG TABLET,23.5,True,Zydus Cadila,allopathy,strip of 1 Tablet,Ivermectin  (6mg) ,  Albendazole (400mg)
+110084,Inazole 100 Capsule,195.0,False,Elder Pharmaceuticals Ltd,allopathy,strip of 10 capsules,Itraconazole (100mg),
+108583,Isonak 10 Soft Gelatin Capsule,90.0,False,Praise Pharma,allopathy,strip of 10 soft gelatin capsules,Isotretinoin (10mg),
+112616,Insifu 750mg Injection,110.0,False,Hos & Ins,allopathy,vial of 1 Injection,Cefuroxime (750mg),
+107967,Iodine Solution,41.0,True,Abbott,allopathy,bottle of 115 ml Solution,Povidone Iodine (NA),
+109039,Imcuf GTB Syrup,32.0,False,Immuna Life Sciences,allopathy,bottle of 100 ml Syrup,Bromhexine (4mg) , Guaifenesin (50mg) 
+110074,Ivazole A 6mg/400mg Chewable Tablet,20.0,False,Cista Medicorp,allopathy,strip of 1 Chewable Tablet,Ivermectin  (6mg) ,  Albendazole (400mg)
+112821,Ivermerc 6mg Tablet,145.0,False,Sentosa Geigy (India) Labs Limited,allopathy,strip of 10 tablets,Ivermectin (6mg),
+110445,Indecare 40mg Tablet,22.0,False,MHS Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Propranolol (40mg),
+109955,Itsbest 100 Capsule,70.0,False,Alniche Life Sciences Pvt Ltd,allopathy,strip of 4 capsules,Itraconazole (100mg),
+109111,Isozole 40 Tablet,110.0,False,Parnasa Mediworld Pvt Ltd,allopathy,strip of 10 tablets,Esomeprazole (40mg),
+110598,Ilatap D 30mg/10mg Capsule SR,170.0,False,Biophar Lifesciences Pvt Ltd,allopathy,strip of 10 capsule sr,Domperidone (30mg) , Ilaprazole (10mg)
+112914,I-Trax-SB 375mg Injection,42.0,False,Insta Care Lifescience,allopathy,vial of 1 Injection,Ceftriaxone (250mg) , Sulbactam (125mg)
+111830,Inspan 40mg Injection,53.5,False,Medisync Pharma,allopathy,vial of 1 Injection,Pantoprazole (40mg),
+113603,Insumark M Forte 1mg/1000mg Tablet SR,63.5,False,Trimark Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablet sr,Glimepiride (1mg) , Metformin (1000mg)
+112922,Ikvanim S 100mg/10mg Tablet,57.0,False,Ikvans Pharma,allopathy,strip of 10 tablets,Nimesulide (100mg) , Serratiopeptidase (10mg)
+110695,Itanil SP 100mg/325mg/15mg Tablet,100.0,False,Sancheti Biolabs,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg) 
+107741,Isordil 5 Sublingual tablet,9.24,False,Ipca Laboratories Ltd,allopathy,strip of 10 Sublingual tablet,Isosorbide Dinitrate (5mg),
+111908,Inmik 500mg Injection,57.83,False,Pharma Plus,allopathy,vial of 1 Injection,Amikacin (500mg),
+111991,Itragrap TF 100mg/250mg Tablet,280.0,False,Grapple Life Sciences Pvt Ltd,allopathy,strip of 10 tablets,Itraconazole (100mg) , Terbinafine (250mg)
+108504,Itfine 100mg Capsule,82.5,False,Omni Lifesciences Pvt Ltd,allopathy,strip of 4 capsules,Itraconazole (100mg),
+108269,I Glow Night Cream,163.9,False,MRHM Pharma Pvt Ltd,allopathy,tube of 20 gm Cream,Hydroquinone (2% w/w) , Tretinoin (0.025% w/w) 
+109249,INFLAMOL SP TABLET,62.0,True,Panjon Pharma Ltd,allopathy,strip of 10 tablets,Diclofenac (100mg),
+112174,Itnox 200 Capsule,95.7,False,Getron Pharmaceuticals,allopathy,strip of 4 capsules,Itraconazole (200mg),
+111092,Inroxim 500mg Tablet,500.0,False,Oriel Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Cefuroxime (500mg),
+108195,Ichmed Cream,79.0,False,Comed Chemicals Ltd,allopathy,tube of 15 gm Cream,Clobetasol (0.05% w/w) , Neomycin (0.5% w/w) 
+110727,Itajem 100 Capsule,80.0,False,Jemster Healthcare Private Limited,allopathy,strip of 4 capsules,Itraconazole (100mg),
+110209,Inflox OZ 200 mg/500 mg Tablet,77.0,False,Litaka Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Ofloxacin (200mg) , Ornidazole (500mg)
+109248,Indromig 600 Tablet,347.0,False,AAR ESS Remedies Pvt Ltd,allopathy,strip of 10 tablets,Linezolid (600mg),
+107860,Isolin 2mg Injection,58.07,False,Samarth Life Sciences Pvt Ltd,allopathy,vial of 1 ml Injection,Isoprenaline (2mg),
+108205,Instamood 100mg Tablet,130.0,False,Unimarck Healthcare Ltd,allopathy,strip of 4 tablets,Sildenafil (100mg),
+113168,Imiten 500mg/500mg Injection,1800.0,False,Salvus Pharma,allopathy,vial of 1 Injection,Imipenem (500mg) , Cilastatin (500mg)
+110062,Irs 20 mg/150 mg Capsule,113.8,False,BestoChem Formulations  India  Ltd,allopathy,strip of 10 capsules,Rabeprazole (20mg) , Itopride (150mg)
+112534,Ifzacort Tablet,99.0,False,Sowilo India Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Deflazacort (6mg),
+113242,Itrosar 200mg Capsule,165.0,False,Mandevis Pharma,allopathy,strip of 4 capsules,Itraconazole (200mg),
+110162,Ivachek 5mg Tablet,155.0,False,Sentosa Geigy (India) Labs Limited,allopathy,strip of 10 tablets,Ivabradine (5mg),
+111861,Ivimicin 50mg Injection,20.0,False,FDC Ltd,allopathy,vial of 2 ml Injection,Amikacin (50mg),
+108778,Ito Plus 20 mg/150 mg Tablet,90.0,False,Medley Pharmaceuticals,allopathy,strip of 10 tablets,Rabeprazole (20mg) , Itopride (150mg)
+113611,Ikvacip 500mg Tablet,56.0,False,Ikvans Pharma,allopathy,strip of 10 tablets,Ciprofloxacin (500mg),
+112743,Inflas 50mg/10mg Tablet,65.0,False,JMS Medicon Pvt Ltd,allopathy,strip of 10 tablets,Diclofenac (50mg) , Serratiopeptidase (10mg)
+112825,Inzyth 250 Tablet,69.4,False,Insinius Pharmaceuticals,allopathy,strip of 6 tablets,Azithromycin (250mg),
+111859,Ibifax C Tablet,124.0,False,Indiabulls pharmaceutical ltd,allopathy,strip of 10 tablets,Cefixime (200mg) , Ofloxacin (200mg)
+110247,Inlybest 5mg Tablet,1995.0,False,Aprazer Healthcare Pvt Ltd,allopathy,strip of 14 tablets,Axitinib (5mg),
+109620,Ibimero 1000mg Injection,400.88,False,Indiabulls pharmaceutical ltd,allopathy,vial of 1 Injection,Meropenem (1000mg),
+111117,Iricain Eye Drop,55.0,False,Calix Health Care,allopathy,packet of 5 ml Eye Drop,Proparacaine (0.5% w/v) , Chlorbutol (0.5% w/v)
+113223,Iocep 125mg Tablet,30.0,False,Dion Pharmaceuticals,allopathy,strip of 10 tablets,Cefalexin (125mg),
+110106,Ictalam 100mg Tablet,110.0,True,Glenmark Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Lamotrigine (100mg),
+108050,Iotim B Ophthalmic Solution,385.0,False,FDC Ltd,allopathy,packet of 5 ml Ophthalmic Solution,Timolol (0.5% w/v) , Brimonidine (0.2% w/v)
+110784,Itraford 200mg Capsule,150.0,False,Hinikam Drugs & Pharmaceuticals,allopathy,strip of 4 capsules,Itraconazole (200mg),
+113291,Insitrex-TZ 281.25 Injection,60.0,False,Insinius Pharmaceuticals,allopathy,vial of 1 Injection,Ceftriaxone (250mg) , Tazobactum (31.25mg)
+107788,Insta Kit,378.47,False,Macleods Pharmaceuticals Pvt Ltd,allopathy,strip of 1 Kit,Mifepristone (200mg) , Misoprostol (200mcg)
+111368,Inflox OZ 200mg/500mg Tablet,81.45,False,Insight Labz,allopathy,strip of 10 tablets,Ofloxacin (200mg) , Ornidazole (500mg)
+110488,Italin 20mg Tablet,122.4,False,Sanity Pharma,allopathy,strip of 10 tablets,Escitalopram Oxalate (20mg),
+110402,Itradan 200 Capsule,325.0,False,Aldan Healthcare Private Limited,allopathy,strip of 10 capsules,Itraconazole (200mg),

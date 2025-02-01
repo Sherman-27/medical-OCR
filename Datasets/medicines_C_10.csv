@@ -1,0 +1,11 @@
+id,name,price(₹),Is_discontinued,manufacturer_name,type,pack_size_label,short_composition1,short_composition2
+50323,Cetamat 250 Tablet,65.0,False,Matias Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Levetiracetam (250mg),
+53876,Colzid 500mg Injection,250.0,False,Colard Healthcare,allopathy,vial of 1 Injection,Ceftazidime (500mg),
+51797,Coxinac MR 100mg/325mg/250mg Tablet,69.0,False,Sovicare Pharmaceuticals,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg) 
+47815,Coazy 500 Tablet,64.5,False,Carezone Healthcare,allopathy,strip of 3 tablets,Azithromycin (500mg),
+56946,Coldfeed 10mg/325mg/250mg Tablet,49.5,False,Crompton Pharma Pvt Ltd,allopathy,strip of 10 tablets,Dicyclomine (10mg) , Paracetamol (325mg) 
+44116,Clobid OZ Ointment,75.0,False,Merril Pharma Pvt Ltd,allopathy,tube of 15 gm Ointment,Terbinafine (1% w/w) , Clobetasol (0.05% w/w) 
+48188,Clavnic Dry Syrup,78.0,False,Wintech Pharmaceuticals,allopathy,bottle of 60 ml Dry Syrup,Amoxycillin  (200mg) ,  Clavulanic Acid (28.5mg)
+54977,Ceepoo 500mg Tablet,54.0,False,Metrix Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Ciprofloxacin (500mg),
+39414,Cilentra Plus 5 Tablet,76.86,False,Eris Lifesciences Ltd,allopathy,strip of 10 tablets,Clonazepam (0.5mg) , Escitalopram Oxalate (5mg)
+37635,Cifurox 500mg Tablet,335.5,False,Theon Pharmaceuticals Ltd.,allopathy,strip of 4 tablets,Cefuroxime (500mg),

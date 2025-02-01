@@ -1,0 +1,201 @@
+id,name,price(₹),Is_discontinued,manufacturer_name,type,pack_size_label,short_composition1,short_composition2
+107293,HAXONE S  INJECTION 1000 MG/500 MG,113.31,True,Hindustan Antibiotics Ltd,allopathy,vial of 10 ml Injection,Ceftriaxone (1000mg) , Sulbactam (500mg)
+103808,Hhamclav 625 Tablet,223.24,False,Hegde and Hegde Pharmaceutical LLP,allopathy,strip of 10 tablets,Amoxycillin  (500mg) ,  Clavulanic Acid (125mg)
+106169,Healace 5mg Tablet,74.0,False,Mas Life Science,allopathy,strip of 10 tablets,Ramipril (5mg),
+106165,Hycret M 500mg/20mg Tablet SR,120.0,False,Vats Biotech Pvt Ltd,allopathy,strip of 10 tablet sr,Metformin (500mg) , Teneligliptin (20mg)
+106863,Hyglim M 2mg/500mg Tablet SR,90.0,False,Sunniva Life Science,allopathy,strip of 15 tablet sr,Glimepiride (2mg) , Metformin (500mg)
+105471,Hairz 2 Hair Growth Solution,259.0,False,Forman Medics Pvt Ltd,allopathy,bottle of 60 ml Solution,Minoxidil (2% w/v),
+105684,Henpar 650 DT Tablet,21.0,False,Henin Lukinz Pvt Ltd,allopathy,strip of 15 tablet dt,Paracetamol (650mg),
+106540,Halopi 0.25 Tablet,11.0,False,Events Pharma,allopathy,strip of 10 tablets,Haloperidol (0.25mg),
+104611,Histigra 120mg Tablet,95.0,False,Univentis Medicare Ltd,allopathy,strip of 10 tablets,Fexofenadine (120mg),
+104700,Heptosoft 300mg Tablet,180.0,False,Bonsai Pharma,allopathy,strip of 10 tablets,Ursodeoxycholic Acid (300mg),
+104701,Hexolip 1000 Tablet,124.37,False,J B Chemicals and Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Inositol nicotinate (1000mg),
+105977,Holcef 200mg Tablet,149.0,False,Staneil Pharma,allopathy,strip of 10 tablets,Cefpodoxime Proxetil (200mg),
+104449,Hepgel 250IU Ointment,47.38,False,Gland Pharma Limited,allopathy,tube of 15 gm Ointment,Heparin (250IU),
+107058,Hexzone-SB 375mg Injection,43.42,False,Medilance Healthcare,allopathy,vial of 1 Injection,Ceftriaxone (250mg) , Sulbactam (125mg)
+105215,Hodrex Capsule,134.0,False,Axiommax Oncology Pvt Ltd,allopathy,strip of 10 capsules,Hydroxyurea (500mg),
+106408,Hilcef 125 Oral Suspension,165.0,False,Hilbert Healthcare,allopathy,bottle of 30 ml Oral Suspension,Cefuroxime (125mg),
+105146,Hanaztor 10mg Tablet,50.0,False,Hanna Pharmaceutical Supply Co. Inc,allopathy,strip of 10 tablets,Atorvastatin (10mg),
+106784,Hemocog-M Tablet,339.0,False,Urvija Pharmaceuticals,allopathy,strip of 10 tablets,Tranexamic Acid (500mg) , Mefenamic Acid (250mg)
+104329,Hpl 5mg Tablet,33.49,False,A N Pharmacia,allopathy,strip of 10 tablets,Haloperidol (5mg),
+104649,Histaban 5mg Tablet,50.0,False,Gracious Pharmaceuticals,allopathy,strip of 10 tablets,Levocetirizine (5mg),
+105373,Histoden Syrup,80.0,False,Welgenic Pharma,allopathy,bottle of 100 ml Syrup,Ambroxol (15mg) , Guaifenesin (50mg) 
+106423,Healpod 100mg Dry Syrup,109.0,False,Healthkind Labs Pvt Ltd,allopathy,bottle of 30 ml Dry Syrup,Cefpodoxime Proxetil (100mg),
+106489,Himaxone 1000mg Injection,66.0,False,Him Pharmaceuticals Private Limited,allopathy,vial of 1 Injection,Ceftriaxone (1000mg),
+106809,Hallmox 250mg/125mg Tablet,150.0,False,Logos Pharma,allopathy,strip of 10 tablets,Amoxycillin  (250mg) ,  Clavulanic Acid (125mg)
+105880,Halosan 5 Tablet,29.6,False,Sanity Pharma,allopathy,strip of 10 tablets,Haloperidol (5mg),
+105170,Histolin Plus Syrup,75.0,False,Lincoln Pharmaceuticals Ltd,allopathy,bottle of 100 ml Syrup,Citric Acid (57mg) , Diphenhydramine (14.08mg) 
+107621,Huchogon 10000IU Injection,760.0,False,Biosena Lifescience,allopathy,vial of 1 Powder for Injection,Human chorionic gonadotropin (hCG) (10000IU),
+107504,Histabus 8mg Tablet,37.0,False,Globus Remedies Ltd,allopathy,strip of 10 tablets,Betahistine (8mg),
+104392,Hostacycline 250mg Capsule,16.63,False,Sanofi India  Ltd,allopathy,strip of 15 capsules,Tetracycline (250mg),
+104497,Hisskof Oral Drops,66.0,False,Incite,allopathy,bottle of 15 ml Oral Drops,Levosalbutamol (0.25mg/ml) , Ambroxol (7.5mg/ml) 
+107055,Heprodin TR Syrup,33.8,False,Indamed Pharmaceuticals Pvt Ltd,allopathy,bottle of 100 ml Syrup,Cyproheptadine (2mg) , Tricholine Citrate (275mg)
+107276,Homoglim M 1mg/1000mg Tablet SR,75.0,False,Homogreen Pharmaceutical,allopathy,strip of 10 tablet sr,Glimepiride (1mg) , Metformin (1000mg)
+106310,Heptarit T Syrup,98.0,False,Kriti Lifesciences,allopathy,bottle of 200 ml Syrup,Cyproheptadine (2mg) , Tricholine Citrate (275mg)
+106610,Hepatoz 140mg Tablet,64.13,False,Klintoz Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Silymarin (140mg),
+104676,HD A 0.25 mg/20 mg Tablet,27.3,False,Octane Biotech Pvt Ltd,allopathy,strip of 10 tablets,Alprazolam (0.25mg) , Propranolol (20mg)
+105651,Hyzon 25 Tablet,60.0,False,Cure Kelvin,allopathy,strip of 15 tablets,Hydroxyzine (25mg),
+106548,Hydrocas 25mg Tablet,37.0,False,Medicasa Pharmaceutical,allopathy,strip of 10 tablets,Hydroxyzine (25mg),
+104498,Hydral 100mg Capsule,44.0,False,Alembic Pharmaceuticals Ltd,allopathy,strip of 4 capsules,Racecadotril (100mg),
+105901,Hinoz Suspension,42.94,False,Stayer Pharma Pvt Ltd,allopathy,bottle of 60 ml Suspension,Chlorpheniramine Maleate (1mg) , Paracetamol (125mg) 
+104859,Hitsol 6 Eye Ointment,90.0,False,Nri Vision Care India Limited,allopathy,tube of 3 gm Eye Ointment,Sodium Chloride (6% w/w),
+106917,Hapfix 100 Dry Syrup Pineapple,71.0,False,Caphap Pharmaceuticals,allopathy,bottle of 30 ml Oral Suspension,Cefixime (100mg/5ml),
+105196,Heptec Syrup,84.6,False,Zeotec Life Science Pvt Ltd,allopathy,bottle of 200 ml Syrup,Cyproheptadine (2mg/5ml) , Tricholine Citrate (275mg/5ml) 
+106550,Hapytel CT 40mg/12.5mg Tablet,90.0,False,Rangsubbs,allopathy,strip of 10 tablets,Telmisartan (40mg) , Chlorthalidone (12.5mg)
+107696,Healzone 125mg Injection,21.0,False,Healthkind Labs Pvt Ltd,allopathy,vial of 1 Injection,Ceftriaxone (125mg),
+104981,Hmet-G 2mg/500mg Tablet,92.0,False,Jarun Pharmaceuticals,allopathy,strip of 10 tablets,Glimepiride (2mg) , Metformin (500mg)
+105076,Hybest 10mg Tablet,25.0,False,e-derma  Pharma India Pvt. Ltd.,allopathy,strip of 10 tablets,Hydroxyzine (10mg),
+105611,Hoofa Capsule,110.0,False,Medipol Pharmaceuticals India Pvt Ltd,allopathy,strip of 10 capsules,Levocetirizine (5mg) , Montelukast (10mg)
+103692,Haemaccel Infusion,535.26,False,Abbott,allopathy,bottle of 500 ml Infusion,Calcium Chloride (0.070gm) , Potassium Chloride (0.038gm) 
+104523,Hipod 200mg Tablet,211.0,False,Best Biotech,allopathy,strip of 10 tablets,Cefpodoxime Proxetil (200mg),
+107108,Hancuff LS Syrup,77.0,False,Horean Healthcare Private Limited,allopathy,bottle of 100 ml Syrup,Levosalbutamol (1mg/5ml) , Ambroxol (30mg/5ml) 
+105757,Hyglim 2mg Tablet,42.0,False,Trio Remedies Pvt Ltd,allopathy,strip of 10 tablets,Glimepiride (2mg),
+105350,Habicold C 5mg/325mg/5mg Tablet,44.0,False,Habitare Pharma,allopathy,strip of 10 tablets,Cetirizine (5mg) , Paracetamol (325mg) 
+107102,Honex E 500mg/250mg Tablet,175.5,False,Mathis Pharma,allopathy,strip of 10 tablets,Tranexamic Acid (500mg) , Ethamsylate (250mg)
+105613,Hepaglob 200IU Injection,1400.0,False,Sun Pharmaceutical Industries Ltd,allopathy,vial of 1 ml Injection,Hepatitis B Vaccine (rDNA) (200IU),
+105382,Hipan-DSR Capsule,80.0,False,Hilbert Healthcare,allopathy,strip of 10 capsule sr,Domperidone (30mg) , Pantoprazole (40mg)
+107264,Hidiclodase 50mg/10mg Tablet,50.0,False,Hiral Labs Ltd,allopathy,strip of 10 tablets,Diclofenac (50mg) , Serratiopeptidase (10mg)
+106978,Hytempus 40mg Tablet,63.0,False,Sunniva Life Science,allopathy,strip of 10 tablets,Telmisartan (40mg),
+106391,Hatch-C Combipack Injection,60.0,False,Lichem Pharmaceuticals,allopathy,box of 2 injections,Methylcobalamin (2500mcg) , Folic Acid (0.7mg) 
+104423,Hex 200mg Tablet,16.0,False,Torrent Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Sparfloxacin (200mg),
+106717,Hinex 250mg Injection,31.0,False,Protech Telelinks,allopathy,vial of 1 Injection,Ceftriaxone (250mg),
+107597,Hydrocon 100mg Injection,56.0,False,Scotmed Care Pvt Ltd,allopathy,vial of 5 ml Injection,Hydrocortisone (100mg),
+103825,Hair 4U Pro Solution,1250.0,False,Glenmark Pharmaceuticals Ltd,allopathy,bottle of 60 ml Solution,Minoxidil (5% w/v) , Finasteride (0.1% w/v)
+107194,Homofen P Oral Suspension,65.0,False,Homogreen Pharmaceutical,allopathy,bottle of 60 ml Oral Suspension,Aceclofenac (50mg) , Paracetamol (125mg)
+107175,Hadran-D Tablet,59.0,False,Ben Hadded Pharma Pvt Ltd,allopathy,strip of 10 tablets,Domperidone (10mg) , Rabeprazole (20mg)
+106322,Hexoflo 200mg Tablet,54.0,False,Hexal Pharmaceuticals,allopathy,strip of 10 tablets,Ofloxacin (200mg),
+105126,Hycef 200mg Tablet,170.0,False,Strides shasun Ltd,allopathy,strip of 10 tablets,Cefpodoxime Proxetil (200mg),
+107171,Hyscab Lotion,65.5,False,Vellinton Healthcare,allopathy,bottle of 100 ml Lotion,Lindane (1% w/v) , Cetrimide (0.1% w/v)
+105647,Hismon Tablet,106.5,False,Aeon Remedies,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Montelukast (10mg)
+104116,Haldol 0.5mg Tablet,7.13,False,East West Pharma,allopathy,strip of 10 tablets,Haloperidol (0.5mg),
+105503,Hepdoze Tablet,1404.73,False,Biocon,allopathy,bottle of 30 tablets,Tenofovir disoproxil fumarate (300mg),
+107387,Hencid 20 Tablet,95.0,False,Moderik Healthcare,allopathy,strip of 10 tablets,Rabeprazole (20mg),
+104947,Hycin 50mg Tablet,13.21,False,Alembic Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Roxithromycin (50mg),
+104170,Hysoft Moisturizing Cream,550.0,False,Ajanta Pharma Ltd,allopathy,tube of 100 gm Cream,Hydrocortisone (0.1% w/w),
+105867,Hexyriv 2mg Tablet,14.2,False,East African (India) Overseas,allopathy,strip of 10 tablets,Trihexyphenidyl (2mg),
+107050,HGP 500mg Injection,85.0,False,Health Guard India Pvt Ltd,allopathy,vial of 2 ml Injection,Hydroxyprogesterone (500mg),
+106407,HG Cough Syrup,52.0,False,Health Guard India Pvt Ltd,allopathy,bottle of 100 ml Syrup,Ammonium Chloride (138mg/5ml) , Sodium Citrate (57.03mg/5ml) 
+105452,Hald 300 Soft Gelatin Capsule,477.0,False,Intas Pharmaceuticals Ltd,allopathy,strip of 10 soft gelatin capsules,Progesterone (Natural Micronized) (300mg),
+104727,H Drill Syrup,44.0,False,H.L Healthcare Pvt Ltd,allopathy,bottle of 100 ml Syrup,Ammonium Chloride (138mg) , Sodium Citrate (57mg) 
+103964,Hepafresh Injection,1425.0,False,Macleods Pharmaceuticals Pvt Ltd,allopathy,vial of 1 Injection,Glutathione (600mg),
+106139,Hopril 10mg Tablet,80.0,False,Parenteral Drugs India Ltd,allopathy,strip of 10 tablets,Ramipril (10mg),
+104917,Hylac Tablet,31.25,False,Proctor Organics  P  Ltd,allopathy,strip of 10 tablets,Hyoscine butylbromide (NA),
+106063,Himol 100mg Oral Drops,36.0,False,Hi-Cure Biotech,allopathy,bottle of 15 ml Oral Drops,Paracetamol (100mg),
+103729,Hexaxim Vaccine,4095.0,False,Sanofi India  Ltd,allopathy,prefilled syringe of 0.5 ml Suspension for Injection,Diphtheria Immune Globulin (20IU) , Haemophilus Type B Conjugate Vaccine (12mcg) 
+105982,Healtroxin 50mcg Tablet,123.0,False,Healing Pharma India Pvt Ltd,allopathy,bottle of 120 tablets,Thyroxine (50mcg),
+107157,Hazpan D 10mg/40mg Tablet,69.0,False,Hazecure Pharma Pvt Ltd,allopathy,strip of 10 tablets,Domperidone (10mg) , Pantoprazole (40mg)
+106759,Hisatin 8mg Tablet,49.9,False,Netprime Pharma Pvt Ltd,allopathy,strip of 10 tablets,Betahistine (8mg),
+104922,Heliclar 500mg Tablet,650.0,False,Pfizer Ltd,allopathy,strip of 10 tablets,Clarithromycin (500mg),
+105261,Halozam 0.25mg Tablet,14.4,False,Health Plan,allopathy,strip of 10 tablets,Alprazolam (0.25mg),
+103673,Human Mixtard 70/30 Suspension for Injection 40IU/ml,175.48,False,Novo Nordisk India Pvt Ltd,allopathy,vial of 10 ml Suspension for Injection,Insulin Isophane/NPH   (70%) ,   Human Insulin/Soluble Insulin (30%)
+106327,Herocef 200mg Tablet,199.0,False,Rely on Pharmaceuticals,allopathy,strip of 10 tablets,Cefixime (200mg),
+107208,HY-Femran 500 Injection,109.0,False,Evantis Lifesciences Private Limited,allopathy,box of 1 Injection,Hydroxyprogesterone (500mg),
+106796,Hazitra 200mg Capsule,250.0,False,Medrix Labs Private Limited,allopathy,strip of 10 capsules,Itraconazole (200mg),
+105616,Highpod 200mg Tablet,195.0,False,Voopar Sciences Pvt Ltd,allopathy,strip of 10 tablets,Cefpodoxime Proxetil (200mg),
+105739,Halotide 0.05% Cream,95.0,False,Innovative Pharmaceuticals,allopathy,tube of 10 gm Cream,Halobetasol (0.05% w/w),
+103667,Histafree-M Tablet,139.9,False,Mankind Pharma Ltd,allopathy,strip of 10 tablets,Montelukast (10mg) , Fexofenadine (120mg)
+103768,Hexidine Mouth Wash,120.2,False,Icpa Health Products Ltd,allopathy,bottle of 160 ml Mouth Wash,Chlorhexidine Gluconate (0.2% w/v),
+104130,HP 200mg Tablet,180.0,False,Valcret Lifesciences Pvt Ltd,allopathy,strip of 10 tablets,Progesterone (Natural Micronized) (200mg),
+104566,HZN 25 Tablet,22.5,False,Forman Medics Pvt Ltd,allopathy,strip of 10 tablets,Hydroxyzine (25mg),
+105774,Hipen P 125mg Syrup,24.75,True,Zydus Healthcare Limited,allopathy,bottle of 30 ml Syrup,Amoxycillin (125mg),
+106328,Hycep Injection,39.4,False,Palco Healthcare,allopathy,vial of 1 Injection,Hydrocortisone (100mg),
+104743,Hyprovan 200 Injection,158.0,False,Celon Laboratories Ltd,allopathy,vial of 20 ml Injection,Propofol (200mg),
+105325,Hnd 50 Injection,133.0,False,H & Care Incorp,allopathy,box of 1 Injection,Nandrolone Decanoate (50mg),
+106137,Holymet-XL 50 Tablet,55.0,False,Holymed Pharma,allopathy,strip of 10 Tablet pr,Metoprolol Succinate (47.5mg),
+104488,Hactamox 500mg/125mg Tablet,168.0,False,Ravenbhel Pharmaceuticals Pvt Ltd,allopathy,strip of 6 tablets,Amoxycillin  (500mg) ,  Clavulanic Acid (125mg)
+107027,Hotpan D 10mg/40mg Tablet,71.0,False,Horean Healthcare Private Limited,allopathy,strip of 10 tablets,Domperidone (10mg) , Pantoprazole (40mg)
+105773,Habirab 20mg Tablet,79.0,False,Habitare Pharma,allopathy,strip of 10 tablets,Rabeprazole (20mg),
+104716,HQ 400mg Tablet,103.0,False,Vasu Organics Pvt Ltd,allopathy,strip of 10 tablets,Hydroxychloroquine (400mg),
+103843,Havrix  720 Junior Monodose Vaccine,2099.0,False,Glaxo SmithKline Pharmaceuticals Ltd,allopathy,vial of 0.5 ml Injection,Freeze-dried Live Attenuated Hepatitis A Vaccine (720ELISA),
+104469,Heparate-P Tablet,116.5,False,Integral Lifesciences,allopathy,strip of 10 tablets,L-Ornithine L-Aspartate (150mg) , Pancreatin (100mg)
+104851,Hertraz 150mg Injection,19500.0,False,Mylan Pharmaceuticals Pvt Ltd,allopathy,vial of 1 Injection,Trastuzumab (150mg),
+106546,Hernmp 400mg Tablet SR,485.0,False,Torrent Pharmaceuticals Ltd,allopathy,strip of 10 tablet sr,Progesterone (400mg),
+106060,Humenotropin HP 75IU Injection,1122.0,False,Shree Venkatesh International Limited,allopathy,box of 1 Injection,Menotrophin (75IU),
+107702,Hubexim-CL Tablet,171.0,False,Hublore Healthcare Pvt Ltd,allopathy,strip of 6 tablets,Cefixime (200mg) , Clavulanic Acid (125mg)
+104547,Hairjet Solution,335.0,False,Elkos Healthcare Pvt Ltd,allopathy,bottle of 60 ml Solution,Minoxidil (5% w/v) , Aminexil (1.5% w/v)
+106460,Histeen 16mg Tablet,75.0,False,Archmed Biotech Pvt Ltd,allopathy,strip of 10 tablets,Betahistine (16mg),
+105637,Hydruvia 25 Tablet,29.8,False,Vibcare Pharma Pvt Ltd,allopathy,strip of 10 tablets,Hydroxyzine (25mg),
+103855,Halox ES Ointment,170.0,False,Sun Pharmaceutical Industries Ltd,allopathy,tube of 10 gm Ointment,Halobetasol (0.05% w/w) , Salicylic Acid (6% w/w)
+103755,Hyane Eye Drop,454.0,False,Ajanta Pharma Ltd,allopathy,bottle of 10 ml Eye Drop,Sodium Hyaluronate (0.18% w/v),
+107657,Hifem 250mg Injection,85.0,False,Bioxtreme Pharma,allopathy,vial of 1 Injection,Hydroxyprogesterone (250mg),
+105782,Hinex 500mg Injection,56.0,False,Protech Telelinks,allopathy,vial of 1 Injection,Ceftriaxone (500mg),
+106942,Haemeron Injection,245.0,False,Samson Laboratories Pvt Ltd,allopathy,ampoule of 5 ml Injection,Iron Sucrose (100mg),
+104686,Hepsol 300 Tablet,270.0,False,Trove Pharmaceuticals,allopathy,strip of 6 tablets,Ursodeoxycholic Acid (300mg),
+105690,Hi-Cuf Syrup,37.0,False,ModHike Pvt Ltd,allopathy,bottle of 100 ml Syrup,Bromhexine (2mg) , Salbutamol (1mg) 
+104214,Hepaford Granules,150.0,False,Leeford Healthcare Ltd,allopathy,sachet of 5 gm Granules,L-Ornithine L-Aspartate (3gm),
+104635,Halozema 0.5% Cream,195.0,False,Medcure Organics Pvt Ltd,allopathy,tube of 30 gm Cream,Halobetasol (0.5% w/w),
+103977,Haldol 5mg Tablet,25.4,False,East West Pharma,allopathy,strip of 10 tablets,Haloperidol (5mg),
+107201,Hitkuf Tablet,49.0,False,Positif Life sciences,allopathy,strip of 10 tablets,Guaifenesin (100mg) , Bromhexine (8mg) 
+106979,Histocas 120mg Tablet,96.0,False,Medicasa Pharmaceutical,allopathy,strip of 10 tablets,Fexofenadine (120mg),
+104833,Helmox 500mg/125mg Tablet,101.6,False,H.L Healthcare Pvt Ltd,allopathy,strip of 6 tablets,Amoxycillin  (500mg) ,  Clavulanic Acid (125mg)
+104733,Hylorase 1500IU Injection,52.0,False,Biosena Lifescience,allopathy,vial of 1 ml Injection,Hyaluronidase (1500IU),
+107572,Hosik 250mg Injection,38.0,False,Hos & Ins,allopathy,vial of 2 ml Injection,Amikacin (250mg),
+105377,Hicef 1000mg Injection,52.08,False,Samarth Life Sciences Pvt Ltd,allopathy,vial of 1 Injection,Ceftriaxone (1000mg),
+104466,Heptulac Fiber Oral Solution,108.15,True,Cipla Ltd,allopathy,bottle of 100 ml Oral Solution,Lactulose (2.5gm/5ml),
+106435,Hicolist 1 MIU Injection,885.65,False,H & I Critical Care,allopathy,vial of 1 Injection,Colistimethate Sodium (1Million IU),
+104892,Hylerg 10 Tablet,25.0,False,Cosmederma Remedies,allopathy,strip of 10 tablets,Hydroxyzine (10mg),
+106824,Hilglic 80mg Tablet,34.2,False,Heal  India  Laboratories,allopathy,strip of 10 tablets,Gliclazide (80mg),
+103691,Hepakind 300mg Tablet,350.0,False,Mankind Pharma Ltd,allopathy,strip of 10 tablets,Ursodeoxycholic Acid (300mg),
+105204,Heplovir Capsule,1450.0,False,Leeford Healthcare Ltd,allopathy,bottle of 40 capsules,Ribavirin (200mg),
+106026,Htrop 2000IU Injection,317.31,False,Shreya Life Sciences Pvt Ltd,allopathy,vial of 2 ml Injection,Human chorionic gonadotropin (hCG) (2000IU),
+104681,Hyzix 10mg Tablet,19.0,False,Solace Biotech Ltd,allopathy,strip of 10 tablets,Hydroxyzine (10mg),
+104714,Hydrous T Eye Drop,499.0,False,Optho Life Sciences Pvt Ltd,allopathy,bottle of 10 ml Eye Drop,Sodium Hyaluronate (0.1% w/v),
+106841,Hicipro 500mg Tablet,60.0,False,The Pharmed Research Lab Pvt Ltd,allopathy,strip of 10 tablets,Ciprofloxacin (500mg),
+104073,Hyponat-O 30mg Tablet,490.0,True,Zydus Cadila,allopathy,strip of 10 tablets,Tolvaptan (30mg),
+104301,Hepaford 150mg Tablet,110.0,False,Leeford Healthcare Ltd,allopathy,strip of 10 tablets,L-Ornithine L-Aspartate (150mg),
+103888,Hb-Best Tablet,89.0,False,Woakes Pharma,allopathy,strip of 10 tablets,Ferrous Ascorbate (100mg) , Folic Acid (1.5mg)
+107391,Hadcif AZ 200mg/250mg Tablet,185.0,False,Ben Hadded Pharma Pvt Ltd,allopathy,strip of 10 tablets,Cefixime (200mg) , Azithromycin (250mg)
+105434,HYCLOT 500MG TABLET,100.0,False,Trio Remedies Pvt Ltd,allopathy,strip of 10 tablets,Ethamsylate (500mg),
+105442,Heartace 5mg Tablet,324.53,False,Biochem Pharmaceutical Industries,allopathy,strip of 10 tablets,Ramipril (5mg),
+107099,Hiclor 125mg Dry Syrup,82.8,False,Meddox Formulations,allopathy,bottle of 30 ml Dry Syrup,Cefaclor (125mg),
+104658,Hypercon 10 Tablet,80.0,False,Consern Pharma Limited,allopathy,strip of 10 tablets,Atomoxetine (10mg),
+104364,Hista CC Tablet,35.0,False,Genip  Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Caffeine (30mg) , Chlorpheniramine Maleate (4mg) 
+104797,Harrimet Trio 2 Tablet SR,99.0,False,HP Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablet sr,Glimepiride (2mg) , Metformin (1000mg) 
+105329,Holytel 40mg Tablet,40.0,False,Anax Lifescience,allopathy,strip of 10 tablets,Telmisartan (40mg),
+105519,Hepitec 100mg Tablet,565.0,False,Glaxo SmithKline Pharmaceuticals Ltd,allopathy,strip of 14 tablets,Lamivudine (100mg),
+106541,HB Pod 100mg Tablet,100.0,False,Health Biomed Pharma,allopathy,strip of 10 tablets,Cefpodoxime Proxetil (100mg),
+105843,Hairdruff 2% Shampoo,170.0,False,Carise Pharmaceuticals Pvt Ltd,allopathy,bottle of 100 ml Shampoo,Ketoconazole (2% w/v),
+104313,Hepacip Syrup,125.0,False,Regulus Pharmaceuticals,allopathy,bottle of 200 ml Syrup,Cyproheptadine (2mg) , Tricholine Citrate (275mg)
+104870,Hizone 10mg Tablet,25.0,False,Volks Biotech,allopathy,strip of 10 tablets,Hydroxyzine (10mg),
+106058,Hepaniv Syrup,89.0,False,Niya Biotech,allopathy,bottle of 200 ml Syrup,Cyproheptadine (2mg) , Tricholine Citrate (275mg)
+103838,Histafree Eye Drops,133.1,False,Mankind Pharma Ltd,allopathy,bottle of 5 ml Ophthalmic Solution,Olopatadine (0.1% w/v),
+104444,Hydrahair Plus Solution,600.0,False,Cyrus Remedies,allopathy,bottle of 60 ml Solution,Minoxidil (5% w/v) , Finasteride (0.1% w/v)
+105437,Hexinate 10mg/10mg Tablet,42.0,False,Kinesis Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Doxylamine (10mg) , Vitamin B6 (Pyridoxine) (10mg)
+105957,Hidine Eye Drop,79.0,False,Hicare Pharma,allopathy,packet of 5 ml Eye Drop,Olopatadine (0.1% w/v),
+105464,Highcef 250mg Tablet,220.0,False,Themis Medicare Ltd,allopathy,strip of 10 tablets,Cefuroxime (250mg),
+105209,Hivolt P Tablet,34.0,False,Astraea Life Sciences Pvt Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg)
+107258,Hyprogres 500mg Injection,74.0,False,Global Medisciences Ltd,allopathy,vial of 2 ml Injection,Hydroxyprogesterone (500mg),
+106238,Hipoflox 50mg Infusion,19.93,False,Marck Biosciences Ltd,allopathy,bottle of 100 ml Infusion,Ofloxacin (50mg),
+105071,Hirepa 2mg Tablet,230.0,False,Healing Pharma India Pvt Ltd,allopathy,strip of 10 tablets,Repaglinide (2mg),
+107268,Himsucolic Oral Drops,53.0,False,Godase Healthcare,allopathy,bottle of 15 ml Oral Drops,Dill Oil (0.005ml) , Fennel Oil (0.0007ml) 
+104160,Helcef AZ LB Tablet,260.0,False,H.L Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Cefixime (200mg) , Azithromycin (250mg) 
+103702,Hifenac SP 100mg/325mg/15mg Tablet,116.0,False,Intas Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg) 
+103957,Hytasone Injection,15000.0,False,Intas Pharmaceuticals Ltd,allopathy,prefilled syringe of 6 ml Injection,Hyaluronic Acid (8mg/ml),
+104097,Histolate Tablet,26.67,False,Ornate Labs Pvt Ltd,allopathy,strip of 10 tablets,Chlorpheniramine Maleate (NA) , Codeine (NA)
+104914,Hipzol 0.5 SR Tablet,50.0,False,Gamete Pharma Pvt Ltd,allopathy,strip of 10 tablet sr,Alprazolam (0.5mg),
+103984,Haloderm Cream,87.0,False,Micro Labs Ltd,allopathy,tube of 10 gm Cream,Halobetasol (0.05% w/w),
+107618,Himzolam 0.25mg Tablet,10.0,False,Himsagar Laboratories Ltd,allopathy,strip of 10 tablets,Alprazolam (0.25mg),
+106068,Herzan D 50mg/10mg Tablet,55.0,False,Health Guard India Pvt Ltd,allopathy,strip of 10 tablets,Diclofenac (50mg) , Serratiopeptidase (10mg)
+104794,Hexim-CV 625 Tablet,213.0,False,H & Care Incorp,allopathy,strip of 6 tablets,Cefuroxime (500mg) , Clavulanic Acid (125mg)
+104552,Hepaseal Tablet,130.0,False,Zegchem,allopathy,strip of 10 tablets,L-Ornithine L-Aspartate (250mg) , Silymarin (140mg)
+103870,Healsenz Ointment,218.9,False,Eris Lifesciences Ltd,allopathy,tube of 30 gm Ointment,Gabapentin (8% w/w) , Diclofenac (4.64% w/w) 
+103929,Hydrazide 25 Tablet,16.8,False,Cipla Ltd,allopathy,strip of 10 tablets,Hydrochlorothiazide (25mg),
+106265,Henzolid 100 Dry Syrup,121.0,False,Henin Lukinz Pvt Ltd,allopathy,bottle of 30 ml Oral Suspension,Linezolid (100mg/5ml),
+106343,Hiflox Eye Drop,43.0,False,Hicare Pharma,allopathy,packet of 5 ml Eye Drop,Ofloxacin (0.3% w/v),
+105115,Hept 2 Syrup,65.0,True,Corona Remedies Pvt Ltd,allopathy,bottle of 200 ml Syrup,Cyproheptadine (NA),
+105020,Halonet 20mg Tablet,37.0,False,Health Plan,allopathy,strip of 10 tablets,Fluoxetine (20mg),
+105978,Hslz Lotion,165.0,False,Hacks & Slacks Healthcare,allopathy,bottle of 30 ml Lotion,Luliconazole (1% w/v),
+105557,Hexim 250 Tablet,255.0,False,H & Care Incorp,allopathy,strip of 10 tablets,Cefuroxime (250mg),
+105356,H Cobal 1500mcg Injection,28.0,False,Symbiosis Pharmaceuticals Pvt Ltd,allopathy,ampoule of 1 Injection,Methylcobalamin (1500mcg),
+106017,Hemostic 500mg Injection,6.87,False,Alembic Pharmaceuticals Ltd,allopathy,vial of 2 ml Injection,Ethamsylate (500mg),
+103676,Hyponat-O 15 Tablet,618.14,False,Zydus Cadila,allopathy,strip of 10 tablets,Tolvaptan (15mg),
+105321,Hizide-FM Tablet,425.0,False,Ark Life Sciences Pvt Ltd,allopathy,strip of 30 tablets,Proanthocyanidin (75mg),
+104863,Hilmox 250mg Capsule,30.5,False,Hiral Labs Ltd,allopathy,strip of 10 capsules,Amoxycillin (250mg),
+104149,Herpesafe Cream,75.0,False,Alkem Laboratories Ltd,allopathy,tube of 10 gm Cream,Acyclovir (5% w/w),
+105156,Hoperab-DSR Capsule,119.75,False,Proqol Healthcare,allopathy,strip of 10 capsule sr,Domperidone (30mg) , Rabeprazole (20mg)
+105158,Hiltel 40mg Tablet,73.58,False,Heal  India  Laboratories,allopathy,strip of 10 tablets,Telmisartan (40mg),
+104388,Hmet Trio 2 Tablet SR,158.0,False,Jarun Pharmaceuticals,allopathy,strip of 10 tablet sr,Glimepiride (2mg) , Metformin (500mg) 
+104937,Hycet 10mg Tablet,20.0,False,Trio Remedies Pvt Ltd,allopathy,strip of 10 tablets,Cetirizine (10mg),
+105386,Histiol 16 Tablet,105.0,False,Heveren Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Betahistine (16mg),
+104067,HB Ford Injection,270.0,False,Leeford Healthcare Ltd,allopathy,vial of 5 ml Injection,Iron Sucrose (20mg/ml),
+107653,Hitbactum 1000mg/1000mg Injection,240.0,False,Intecare,allopathy,vial of 1 Injection,Cefoperazone (1000mg) , Sulbactam (1000mg)

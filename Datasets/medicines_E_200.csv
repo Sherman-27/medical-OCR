@@ -1,0 +1,201 @@
+id,name,price(₹),Is_discontinued,manufacturer_name,type,pack_size_label,short_composition1,short_composition2
+79534,Emopod 200mg Tablet,220.0,False,Emdok Pharmaceuticals,allopathy,strip of 10 tablets,Cefpodoxime Proxetil (200mg),
+83376,Eltrox 1000mg Injection,95.0,False,Elcure Pharmaceuticals,allopathy,vial of 1 Injection,Ceftriaxone (1000mg),
+79711,Entrofuran M Suspension,19.8,False,Deys Medical,allopathy,bottle of 60 ml Suspension,Furazolidone (30mg/5ml) , Metronidazole (100mg/5ml)
+75735,Esrio-DSR Capsule,110.0,False,Riomedica Healthcare Pvt Ltd,allopathy,strip of 10 capsule sr,Domperidone (30mg) , Esomeprazole (40mg)
+77938,Elpant 40mg Tablet,59.0,False,Elcliff Formulations Pvt Ltd,allopathy,strip of 10 tablets,Pantoprazole (40mg),
+80373,Encin 200mg Tablet,51.0,False,Endocard India Pvt Ltd,allopathy,strip of 10 tablets,Ofloxacin (200mg),
+78302,Esopic D 30mg/40mg Capsule SR,99.0,False,Astopic Lifescience,allopathy,strip of 10 capsule sr,Domperidone (30mg) , Esomeprazole (40mg)
+78454,Encet Mont Tablet,80.16,True,Endocard India Pvt Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Montelukast (10mg)
+78778,Ezisartan 80 Tablet,29.0,False,DR Best pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Telmisartan (80mg),
+82803,Eurofenac D 80mg/100mg Tablet,131.0,False,Euro Organics,allopathy,strip of 10 tablets,Drotaverine (80mg) , Aceclofenac (100mg)
+83923,Extclav 250mg/125mg Tablet,132.0,False,Best Biotech,allopathy,strip of 6 tablets,Amoxycillin  (250mg) ,  Clavulanic Acid (125mg)
+79676,Etoij Plus 60mg/325mg Tablet,91.0,False,Kiama Lifesciences,allopathy,strip of 10 tablets,Etoricoxib (60mg) , Paracetamol (325mg)
+72551,ED Save Tablet,215.0,False,Fourrts India Laboratories Pvt Ltd,allopathy,strip of 10 tablets,Tadalafil (5mg),
+76522,Euroder 77mg/23mg Tablet,3.2,False,Euro Biogenics,allopathy,strip of 10 tablets,Etofylline (77mg) , Theophylline (23mg)
+80805,Elmecob 500mcg Injection,12.5,False,Torrent Pharmaceuticals Ltd,allopathy,vial of 1 ml Injection,Methylcobalamin (500mcg),
+72506,Endogest 200 Capsule,343.16,False,Cipla Ltd,allopathy,strip of 10 soft gelatin capsules,Progesterone (Natural Micronized) (200mg),
+76658,Epirate Chrono 200 Tablet CR,54.0,False,ZDL(Zodiacal) Pharmaceutics Pvt.Ltd,allopathy,strip of 10 tablet cr,Sodium Valproate (133.5mg) , Valproic Acid (58mg)
+81628,Emfix 100mg Tablet,149.9,False,Emson Medichem Pvt Ltd,allopathy,strip of 10 tablets,Cefixime (100mg),
+76648,Esodaz-DSR Capsule,130.0,False,Dazzle Healthcare,allopathy,strip of 10 capsule pr,Domperidone (30mg) , Esomeprazole (40mg)
+80777,Eziok 500 Tablet,71.3,False,Anista Healthcare,allopathy,strip of 3 tablets,Azithromycin (500mg),
+76866,Esopan 40mg Tablet,55.0,False,Haaldane Laboratories Pvt Ltd,allopathy,strip of 10 tablets,Pantoprazole (40mg),
+74698,Enton 2.5mg/5mg/10mg Tablet,34.0,False,Apellon Biotech,allopathy,strip of 10 tablets,Clidinium (2.5mg) , Chlordiazepoxide (5mg) 
+74229,Emluz Cream,497.7,False,Emcure Pharmaceuticals Ltd,allopathy,tube of 40 gm Cream,Luliconazole (1% w/w),
+81435,Epopod 50mg Dry Syrup,58.0,False,Biocore Pharmaceuticals,allopathy,bottle of 30 ml Dry Syrup,Cefpodoxime Proxetil (50mg),
+82971,Eucefrox 500mg Tablet,240.0,False,Eugenics Medicare Pvt Ltd,allopathy,strip of 10 tablets,Cefuroxime (500mg),
+78425,Elpizole D 10 mg/20 mg Tablet,75.0,False,Orchid Chemicals & Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Domperidone (10mg) , Rabeprazole (20mg)
+79806,Exipain P 100mg/325mg Tablet,29.95,False,B.J.Healthcare,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Paracetamol (325mg)
+75108,Epigold 150mg Tablet XR,51.0,False,Kivi Labs Ltd,allopathy,strip of 10 tablet xr,Oxcarbazepine (150mg),
+79693,Etoroux TH 60mg/4mg Tablet,192.0,False,Doux Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Etoricoxib (60mg) , Thiocolchicoside (4mg)
+81892,Epirest 200mg/87mg Tablet CR,60.0,False,Neuro Life Science,allopathy,strip of 10 tablet cr,Sodium Valproate (200mg) , Valproic Acid (87mg)
+76346,Edicef 500mg Tablet,249.0,False,Edison Organics Pharmaceuticals,allopathy,strip of 6 tablets,Cefuroxime (500mg),
+83027,Ezicefix Dry Syrup,35.0,False,DR Best pharmaceuticals Pvt Ltd,allopathy,bottle of 30 ml Oral Suspension,Cefixime (50mg),
+78721,Eteez Beta 0.5mg/20mg Tablet,60.0,False,Humbing Ethicals,allopathy,strip of 10 tablets,Etizolam (0.5mg) , Propranolol (20mg)
+77711,Ecotel A 40 mg/5 mg Tablet,108.2,False,Ordain Health Care Global Pvt Ltd,allopathy,strip of 10 tablets,Telmisartan (40mg) , Amlodipine (5mg)
+74327,Ertafic 1gm Injection,3186.0,False,Gufic Bioscience Ltd,allopathy,vial of 1 Injection,Ertapenem (1gm),
+76986,Ericlon Tablet,20.0,False,Eridanus Healthcare,allopathy,strip of 10 tablets,Clonidine (100mcg),
+81762,Emoxin KID 125mg/125mg Tablet,17.25,False,M.M Labs,allopathy,strip of 6 tablets,Amoxycillin (125mg) , Cloxacillin (125mg)
+79196,Esamlovin 5mg Tablet,45.0,False,East West Pharma,allopathy,strip of 10 tablets,S-Amlodipine (5mg),
+77687,Epsnorm P 5 Tablet,37.0,False,Biologic Psychotropics India Pvt Ltd,allopathy,strip of 10 tablets,Procyclidine (5mg),
+82338,El Cef 500mg/500mg Injection,210.0,False,Eltis Organics,allopathy,vial of 1 Injection,Cefoperazone (500mg) , Sulbactam (500mg)
+76158,Esozole L 75mg/40mg Capsule SR,186.5,False,Enrico Pharmaceuticals,allopathy,strip of 10 capsule sr,Levosulpiride (75mg) , Esomeprazole (40mg)
+72405,Enzoflam-CT Tablet,281.0,False,Alkem Laboratories Ltd,allopathy,strip of 15 tablets,Trypsin Chymotrypsin (100000AU),
+82099,Elfate Suspension,67.38,False,Lancer Health Care Pvt Ltd,allopathy,bottle of 100 ml Suspension,Sucralfate (NA),
+77088,Esowin D 30 mg/40 mg Capsule SR,93.0,True,Winmark Pharmaceuticals Pvt Ltd,allopathy,strip of 10 capsule sr,Domperidone (30mg) , Esomeprazole (40mg)
+79454,Eximig 10mg Tablet,42.0,False,NeoSun Biotech India Pvt Ltd,allopathy,strip of 10 tablets,Flunarizine (10mg),
+72325,Econorm 250mg Capsule,221.0,True,Dr Reddy's Laboratories Ltd,allopathy,strip of 5 capsules,Saccharomyces boulardii (250mg),
+82179,Elspas-Plus Tablet,38.0,False,Elkos Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Dicyclomine (20mg) , Paracetamol (325mg)
+75825,Exgra 50mg Tablet,7.5,False,Troikaa Pharmaceuticals Ltd,allopathy,strip of 4 tablets,Sildenafil (50mg),
+77278,Ellium LC 0.25mg/10mg Tablet,80.0,False,Opsiscare Lifesciences Pvt Ltd,allopathy,strip of 10 tablets,Clonazepam (0.25mg) , Escitalopram Oxalate (10mg)
+80396,Ecin 500mg Injection,70.0,False,Evans Pharma,allopathy,vial of 2 ml Injection,Amikacin (500mg),
+82582,Eptuss LS Oral Drops,55.0,False,SanoreX Pharma,allopathy,bottle of 15 ml Oral Drops,Levosalbutamol (0.25mg/ml) , Ambroxol (7.5mg/ml) 
+77138,Eltram 50mg Tablet DT,52.0,False,Elite Pharma Pvt Ltd,allopathy,strip of 10 tablet dt,Tramadol (50mg),
+73802,Ecokast L Tablet,60.0,False,Votary Laboratories  I  Ltd,allopathy,strip of 10 tablets,Levocetirizine (5mg) , Montelukast (10mg)
+82279,Ediset 2mg Syrup,35.0,False,Edolf Healthcare Pvt Ltd,allopathy,bottle of 30 ml Syrup,Ondansetron (2mg),
+76893,Epitab 100mg Tablet,14.67,False,East West Pharma,allopathy,strip of 10 tablets,Phenytoin (100mg),
+83045,Erocxia TH 60mg/4mg Tablet,192.0,False,Hummed Healthcare,allopathy,strip of 10 tablets,Etoricoxib (60mg) , Thiocolchicoside (4mg)
+82882,Ecogat A 75 mg/400 mg Tablet,37.7,False,Torrent Pharmaceuticals Ltd,allopathy,strip of 5 tablets,Ambroxol (75mg) , Gatifloxacin (400mg)
+74019,Evadhea Tablet,450.0,False,Evasteo pharmaceuticals,allopathy,strip of 10 tablets,Dehydroepiandrosterone (Micronized) (75mg) , Folic Acid (1mg) 
+78359,Elzee 250mg Tablet DT,47.97,False,Elder Pharmaceuticals Ltd,allopathy,strip of 6 tablet dt,Azithromycin (250mg),
+83962,Ekocuf BR Syrup,68.0,False,Ekasar Lifescience,allopathy,bottle of 100 ml Syrup,Bromhexine (4mg/5ml) , Guaifenesin (50mg/5ml) 
+77904,Engit 0.5mg Tablet,59.9,False,Abrik Remedies Private Limited,allopathy,strip of 10 tablets,Etizolam (0.5mg),
+83456,Efexil Kid 125mg Tablet,19.0,False,Artel Laboratories,allopathy,strip of 10 tablets,Cefadroxil (125mg),
+81292,Epixime Dry Syrup,51.9,False,Epitome Life Sciences,allopathy,bottle of 30 ml Dry Syrup,Cefixime (50mg/5ml),
+72953,Epineuron SR Tablet,236.1,False,Aristo Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablet sr,Epalrestat (150mg) , Methylcobalamin (1500mcg)
+83884,Erbak 250mg Tablet,133.0,False,Shakam Lifesciences,allopathy,strip of 7 tablets,Terbinafine (250mg),
+80578,Efficacio-T 250mg/31.25mg Injection,49.0,False,Genesis Biotech Inc,allopathy,vial of 1 Powder for Injection,Ceftriaxone (250mg) , Tazobactum (31.25mg)
+83622,Eerab Tablet,67.0,False,Earth Biotech,allopathy,strip of 10 tablets,Rabeprazole (20mg),
+81049,Eldorab D 30mg/20mg Capsule SR,90.0,False,Sun Life Sciences Pvt Ltd,allopathy,strip of 10 capsule sr,Domperidone (30mg) , Rabeprazole (20mg)
+79573,Etothaksh-T 4 Tablet,220.0,False,Rexit Pharmaceutical,allopathy,strip of 10 tablets,Etoricoxib (60mg) , Thiocolchicoside (4mg)
+77317,Ecoseptic OZ Ointment,66.0,False,Helios Pharmaceuticals,allopathy,tube of 15 gm Ointment,Povidone Iodine (5% w/w) , Ornidazole (1% w/w)
+83633,Esuzole 40 Injection,110.0,False,Medifaith Biotech,allopathy,vial of 1 Injection,Esomeprazole (40mg),
+74997,Escident Mini 0.25mg/5mg Tablet,63.0,False,Ardent Life Sciences Pvt Ltd,allopathy,strip of 10 tablets,Clonazepam (0.25mg) , Escitalopram Oxalate (5mg)
+74430,Etom 90mg Tablet,88.0,False,Intra Labs India Pvt Ltd,allopathy,strip of 10 tablets,Etoricoxib (90mg),
+74914,Etizest 1 Tablet,95.0,False,Consern Pharma Limited,allopathy,strip of 10 tablets,Etizolam (1mg),
+75661,Elzen CT Tablet,95.0,False,Astranova Biotech,allopathy,strip of 10 tablets,Telmisartan (40mg) , Chlorthalidone (12.5mg)
+81289,Edawin 1.5mg Injection,499.0,False,Ikon Remedies Pvt Ltd,allopathy,vial of 20 ml Injection,Edaravone (1.5mg),
+78912,Eumox 500mg Capsule,95.0,False,Alpic Biotech Ltd,allopathy,strip of 10 capsules,Amoxycillin (500mg),
+81516,Emlone B Eye Drop,135.0,False,Novogen Captab,allopathy,bottle of 5 ml Eye Drop,Bromfenac (0.9% w/v) , Moxifloxacin (0.5% w/v)
+72407,Ebility Tablet,164.97,False,Abbott,allopathy,strip of 10 tablets,Diclofenac (50mg) , Paracetamol (325mg) 
+76193,Eliset 5 Tablet,36.0,False,Healthserch Pharma LLP,allopathy,strip of 10 tablets,Levocetirizine (5mg),
+73998,Eugid 16mg Tablet,66.0,False,Salas Pharmaceuticals,allopathy,strip of 10 tablets,Betahistine (16mg),
+80271,Esosap SL 75mg/40mg Capsule SR,188.0,False,Sapson Pharma,allopathy,strip of 10 capsule sr,Levosulpiride (75mg) , Esomeprazole (40mg)
+78415,Escigold Plus 0.5mg/10mg Tablet,76.3,False,Tweet India Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Clonazepam (0.5mg) , Escitalopram Oxalate (10mg)
+80077,Eurolam 0.5mg Tablet,23.0,False,Solitaire Pharmacia Pvt Ltd,allopathy,strip of 10 tablets,Alprazolam (0.5mg),
+83871,Eridic 75mg Injection,15.0,False,Erika Remedies,allopathy,vial of 1 ml Injection,Diclofenac (75mg),
+78052,Egocuf BR Syrup,60.0,False,Segos Biocare,allopathy,bottle of 100 ml Syrup,Bromhexine (4mg) , Guaifenesin (50mg) 
+79834,Etoriden-TH Tablet,168.0,False,Welgenic Pharma,allopathy,strip of 10 tablets,Etodolac (60mg) , Thiocolchicoside (4mg)
+72663,Enzomac D 50mg/15mg Tablet,167.0,False,Macleods Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Diclofenac (50mg) , Serratiopeptidase (15mg)
+81006,E Zon 1000mg Injection,69.0,False,Effect Biotech Inc,allopathy,vial of 1 Injection,Ceftriaxone (1000mg),
+79596,Extraclav 500mg/125mg Tablet,144.0,True,Timetech Formulations Ltd,allopathy,strip of 10 tablets,Amoxycillin  (500mg) ,  Clavulanic Acid (125mg)
+83904,Euroglic 80mg Tablet,33.0,False,Euro Biogenics,allopathy,strip of 10 tablets,Gliclazide (80mg),
+74315,Esoz 40mg Injection,129.0,False,Glenmark Pharmaceuticals Ltd,allopathy,vial of 1 Injection,Esomeprazole (40mg),
+74003,Erozol 200 Capsule,170.0,False,Micro Labs Ltd,allopathy,strip of 10 capsules,Itraconazole (200mg),
+79438,Etovish 90mg Tablet,83.75,False,Adesan Pharma,allopathy,strip of 10 tablets,Etoricoxib (90mg),
+83105,Europog 15mg Tablet,50.0,False,Euro Biogenics,allopathy,strip of 10 tablets,Pioglitazone (15mg),
+76445,Exvid 200mg Tablet,51.68,False,Excare Laboratories,allopathy,strip of 10 tablets,Ofloxacin (200mg),
+76013,Eljoint 50mg Tablet,89.0,False,Elfin Pharma Pvt Ltd,allopathy,strip of 10 tablets,Diacerein (50mg),
+79053,E-Fact CV 325 Tablet,180.0,False,Stenkem Molecules Pvt Ltd,allopathy,strip of 6 tablets,Cefpodoxime Proxetil (200mg) , Clavulanic Acid (125mg)
+83100,Elvozine-AM Capsule,55.0,False,Nova Indus Pharmaceuticals,allopathy,strip of 10 capsules,Levocetirizine (5mg) , Ambroxol (75mg)
+77477,Eledyl SF Expectorant,60.0,False,Wiscon Pharmaceuticals Pvt Ltd,allopathy,bottle of 100 ml Expectorant,Guaifenesin (50mg) , Terbutaline (1.25mg) 
+80380,Ecoglim 2mg Tablet,45.0,False,Icarus Healthcare Pvt Ltd,allopathy,strip of 10 tablets,Glimepiride (2mg),
+82245,Elox 200mg Tablet,48.16,False,Ethicare Pharma,allopathy,strip of 10 tablets,Ofloxacin (200mg),
+75404,Eztadiol Tablet,349.0,False,Uniza Healthcare LLP,allopathy,strip of 28 tablets,Estradiol (2mg),
+80966,Europen 500mg Injection,495.0,False,Medi Biotech Pvt Ltd,allopathy,vial of 1 Injection,Meropenem (500mg),
+81447,Esrab L 75mg/20mg Capsule SR,110.0,False,Esquire Drug House,allopathy,strip of 10 capsule sr,Levosulpiride (75mg) , Rabeprazole (20mg)
+74533,Espin-LT Tablet,169.0,False,Intas Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Losartan (50mg) , Amlodipine (2.5mg)
+74425,Ecexa 10mg Tablet,88.8,False,Biologic Psychotropics India Pvt Ltd,allopathy,strip of 10 tablets,Escitalopram Oxalate (10mg),
+74594,Enflam Yellow 50 mg/500 mg Tablet,5.0,False,Khandelwal Laboratories Pvt Ltd,allopathy,strip of 10 tablets,Diclofenac (50mg) , Paracetamol (500mg)
+75991,Etorofit 90 Tablet,119.0,False,Jaiwik Biotech,allopathy,strip of 10 tablets,Etoricoxib (90mg),
+80248,Etoripen 120mg Tablet,135.0,False,Morepen Laboratories Ltd,allopathy,strip of 10 tablets,Etoricoxib (120mg),
+78035,Eriquito 100 Tablet,50.0,False,Eridanus Healthcare,allopathy,strip of 10 tablets,Quetiapine (100mg),
+75798,Erectaid T 10mg Tablet,210.0,False,Medicare Pharma,allopathy,strip of 10 tablets,Tadalafil (10mg),
+78519,Etiways 0.5mg Tablet,35.95,False,Cronical Pharma Pvt Ltd,allopathy,strip of 10 tablets,Etizolam (0.5mg),
+74982,Epictal 100mg Syrup,409.92,False,Ipca Laboratories Ltd,allopathy,bottle of 100 ml Syrup,Levetiracetam (100mg),
+72425,Elfolin Plus Tablet,214.0,False,Intas Pharmaceuticals Ltd,allopathy,strip of 10 tablets,L-Methyl Folate (2.8mg) , Methylcobalamin (2mcg) 
+75033,Ephytol S Ointment,57.2,False,Pasteur Laboratories Pvt Ltd,allopathy,tube of 20 gm Ointment,Beclometasone (0.025% w/w) , Salicylic Acid (3% w/w)
+76406,Exigra 50mg Tablet,10.28,False,Wockhardt Ltd,allopathy,strip of 4 tablets,Sildenafil (50mg),
+81535,Etoripen 60mg Tablet,102.0,False,Morepen Laboratories Ltd,allopathy,strip of 10 tablets,Etoricoxib (60mg),
+81711,Escitosa 20mg Tablet,118.0,False,Sentosa Geigy (India) Labs Limited,allopathy,strip of 10 tablets,Escitalopram Oxalate (20mg),
+74434,Enoxion 40mg Injection,490.0,False,Neon Laboratories Ltd,allopathy,prefilled syringe of 0.4 ml Injection,Enoxaparin (40mg),
+76381,Esomin 40 Tablet,64.35,False,Medcure Pharma,allopathy,strip of 10 tablets,Esomeprazole (40mg),
+75327,Euspas 10 mg/250 mg Tablet,33.0,False,Group Pharmaceuticals Ltd,allopathy,strip of 10 tablets,Dicyclomine (10mg) , Mefenamic Acid (250mg)
+75834,Esmocard 100mg Injection,243.0,False,Troikaa Pharmaceuticals Ltd,allopathy,vial of 10 ml Injection,Esmolol (100mg),
+75613,Esopel-D Capsule SR,71.8,False,Medopharm,allopathy,strip of 10 capsule sr,Domperidone (30mg) , Esomeprazole (40mg)
+77458,Etovik 90 Tablet,80.0,False,Ekansh Pharma,allopathy,strip of 10 tablets,Etoricoxib (90mg),
+81153,Eclogard Cream,67.5,True,Wockhardt Ltd,allopathy,tube of 15 gm Cream,Terbinafine (1% w/w) , Clobetasol (0.05% w/w) 
+82215,Elbazol 200mg Suspension,16.0,False,Elikem Pharmaceuticals Pvt Ltd,allopathy,bottle of 10 ml Suspension,Albendazole (200mg),
+83882,Efta T 250mg/31.25mg Injection,106.0,False,H & Care Incorp,allopathy,vial of 1 Injection,Ceftazidime (250mg) , Tazobactum (31.25mg)
+81671,Emevom 4mg Tablet,42.0,False,Cogniwell Pharmaceuticals Private Limited,allopathy,strip of 10 tablets,Ondansetron (4mg),
+80512,Ebugesic  Tablet,15.86,False,Exotic Laboratories Pvt Ltd,allopathy,strip of 15 tablets,Ibuprofen (NA) , Paracetamol (NA)
+81501,Eklone 4mg Tablet,40.0,False,Ekansh Pharma,allopathy,strip of 10 tablets,Methylprednisolone (4mg),
+82270,Ectin-A 6mg/400mg Tablet,15.9,False,Elfin Pharma Pvt Ltd,allopathy,strip of 1 Tablet,Ivermectin  (6mg) ,  Albendazole (400mg)
+81691,Emyxim 200 Tablet,89.0,False,Empyreal Lifecare,allopathy,strip of 10 tablets,Cefixime (200mg),
+80554,Estoclav 500mg/125mg Tablet,123.5,False,Evaxo Pharma,allopathy,strip of 6 tablets,Amoxycillin  (500mg) ,  Clavulanic Acid (125mg)
+82298,Esirock 5 Tablet,53.0,False,Alathea Biotec Pvt Ltd,allopathy,strip of 10 tablets,Escitalopram Oxalate (5mg),
+73162,Etobest 400mg Tablet,79.0,False,Intra Life,allopathy,strip of 10 tablets,Etodolac (400mg),
+72860,Eklot 500 Tablet,143.0,False,Kontest Chemicals Ltd,allopathy,strip of 10 tablets,Ethamsylate (500mg),
+73977,Etizox 0.5mg Tablet,42.15,False,Oxford Pharmaceuticals Pvt Ltd,allopathy,strip of 10 tablets,Etizolam (0.5mg),
+83721,Elfodox 100 Oral Suspension,135.0,False,Walberg Pharmaceuticals,allopathy,bottle of 30 ml Oral Suspension,Cefpodoxime Proxetil (100mg),
+80964,Ezinerv NT 400mg/10mg Capsule,60.0,False,DR Best pharmaceuticals Pvt Ltd,allopathy,strip of 10 capsules,Gabapentin (400mg) , Nortriptyline (10mg)
+77012,Eldoxime 100mg Tablet DT,80.75,False,Elder Pharmaceuticals Ltd,allopathy,strip of 10 tablet dt,Cefixime (100mg),
+72610,Emidoxyn 5mg Tablet MD,81.9,False,Shreya Life Sciences Pvt Ltd,allopathy,strip of 10 tablet md,Prochlorperazine (5mg),
+75493,Embrox S Syrup,82.0,False,Encyclo Healthcare,allopathy,bottle of 100 ml Syrup,Ambroxol (15mg) , Guaifenesin (50mg) 
+79479,Esz-O Oral Suspension Mint Sugar Free,129.99,False,TBG pharma ltd,allopathy,bottle of 100 ml Oral Suspension,Sucralfate (1000mg/10ml) , Oxetacaine (20mg/10ml)
+80275,Esomipac 40mg Tablet,78.0,False,Pacific Meditech Pvt Ltd,allopathy,strip of 10 tablets,Esomeprazole (40mg),
+75764,Espcef 500 Tablet,270.0,False,Ronish Bioceuticals,allopathy,strip of 6 tablets,Cefuroxime (500mg),
+82145,Etozing 90mg Tablet,95.0,False,Aletron Pharmaceuticals,allopathy,strip of 10 tablets,Etoricoxib (90mg),
+82176,Eurocid D 10mg/20mg Capsule,60.0,False,Euro Biogenics,allopathy,strip of 10 capsules,Domperidone (10mg) , Omeprazole (20mg)
+80109,Etotrap TH 100mg/4mg Tablet,160.0,False,Tansy Molequle,allopathy,strip of 10 tablets,Aceclofenac (100mg) , Thiocolchicoside (4mg)
+75962,Esomast D 30mg/40mg Capsule SR,99.0,False,Biostreak Pharmaceuticals,allopathy,strip of 10 capsule sr,Domperidone (30mg) , Esomeprazole (40mg)
+78892,Extomef-P Oral Suspension,38.0,False,Extant Pharmaceutical,allopathy,bottle of 60 ml Oral Suspension,Mefenamic Acid (50mg) , Paracetamol (125mg)
+74036,Empara Forte Tablet,19.38,False,Signature Phytochemical Industries,allopathy,strip of 10 tablets,Paracetamol (650mg),
+81019,Esopel 20mg Tablet,39.75,False,Medopharm,allopathy,strip of 10 tablets,Esomeprazole (20mg),
+82079,Ezipod 100mg Tablet DT,115.0,False,Astronia Life Sciences,allopathy,strip of 10 tablet dt,Cefpodoxime Proxetil (100mg),
+79382,Eema R Fsh 300IU Injection,7500.0,True,Corona Remedies Pvt Ltd,allopathy,vial of 1 ml Injection,Recombinant follicle stimulating hormone (300IU),
+76125,Elrip 10mg Tablet,56.0,False,Elite Pharma Pvt Ltd,allopathy,strip of 10 tablets,Aripiprazole (10mg),
+76405,Etro-P 60mg/325mg Tablet,78.0,False,Allenge India,allopathy,strip of 10 tablets,Etoricoxib (60mg) , Paracetamol (325mg)
+72879,Etophylline Injection,40.5,False,Ciron Drugs & Pharmaceuticals Pvt Ltd,allopathy,vial of 2 ml Injection,Etofylline (84.7mg) , Theophylline (25.3mg)
+80728,Excodin Syrup,80.0,False,Gujarat Terce Laboratories Ltd,allopathy,bottle of 100 ml Syrup,Chlorpheniramine Maleate (4mg) , Codeine (10mg) 
+78467,Evocet M Kid Tablet,58.0,False,Comex Pharma,allopathy,strip of 10 tablets,Levocetirizine (2.5mg) , Montelukast (5mg)
+83658,Eurorab AF 200mg/20mg Capsule SR,99.0,False,Euro Organics,allopathy,strip of 10 capsule sr,Aceclofenac (200mg) , Rabeprazole (20mg)
+83868,Entun 250mg Tablet,297.5,False,Aeon Pharma Pvt Ltd,allopathy,strip of 10 tablets,Cefuroxime (250mg),
+73006,Epilive 750 Tablet,225.87,False,Lupin Ltd,allopathy,strip of 10 tablets,Levetiracetam (750mg),
+73733,Exodep 25mg Tablet,15.08,False,Sun Pharmaceutical Industries Ltd,allopathy,strip of 10 tablets,Dosulepin (25mg),
+79543,Esease 5 Tablet,50.0,False,Kuresys Labs,allopathy,strip of 10 tablets,Escitalopram Oxalate (5mg),
+74527,Esilo Plus 0.5mg/5mg Tablet,65.0,False,Bondane Pharma,allopathy,strip of 10 tablets,Clonazepam (0.5mg) , Escitalopram Oxalate (5mg)
+73519,Enzoshine Forte Tablet,415.0,False,Glaztar Lifesciences Pvt Ltd,allopathy,strip of 10 tablets,Bromelain (180mg) , Trypsin (96mg) 
+83990,Eezole 200mg Oral Suspension,18.65,False,Earth Biotech,allopathy,bottle of 10 ml Oral Suspension,Albendazole (200mg/5ml),
+74646,EMDERM 0.025% Cream,155.0,False,Versa Pharmaceuticals Private Limited,allopathy,tube of 15 gm Cream,Fluconazole (0.025% w/w),
+78509,Esmeron 100mg Injection,558.1,False,Organon (India) Ltd,allopathy,vial of 10 ml Injection,Rocuronium (100mg),
+80729,Elucin 250mg Tablet,22.5,False,Ind Swift Laboratories Ltd,allopathy,strip of 10 tablets,Erythromycin (250mg),
+79628,Ecotel-H Tablet,107.74,False,Ordain Health Care Global Pvt Ltd,allopathy,strip of 10 tablets,Telmisartan (40mg) , Hydrochlorothiazide (12.5mg)
+77968,Engecob 1500mcg Injection,49.5,False,NG Healthcare Pvt Ltd,allopathy,vial of 2 ml Injection,Methylcobalamin (1500mcg),
+75422,Enzokind Tablet,150.0,False,Nectar Pharma,allopathy,strip of 10 tablets,Bromelain (90mg) , Trypsin (48mg) 
+80218,Evorfab 80mg Tablet,130.0,False,Skyever Pharmaceuticals Private Limited,allopathy,strip of 10 tablets,Febuxostat (80mg),
+72353,Ezedoc 10 Tablet,172.7,False,Lupin Ltd,allopathy,strip of 10 tablets,Ezetimibe (10mg),
+74460,Etolyte 120mg Tablet,130.0,False,Leeford Healthcare Ltd,allopathy,strip of 10 tablets,Etoricoxib (120mg),
+75711,Ebmont 10mg Tablet,119.79,False,MMC Healthcare Ltd,allopathy,strip of 15 tablets,Montelukast (10mg),
+79997,Exnor TZ 400mg/600mg Tablet,50.0,False,Excare Laboratories,allopathy,strip of 10 tablets,Norfloxacin (400mg) , Tinidazole (600mg)
+78111,Eroxime CV 500mg/125mg Tablet,620.5,False,Ethics Health Care Pvt Ltd,allopathy,strip of 10 tablets,Cefuroxime (500mg) , Clavulanic Acid (125mg)
+74870,End Syrup,19.64,False,Acme Pharmaceutical,allopathy,bottle of 10 ml Syrup,Albendazole (NA),
+77923,EMADINE 5 MG TABLET,29.7,True,Merck Ltd,allopathy,strip of 10 tablets,Amlodipine (5mg),
+77798,Ele-M Kid Tablet,67.35,False,Ethics Health Care Pvt Ltd,allopathy,strip of 10 tablets,Levocetirizine (2.5mg) , Montelukast (4mg)
+79921,Endocin 100mg Injection,15.85,False,Adley Formulations,allopathy,vial of 1 Injection,Amikacin (100mg),
+73070,Edox 100mg Tablet DT,125.0,False,Unikind Pharma,allopathy,strip of 10 tablet dt,Cefpodoxime Proxetil (100mg),
+78540,Esterflox OZ 200mg/500mg Tablet,76.0,False,Ester Formulations,allopathy,strip of 10 tablets,Ofloxacin (200mg) , Ornidazole (500mg)
+72774,Ebast Suspension,66.0,False,Micro Labs Ltd,allopathy,bottle of 60 ml Suspension,Ebastine (5mg),
+80471,Extacef LB 100mg Tablet,80.0,False,Blue Cross Laboratories Ltd,allopathy,strip of 10 tablets,Cefixime (100mg) , Lactobacillus (40Million spores)
+74270,Excobal-GB Tablet,95.0,False,Zorex Pharma Pvt Ltd.,allopathy,strip of 10 tablets,Gabapentin (300mg) , Methylcobalamin (500mcg)
+80591,Etorgo TH 60mg/4mg Tablet,176.0,False,Zivago Pharma Private Limited,allopathy,strip of 10 tablets,Etoricoxib (60mg) , Thiocolchicoside (4mg)
+83355,Emopoz 20mg Capsule,50.93,False,Alde Medi Impex Ltd,allopathy,strip of 10 capsules,Omeprazole (20mg),
+76563,Ebalix 20mg Tablet,85.0,False,Bioclix Remedies,allopathy,strip of 10 tablets,Ebastine (20mg),
+74934,Emtreo Injection,15000.0,False,Emcure Pharmaceuticals Ltd,allopathy,vial of 1 Injection,Treosulfan (5gm),
+79839,Etomine 1mg Tablet,78.0,False,Shinto Organics (P) Limited,allopathy,strip of 10 tablets,Etizolam (1mg),
+73699,Epraz D 10mg/20mg Capsule,70.5,False,Desmark Formulations Pvt Ltd,allopathy,strip of 10 capsules,Domperidone (10mg) , Omeprazole (20mg)
+72767,EC Pan DSR Capsule,137.0,False,Icon Life Sciences,allopathy,strip of 10 capsule sr,Domperidone (30mg) , Pantoprazole (40mg)
+83599,Elzod 500mg Tablet,48.9,False,Health Guard India Pvt Ltd,allopathy,strip of 10 tablets,Ornidazole (500mg),
+82514,Expod CV 100mg/62.5mg Tablet,157.6,False,Meddox Formulations,allopathy,strip of 10 tablets,Cefpodoxime Proxetil (100mg) , Clavulanic Acid (62.5mg)
+72793,Enbrel 50mg Injection,17170.0,True,Pfizer Ltd,allopathy,vial of 10 ml Injection,Etanercept (50mg),
+81753,Ecip 500mg Tablet,50.0,False,Eoan Pharma,allopathy,strip of 10 tablets,Ciprofloxacin (500mg),
