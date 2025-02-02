@@ -1,0 +1,130 @@
+{% load static%}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Three Cards Layout</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100">
+
+    <header class="bg-white shadow-md p-4 flex items-center justify-between">
+        <img src="{% static '/images/logo.jpg' %}" alt="Logo" class="h-12">
+        <h1 class="text-2xl font-bold">CureStock.AI</h1>
+    </header>
+    <div class="flex flex-row items-center justify-center min-h-screen gap-6 p-4">
+
+        <div class="bg-red-500 text-white p-8 rounded-2xl shadow-lg w-full max-w-md text-center">
+            <h2 class="text-xl font-bold">Task Prioritization</h2>
+            <p>Manage and prioritize tasks.</p>
+
+            <div class="mt-4 flex">
+                <input type="text" id="taskInput" class="flex-1 px-3 py-2 text-black rounded-l-md focus:outline-none" placeholder="Enter a task">
+                <button onclick="addTask()" class="bg-white text-red-500 px-4 py-2 rounded-r-md font-bold hover:bg-gray-200 transition">
+                    Add
+                </button>
+            </div>
+
+            <ul id="taskList" class="mt-4 text-left space-y-2"></ul>
+        </div>
+
+        <div class="bg-blue-500 text-white p-8 rounded-2xl shadow-lg w-full max-w-md text-center">
+            <h2 class="text-xl font-bold">Blue Card</h2>
+            <p>Upload a file and analyze text.</p>
+
+            <input type="file" id="fileUpload" class="mt-4 block w-full text-white bg-blue-700 hover:bg-blue-800 px-4 py-2 rounded-md cursor-pointer">
+
+            <button id="analyzeButton" class="mt-4 bg-yellow-400 text-blue-900 px-4 py-2 rounded-md font-bold hover:bg-yellow-500 transition">
+                Analyze Text
+            </button>
+        </div>
+
+        <div class="bg-green-500 text-white p-8 rounded-2xl shadow-lg w-full max-w-md text-center">
+            <h2 class="text-xl font-bold">AI Chat</h2>
+            <p>Chat with an AI assistant.</p>
+
+            <div id="chatBox" class="bg-white text-black p-4 mt-4 h-40 overflow-y-auto rounded-md"></div>
+
+            <div class="mt-4 flex">
+                <input type="text" id="userInput" class="flex-1 px-3 py-2 text-black rounded-l-md focus:outline-none" placeholder="Type a message...">
+                <button onclick="sendMessage()" class="bg-white text-green-500 px-4 py-2 rounded-r-md font-bold hover:bg-gray-200 transition">
+                    Send
+                </button>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+
+        function addTask() {
+            let taskInput = document.getElementById("taskInput");
+            let taskList = document.getElementById("taskList");
+
+            if (taskInput.value.trim() !== "") {
+                let li = document.createElement("li");
+                li.className = "flex justify-between bg-white text-black p-2 rounded-md shadow";
+
+                let span = document.createElement("span");
+                span.textContent = taskInput.value;
+
+                let button = document.createElement("button");
+                button.textContent = "✔";
+                button.className = "ml-4 bg-green-500 text-white px-2 py-1 rounded";
+                button.onclick = function() {
+                    li.remove();
+                };
+
+                li.appendChild(span);
+                li.appendChild(button);
+                taskList.appendChild(li);
+
+                taskInput.value = "";
+            }
+        }
+
+        async function sendMessage() {
+            let userInput = document.getElementById("userInput").value;
+            let chatBox = document.getElementById("chatBox");
+
+            if (userInput.trim() === "") return;
+
+            let userMessage = document.createElement("div");
+            userMessage.className = "text-right text-white bg-green-700 p-2 rounded-md my-1";
+            userMessage.textContent = userInput;
+            chatBox.appendChild(userMessage);
+            chatBox.scrollTop = chatBox.scrollHeight;
+
+            document.getElementById("userInput").value = "";
+
+            try {
+                let response = await fetch("https://api.openai.com/v1/chat/completions", {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json",
+                        "Authorization": "Bearer YOUR_OPENAI_API_KEY"
+                    },
+                    body: JSON.stringify({
+                        model: "gpt-4",
+                        messages: [{ role: "user", content: userInput }]
+                    })
+                });
+
+                let data = await response.json();
+                let botMessage = document.createElement("div");
+                botMessage.className = "text-left text-black bg-white p-2 rounded-md my-1";
+                botMessage.textContent = data.choices[0].message.content;
+                chatBox.appendChild(botMessage);
+                chatBox.scrollTop = chatBox.scrollHeight;
+            } catch (error) {
+                let errorMessage = document.createElement("div");
+                errorMessage.className = "text-left text-red-500 bg-white p-2 rounded-md my-1";
+                errorMessage.textContent = "Error: Unable to reach AI.";
+                chatBox.appendChild(errorMessage);
+            }
+        }
+    </script>
+
+</body>
+</html>
