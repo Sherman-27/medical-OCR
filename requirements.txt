@@ -1,0 +1,7 @@
+python-dotenv
+pandas
+phonetics
+langchain
+openai
+faiss-cpu
+twilio
