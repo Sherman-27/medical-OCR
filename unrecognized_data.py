@@ -60,3 +60,5 @@ def handle_prescription(prescription_image, database_file="medicine_database.csv
 # Example Usage
 prescription_image = "amoxicillin.png"  # Placeholder image file
 handle_prescription(prescription_image, "Datasets\medicines_A_10.csv")
+
+# changes to be made in this file
